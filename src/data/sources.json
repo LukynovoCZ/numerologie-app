@@ -1,0 +1,14 @@
+[
+  {
+    "id": "western-conventions",
+    "title": "Běžné západní numerologické konvence",
+    "evidenceLevel": "traditional",
+    "description": "Výpočetní pravidla jsou explicitně definována v docs/METHODOLOGY.md. Nejde o vědeckou metodu ani ověřená pravidla Robin Stein."
+  },
+  {
+    "id": "editorial",
+    "title": "Vlastní redakční syntéza aplikace",
+    "evidenceLevel": "editorial_synthesis",
+    "description": "České interpretační texty, intenzivní linie a skóre jsou vlastními aplikačními konvencemi. Nejsou citacemi Robin Stein."
+  }
+]

@@ -1,0 +1,1552 @@
+{
+  "life:0": {
+    "title": "Otevřenost",
+    "short": "Životní číslo 0 může symbolicky vybízet k zaměření na více možností a práci bez jediného pevného tématu.",
+    "long": "V tomto symbolickém čtení představuje otevřenost námět k vlastnímu uvažování. U tématu „životní číslo“ byste mohli sledovat více možností a práci bez jediného pevného tématu. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro více možností a práci bez jediného pevného tématu.",
+    "activity": "Zkuste si vybrat jeden malý, dosažitelný záměr.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "life:1": {
+    "title": "Samostatnost",
+    "short": "Životní číslo 1 může symbolicky vybízet k zaměření na vlastní iniciativu a hledání osobního směru.",
+    "long": "V tomto symbolickém čtení představuje samostatnost námět k vlastnímu uvažování. U tématu „životní číslo“ byste mohli sledovat vlastní iniciativu a hledání osobního směru. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro vlastní iniciativu a hledání osobního směru.",
+    "activity": "Zapište si jeden krok, o kterém rozhodnete sami.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "life:2": {
+    "title": "Spolupráce",
+    "short": "Životní číslo 2 může symbolicky vybízet k zaměření na naslouchání, jemnost a vzájemnou podporu.",
+    "long": "V tomto symbolickém čtení představuje spolupráce námět k vlastnímu uvažování. U tématu „životní číslo“ byste mohli sledovat naslouchání, jemnost a vzájemnou podporu. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro naslouchání, jemnost a vzájemnou podporu.",
+    "activity": "Při rozhovoru nejprve vlastními slovy shrňte pohled druhého.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "life:3": {
+    "title": "Vyjádření",
+    "short": "Životní číslo 3 může symbolicky vybízet k zaměření na tvořivost, sdílení a radost z objevování.",
+    "long": "V tomto symbolickém čtení představuje vyjádření námět k vlastnímu uvažování. U tématu „životní číslo“ byste mohli sledovat tvořivost, sdílení a radost z objevování. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro tvořivost, sdílení a radost z objevování.",
+    "activity": "Věnujte deset minut volnému psaní nebo kreslení.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "life:4": {
+    "title": "Stabilita",
+    "short": "Životní číslo 4 může symbolicky vybízet k zaměření na pravidelnost, péči o detaily a praktické zázemí.",
+    "long": "V tomto symbolickém čtení představuje stabilita námět k vlastnímu uvažování. U tématu „životní číslo“ byste mohli sledovat pravidelnost, péči o detaily a praktické zázemí. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro pravidelnost, péči o detaily a praktické zázemí.",
+    "activity": "Rozdělte jeden velký úkol na tři malé kroky.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "life:5": {
+    "title": "Proměna",
+    "short": "Životní číslo 5 může symbolicky vybízet k zaměření na zvídavost, pohyb a zkoušení nových možností.",
+    "long": "V tomto symbolickém čtení představuje proměna námět k vlastnímu uvažování. U tématu „životní číslo“ byste mohli sledovat zvídavost, pohyb a zkoušení nových možností. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro zvídavost, pohyb a zkoušení nových možností.",
+    "activity": "Vyzkoušejte drobnou změnu své obvyklé rutiny.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "life:6": {
+    "title": "Péče",
+    "short": "Životní číslo 6 může symbolicky vybízet k zaměření na odpovědnost, blízkost a rovnováhu v péči.",
+    "long": "V tomto symbolickém čtení představuje péče námět k vlastnímu uvažování. U tématu „životní číslo“ byste mohli sledovat odpovědnost, blízkost a rovnováhu v péči. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro odpovědnost, blízkost a rovnováhu v péči.",
+    "activity": "Pojmenujte jednu svou potřebu i jednu hranici.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "life:7": {
+    "title": "Poznávání",
+    "short": "Životní číslo 7 může symbolicky vybízet k zaměření na soustředění, otázky a hledání souvislostí.",
+    "long": "V tomto symbolickém čtení představuje poznávání námět k vlastnímu uvažování. U tématu „životní číslo“ byste mohli sledovat soustředění, otázky a hledání souvislostí. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro soustředění, otázky a hledání souvislostí.",
+    "activity": "Dopřejte si chvíli ticha a zapište otázku, kterou chcete prozkoumat.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "life:8": {
+    "title": "Uskutečnění",
+    "short": "Životní číslo 8 může symbolicky vybízet k zaměření na vědomé zacházení se zdroji a dotahování záměrů.",
+    "long": "V tomto symbolickém čtení představuje uskutečnění námět k vlastnímu uvažování. U tématu „životní číslo“ byste mohli sledovat vědomé zacházení se zdroji a dotahování záměrů. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro vědomé zacházení se zdroji a dotahování záměrů.",
+    "activity": "Zkontrolujte, kam tento týden směřují váš čas a energie.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "life:9": {
+    "title": "Nadhled",
+    "short": "Životní číslo 9 může symbolicky vybízet k zaměření na sounáležitost, uzavírání a širší perspektivu.",
+    "long": "V tomto symbolickém čtení představuje nadhled námět k vlastnímu uvažování. U tématu „životní číslo“ byste mohli sledovat sounáležitost, uzavírání a širší perspektivu. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro sounáležitost, uzavírání a širší perspektivu.",
+    "activity": "Sepište, co si přejete dokončit a co už můžete pustit.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "life:11": {
+    "title": "Citlivá inspirace",
+    "short": "Životní číslo 11 může symbolicky vybízet k zaměření na propojení inspirace s pozorným nasloucháním.",
+    "long": "V tomto symbolickém čtení představuje citlivá inspirace námět k vlastnímu uvažování. U tématu „životní číslo“ byste mohli sledovat propojení inspirace s pozorným nasloucháním. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro propojení inspirace s pozorným nasloucháním.",
+    "activity": "Zachyťte nápad a připojte k němu jeden praktický krok.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "life:22": {
+    "title": "Vize a struktura",
+    "short": "Životní číslo 22 může symbolicky vybízet k zaměření na převádění širšího záměru do konkrétní podoby.",
+    "long": "V tomto symbolickém čtení představuje vize a struktura námět k vlastnímu uvažování. U tématu „životní číslo“ byste mohli sledovat převádění širšího záměru do konkrétní podoby. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro převádění širšího záměru do konkrétní podoby.",
+    "activity": "Vyberte nejmenší uskutečnitelnou část svého záměru.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "life:33": {
+    "title": "Sdílená péče",
+    "short": "Životní číslo 33 může symbolicky vybízet k zaměření na podporu druhých se zachováním vlastních hranic.",
+    "long": "V tomto symbolickém čtení představuje sdílená péče námět k vlastnímu uvažování. U tématu „životní číslo“ byste mohli sledovat podporu druhých se zachováním vlastních hranic. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro podporu druhých se zachováním vlastních hranic.",
+    "activity": "Zvažte, jak nabídnout pomoc, aniž byste přehlíželi vlastní potřeby.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "year:0": {
+    "title": "Otevřenost",
+    "short": "Osobní rok 0 může symbolicky vybízet k zaměření na více možností a práci bez jediného pevného tématu.",
+    "long": "V tomto symbolickém čtení představuje otevřenost námět k vlastnímu uvažování. U tématu „osobní rok“ byste mohli sledovat více možností a práci bez jediného pevného tématu. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro více možností a práci bez jediného pevného tématu.",
+    "activity": "Zkuste si vybrat jeden malý, dosažitelný záměr.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "year:1": {
+    "title": "Samostatnost",
+    "short": "Osobní rok 1 může symbolicky vybízet k zaměření na vlastní iniciativu a hledání osobního směru.",
+    "long": "V tomto symbolickém čtení představuje samostatnost námět k vlastnímu uvažování. U tématu „osobní rok“ byste mohli sledovat vlastní iniciativu a hledání osobního směru. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro vlastní iniciativu a hledání osobního směru.",
+    "activity": "Zapište si jeden krok, o kterém rozhodnete sami.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "year:2": {
+    "title": "Spolupráce",
+    "short": "Osobní rok 2 může symbolicky vybízet k zaměření na naslouchání, jemnost a vzájemnou podporu.",
+    "long": "V tomto symbolickém čtení představuje spolupráce námět k vlastnímu uvažování. U tématu „osobní rok“ byste mohli sledovat naslouchání, jemnost a vzájemnou podporu. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro naslouchání, jemnost a vzájemnou podporu.",
+    "activity": "Při rozhovoru nejprve vlastními slovy shrňte pohled druhého.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "year:3": {
+    "title": "Vyjádření",
+    "short": "Osobní rok 3 může symbolicky vybízet k zaměření na tvořivost, sdílení a radost z objevování.",
+    "long": "V tomto symbolickém čtení představuje vyjádření námět k vlastnímu uvažování. U tématu „osobní rok“ byste mohli sledovat tvořivost, sdílení a radost z objevování. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro tvořivost, sdílení a radost z objevování.",
+    "activity": "Věnujte deset minut volnému psaní nebo kreslení.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "year:4": {
+    "title": "Stabilita",
+    "short": "Osobní rok 4 může symbolicky vybízet k zaměření na pravidelnost, péči o detaily a praktické zázemí.",
+    "long": "V tomto symbolickém čtení představuje stabilita námět k vlastnímu uvažování. U tématu „osobní rok“ byste mohli sledovat pravidelnost, péči o detaily a praktické zázemí. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro pravidelnost, péči o detaily a praktické zázemí.",
+    "activity": "Rozdělte jeden velký úkol na tři malé kroky.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "year:5": {
+    "title": "Proměna",
+    "short": "Osobní rok 5 může symbolicky vybízet k zaměření na zvídavost, pohyb a zkoušení nových možností.",
+    "long": "V tomto symbolickém čtení představuje proměna námět k vlastnímu uvažování. U tématu „osobní rok“ byste mohli sledovat zvídavost, pohyb a zkoušení nových možností. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro zvídavost, pohyb a zkoušení nových možností.",
+    "activity": "Vyzkoušejte drobnou změnu své obvyklé rutiny.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "year:6": {
+    "title": "Péče",
+    "short": "Osobní rok 6 může symbolicky vybízet k zaměření na odpovědnost, blízkost a rovnováhu v péči.",
+    "long": "V tomto symbolickém čtení představuje péče námět k vlastnímu uvažování. U tématu „osobní rok“ byste mohli sledovat odpovědnost, blízkost a rovnováhu v péči. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro odpovědnost, blízkost a rovnováhu v péči.",
+    "activity": "Pojmenujte jednu svou potřebu i jednu hranici.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "year:7": {
+    "title": "Poznávání",
+    "short": "Osobní rok 7 může symbolicky vybízet k zaměření na soustředění, otázky a hledání souvislostí.",
+    "long": "V tomto symbolickém čtení představuje poznávání námět k vlastnímu uvažování. U tématu „osobní rok“ byste mohli sledovat soustředění, otázky a hledání souvislostí. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro soustředění, otázky a hledání souvislostí.",
+    "activity": "Dopřejte si chvíli ticha a zapište otázku, kterou chcete prozkoumat.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "year:8": {
+    "title": "Uskutečnění",
+    "short": "Osobní rok 8 může symbolicky vybízet k zaměření na vědomé zacházení se zdroji a dotahování záměrů.",
+    "long": "V tomto symbolickém čtení představuje uskutečnění námět k vlastnímu uvažování. U tématu „osobní rok“ byste mohli sledovat vědomé zacházení se zdroji a dotahování záměrů. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro vědomé zacházení se zdroji a dotahování záměrů.",
+    "activity": "Zkontrolujte, kam tento týden směřují váš čas a energie.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "year:9": {
+    "title": "Nadhled",
+    "short": "Osobní rok 9 může symbolicky vybízet k zaměření na sounáležitost, uzavírání a širší perspektivu.",
+    "long": "V tomto symbolickém čtení představuje nadhled námět k vlastnímu uvažování. U tématu „osobní rok“ byste mohli sledovat sounáležitost, uzavírání a širší perspektivu. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro sounáležitost, uzavírání a širší perspektivu.",
+    "activity": "Sepište, co si přejete dokončit a co už můžete pustit.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "year:11": {
+    "title": "Citlivá inspirace",
+    "short": "Osobní rok 11 může symbolicky vybízet k zaměření na propojení inspirace s pozorným nasloucháním.",
+    "long": "V tomto symbolickém čtení představuje citlivá inspirace námět k vlastnímu uvažování. U tématu „osobní rok“ byste mohli sledovat propojení inspirace s pozorným nasloucháním. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro propojení inspirace s pozorným nasloucháním.",
+    "activity": "Zachyťte nápad a připojte k němu jeden praktický krok.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "year:22": {
+    "title": "Vize a struktura",
+    "short": "Osobní rok 22 může symbolicky vybízet k zaměření na převádění širšího záměru do konkrétní podoby.",
+    "long": "V tomto symbolickém čtení představuje vize a struktura námět k vlastnímu uvažování. U tématu „osobní rok“ byste mohli sledovat převádění širšího záměru do konkrétní podoby. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro převádění širšího záměru do konkrétní podoby.",
+    "activity": "Vyberte nejmenší uskutečnitelnou část svého záměru.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "year:33": {
+    "title": "Sdílená péče",
+    "short": "Osobní rok 33 může symbolicky vybízet k zaměření na podporu druhých se zachováním vlastních hranic.",
+    "long": "V tomto symbolickém čtení představuje sdílená péče námět k vlastnímu uvažování. U tématu „osobní rok“ byste mohli sledovat podporu druhých se zachováním vlastních hranic. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro podporu druhých se zachováním vlastních hranic.",
+    "activity": "Zvažte, jak nabídnout pomoc, aniž byste přehlíželi vlastní potřeby.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "month:0": {
+    "title": "Otevřenost",
+    "short": "Osobní měsíc 0 může symbolicky vybízet k zaměření na více možností a práci bez jediného pevného tématu.",
+    "long": "V tomto symbolickém čtení představuje otevřenost námět k vlastnímu uvažování. U tématu „osobní měsíc“ byste mohli sledovat více možností a práci bez jediného pevného tématu. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro více možností a práci bez jediného pevného tématu.",
+    "activity": "Zkuste si vybrat jeden malý, dosažitelný záměr.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "month:1": {
+    "title": "Samostatnost",
+    "short": "Osobní měsíc 1 může symbolicky vybízet k zaměření na vlastní iniciativu a hledání osobního směru.",
+    "long": "V tomto symbolickém čtení představuje samostatnost námět k vlastnímu uvažování. U tématu „osobní měsíc“ byste mohli sledovat vlastní iniciativu a hledání osobního směru. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro vlastní iniciativu a hledání osobního směru.",
+    "activity": "Zapište si jeden krok, o kterém rozhodnete sami.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "month:2": {
+    "title": "Spolupráce",
+    "short": "Osobní měsíc 2 může symbolicky vybízet k zaměření na naslouchání, jemnost a vzájemnou podporu.",
+    "long": "V tomto symbolickém čtení představuje spolupráce námět k vlastnímu uvažování. U tématu „osobní měsíc“ byste mohli sledovat naslouchání, jemnost a vzájemnou podporu. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro naslouchání, jemnost a vzájemnou podporu.",
+    "activity": "Při rozhovoru nejprve vlastními slovy shrňte pohled druhého.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "month:3": {
+    "title": "Vyjádření",
+    "short": "Osobní měsíc 3 může symbolicky vybízet k zaměření na tvořivost, sdílení a radost z objevování.",
+    "long": "V tomto symbolickém čtení představuje vyjádření námět k vlastnímu uvažování. U tématu „osobní měsíc“ byste mohli sledovat tvořivost, sdílení a radost z objevování. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro tvořivost, sdílení a radost z objevování.",
+    "activity": "Věnujte deset minut volnému psaní nebo kreslení.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "month:4": {
+    "title": "Stabilita",
+    "short": "Osobní měsíc 4 může symbolicky vybízet k zaměření na pravidelnost, péči o detaily a praktické zázemí.",
+    "long": "V tomto symbolickém čtení představuje stabilita námět k vlastnímu uvažování. U tématu „osobní měsíc“ byste mohli sledovat pravidelnost, péči o detaily a praktické zázemí. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro pravidelnost, péči o detaily a praktické zázemí.",
+    "activity": "Rozdělte jeden velký úkol na tři malé kroky.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "month:5": {
+    "title": "Proměna",
+    "short": "Osobní měsíc 5 může symbolicky vybízet k zaměření na zvídavost, pohyb a zkoušení nových možností.",
+    "long": "V tomto symbolickém čtení představuje proměna námět k vlastnímu uvažování. U tématu „osobní měsíc“ byste mohli sledovat zvídavost, pohyb a zkoušení nových možností. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro zvídavost, pohyb a zkoušení nových možností.",
+    "activity": "Vyzkoušejte drobnou změnu své obvyklé rutiny.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "month:6": {
+    "title": "Péče",
+    "short": "Osobní měsíc 6 může symbolicky vybízet k zaměření na odpovědnost, blízkost a rovnováhu v péči.",
+    "long": "V tomto symbolickém čtení představuje péče námět k vlastnímu uvažování. U tématu „osobní měsíc“ byste mohli sledovat odpovědnost, blízkost a rovnováhu v péči. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro odpovědnost, blízkost a rovnováhu v péči.",
+    "activity": "Pojmenujte jednu svou potřebu i jednu hranici.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "month:7": {
+    "title": "Poznávání",
+    "short": "Osobní měsíc 7 může symbolicky vybízet k zaměření na soustředění, otázky a hledání souvislostí.",
+    "long": "V tomto symbolickém čtení představuje poznávání námět k vlastnímu uvažování. U tématu „osobní měsíc“ byste mohli sledovat soustředění, otázky a hledání souvislostí. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro soustředění, otázky a hledání souvislostí.",
+    "activity": "Dopřejte si chvíli ticha a zapište otázku, kterou chcete prozkoumat.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "month:8": {
+    "title": "Uskutečnění",
+    "short": "Osobní měsíc 8 může symbolicky vybízet k zaměření na vědomé zacházení se zdroji a dotahování záměrů.",
+    "long": "V tomto symbolickém čtení představuje uskutečnění námět k vlastnímu uvažování. U tématu „osobní měsíc“ byste mohli sledovat vědomé zacházení se zdroji a dotahování záměrů. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro vědomé zacházení se zdroji a dotahování záměrů.",
+    "activity": "Zkontrolujte, kam tento týden směřují váš čas a energie.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "month:9": {
+    "title": "Nadhled",
+    "short": "Osobní měsíc 9 může symbolicky vybízet k zaměření na sounáležitost, uzavírání a širší perspektivu.",
+    "long": "V tomto symbolickém čtení představuje nadhled námět k vlastnímu uvažování. U tématu „osobní měsíc“ byste mohli sledovat sounáležitost, uzavírání a širší perspektivu. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro sounáležitost, uzavírání a širší perspektivu.",
+    "activity": "Sepište, co si přejete dokončit a co už můžete pustit.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "month:11": {
+    "title": "Citlivá inspirace",
+    "short": "Osobní měsíc 11 může symbolicky vybízet k zaměření na propojení inspirace s pozorným nasloucháním.",
+    "long": "V tomto symbolickém čtení představuje citlivá inspirace námět k vlastnímu uvažování. U tématu „osobní měsíc“ byste mohli sledovat propojení inspirace s pozorným nasloucháním. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro propojení inspirace s pozorným nasloucháním.",
+    "activity": "Zachyťte nápad a připojte k němu jeden praktický krok.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "month:22": {
+    "title": "Vize a struktura",
+    "short": "Osobní měsíc 22 může symbolicky vybízet k zaměření na převádění širšího záměru do konkrétní podoby.",
+    "long": "V tomto symbolickém čtení představuje vize a struktura námět k vlastnímu uvažování. U tématu „osobní měsíc“ byste mohli sledovat převádění širšího záměru do konkrétní podoby. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro převádění širšího záměru do konkrétní podoby.",
+    "activity": "Vyberte nejmenší uskutečnitelnou část svého záměru.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "month:33": {
+    "title": "Sdílená péče",
+    "short": "Osobní měsíc 33 může symbolicky vybízet k zaměření na podporu druhých se zachováním vlastních hranic.",
+    "long": "V tomto symbolickém čtení představuje sdílená péče námět k vlastnímu uvažování. U tématu „osobní měsíc“ byste mohli sledovat podporu druhých se zachováním vlastních hranic. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro podporu druhých se zachováním vlastních hranic.",
+    "activity": "Zvažte, jak nabídnout pomoc, aniž byste přehlíželi vlastní potřeby.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "day:0": {
+    "title": "Otevřenost",
+    "short": "Osobní den 0 může symbolicky vybízet k zaměření na více možností a práci bez jediného pevného tématu.",
+    "long": "V tomto symbolickém čtení představuje otevřenost námět k vlastnímu uvažování. U tématu „osobní den“ byste mohli sledovat více možností a práci bez jediného pevného tématu. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro více možností a práci bez jediného pevného tématu.",
+    "activity": "Zkuste si vybrat jeden malý, dosažitelný záměr.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "day:1": {
+    "title": "Samostatnost",
+    "short": "Osobní den 1 může symbolicky vybízet k zaměření na vlastní iniciativu a hledání osobního směru.",
+    "long": "V tomto symbolickém čtení představuje samostatnost námět k vlastnímu uvažování. U tématu „osobní den“ byste mohli sledovat vlastní iniciativu a hledání osobního směru. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro vlastní iniciativu a hledání osobního směru.",
+    "activity": "Zapište si jeden krok, o kterém rozhodnete sami.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "day:2": {
+    "title": "Spolupráce",
+    "short": "Osobní den 2 může symbolicky vybízet k zaměření na naslouchání, jemnost a vzájemnou podporu.",
+    "long": "V tomto symbolickém čtení představuje spolupráce námět k vlastnímu uvažování. U tématu „osobní den“ byste mohli sledovat naslouchání, jemnost a vzájemnou podporu. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro naslouchání, jemnost a vzájemnou podporu.",
+    "activity": "Při rozhovoru nejprve vlastními slovy shrňte pohled druhého.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "day:3": {
+    "title": "Vyjádření",
+    "short": "Osobní den 3 může symbolicky vybízet k zaměření na tvořivost, sdílení a radost z objevování.",
+    "long": "V tomto symbolickém čtení představuje vyjádření námět k vlastnímu uvažování. U tématu „osobní den“ byste mohli sledovat tvořivost, sdílení a radost z objevování. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro tvořivost, sdílení a radost z objevování.",
+    "activity": "Věnujte deset minut volnému psaní nebo kreslení.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "day:4": {
+    "title": "Stabilita",
+    "short": "Osobní den 4 může symbolicky vybízet k zaměření na pravidelnost, péči o detaily a praktické zázemí.",
+    "long": "V tomto symbolickém čtení představuje stabilita námět k vlastnímu uvažování. U tématu „osobní den“ byste mohli sledovat pravidelnost, péči o detaily a praktické zázemí. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro pravidelnost, péči o detaily a praktické zázemí.",
+    "activity": "Rozdělte jeden velký úkol na tři malé kroky.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "day:5": {
+    "title": "Proměna",
+    "short": "Osobní den 5 může symbolicky vybízet k zaměření na zvídavost, pohyb a zkoušení nových možností.",
+    "long": "V tomto symbolickém čtení představuje proměna námět k vlastnímu uvažování. U tématu „osobní den“ byste mohli sledovat zvídavost, pohyb a zkoušení nových možností. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro zvídavost, pohyb a zkoušení nových možností.",
+    "activity": "Vyzkoušejte drobnou změnu své obvyklé rutiny.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "day:6": {
+    "title": "Péče",
+    "short": "Osobní den 6 může symbolicky vybízet k zaměření na odpovědnost, blízkost a rovnováhu v péči.",
+    "long": "V tomto symbolickém čtení představuje péče námět k vlastnímu uvažování. U tématu „osobní den“ byste mohli sledovat odpovědnost, blízkost a rovnováhu v péči. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro odpovědnost, blízkost a rovnováhu v péči.",
+    "activity": "Pojmenujte jednu svou potřebu i jednu hranici.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "day:7": {
+    "title": "Poznávání",
+    "short": "Osobní den 7 může symbolicky vybízet k zaměření na soustředění, otázky a hledání souvislostí.",
+    "long": "V tomto symbolickém čtení představuje poznávání námět k vlastnímu uvažování. U tématu „osobní den“ byste mohli sledovat soustředění, otázky a hledání souvislostí. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro soustředění, otázky a hledání souvislostí.",
+    "activity": "Dopřejte si chvíli ticha a zapište otázku, kterou chcete prozkoumat.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "day:8": {
+    "title": "Uskutečnění",
+    "short": "Osobní den 8 může symbolicky vybízet k zaměření na vědomé zacházení se zdroji a dotahování záměrů.",
+    "long": "V tomto symbolickém čtení představuje uskutečnění námět k vlastnímu uvažování. U tématu „osobní den“ byste mohli sledovat vědomé zacházení se zdroji a dotahování záměrů. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro vědomé zacházení se zdroji a dotahování záměrů.",
+    "activity": "Zkontrolujte, kam tento týden směřují váš čas a energie.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "day:9": {
+    "title": "Nadhled",
+    "short": "Osobní den 9 může symbolicky vybízet k zaměření na sounáležitost, uzavírání a širší perspektivu.",
+    "long": "V tomto symbolickém čtení představuje nadhled námět k vlastnímu uvažování. U tématu „osobní den“ byste mohli sledovat sounáležitost, uzavírání a širší perspektivu. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro sounáležitost, uzavírání a širší perspektivu.",
+    "activity": "Sepište, co si přejete dokončit a co už můžete pustit.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "day:11": {
+    "title": "Citlivá inspirace",
+    "short": "Osobní den 11 může symbolicky vybízet k zaměření na propojení inspirace s pozorným nasloucháním.",
+    "long": "V tomto symbolickém čtení představuje citlivá inspirace námět k vlastnímu uvažování. U tématu „osobní den“ byste mohli sledovat propojení inspirace s pozorným nasloucháním. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro propojení inspirace s pozorným nasloucháním.",
+    "activity": "Zachyťte nápad a připojte k němu jeden praktický krok.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "day:22": {
+    "title": "Vize a struktura",
+    "short": "Osobní den 22 může symbolicky vybízet k zaměření na převádění širšího záměru do konkrétní podoby.",
+    "long": "V tomto symbolickém čtení představuje vize a struktura námět k vlastnímu uvažování. U tématu „osobní den“ byste mohli sledovat převádění širšího záměru do konkrétní podoby. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro převádění širšího záměru do konkrétní podoby.",
+    "activity": "Vyberte nejmenší uskutečnitelnou část svého záměru.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "day:33": {
+    "title": "Sdílená péče",
+    "short": "Osobní den 33 může symbolicky vybízet k zaměření na podporu druhých se zachováním vlastních hranic.",
+    "long": "V tomto symbolickém čtení představuje sdílená péče námět k vlastnímu uvažování. U tématu „osobní den“ byste mohli sledovat podporu druhých se zachováním vlastních hranic. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro podporu druhých se zachováním vlastních hranic.",
+    "activity": "Zvažte, jak nabídnout pomoc, aniž byste přehlíželi vlastní potřeby.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "pinnacle:0": {
+    "title": "Otevřenost",
+    "short": "Vrchol 0 může symbolicky vybízet k zaměření na více možností a práci bez jediného pevného tématu.",
+    "long": "V tomto symbolickém čtení představuje otevřenost námět k vlastnímu uvažování. U tématu „vrchol“ byste mohli sledovat více možností a práci bez jediného pevného tématu. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro více možností a práci bez jediného pevného tématu.",
+    "activity": "Zkuste si vybrat jeden malý, dosažitelný záměr.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "pinnacle:1": {
+    "title": "Samostatnost",
+    "short": "Vrchol 1 může symbolicky vybízet k zaměření na vlastní iniciativu a hledání osobního směru.",
+    "long": "V tomto symbolickém čtení představuje samostatnost námět k vlastnímu uvažování. U tématu „vrchol“ byste mohli sledovat vlastní iniciativu a hledání osobního směru. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro vlastní iniciativu a hledání osobního směru.",
+    "activity": "Zapište si jeden krok, o kterém rozhodnete sami.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "pinnacle:2": {
+    "title": "Spolupráce",
+    "short": "Vrchol 2 může symbolicky vybízet k zaměření na naslouchání, jemnost a vzájemnou podporu.",
+    "long": "V tomto symbolickém čtení představuje spolupráce námět k vlastnímu uvažování. U tématu „vrchol“ byste mohli sledovat naslouchání, jemnost a vzájemnou podporu. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro naslouchání, jemnost a vzájemnou podporu.",
+    "activity": "Při rozhovoru nejprve vlastními slovy shrňte pohled druhého.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "pinnacle:3": {
+    "title": "Vyjádření",
+    "short": "Vrchol 3 může symbolicky vybízet k zaměření na tvořivost, sdílení a radost z objevování.",
+    "long": "V tomto symbolickém čtení představuje vyjádření námět k vlastnímu uvažování. U tématu „vrchol“ byste mohli sledovat tvořivost, sdílení a radost z objevování. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro tvořivost, sdílení a radost z objevování.",
+    "activity": "Věnujte deset minut volnému psaní nebo kreslení.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "pinnacle:4": {
+    "title": "Stabilita",
+    "short": "Vrchol 4 může symbolicky vybízet k zaměření na pravidelnost, péči o detaily a praktické zázemí.",
+    "long": "V tomto symbolickém čtení představuje stabilita námět k vlastnímu uvažování. U tématu „vrchol“ byste mohli sledovat pravidelnost, péči o detaily a praktické zázemí. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro pravidelnost, péči o detaily a praktické zázemí.",
+    "activity": "Rozdělte jeden velký úkol na tři malé kroky.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "pinnacle:5": {
+    "title": "Proměna",
+    "short": "Vrchol 5 může symbolicky vybízet k zaměření na zvídavost, pohyb a zkoušení nových možností.",
+    "long": "V tomto symbolickém čtení představuje proměna námět k vlastnímu uvažování. U tématu „vrchol“ byste mohli sledovat zvídavost, pohyb a zkoušení nových možností. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro zvídavost, pohyb a zkoušení nových možností.",
+    "activity": "Vyzkoušejte drobnou změnu své obvyklé rutiny.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "pinnacle:6": {
+    "title": "Péče",
+    "short": "Vrchol 6 může symbolicky vybízet k zaměření na odpovědnost, blízkost a rovnováhu v péči.",
+    "long": "V tomto symbolickém čtení představuje péče námět k vlastnímu uvažování. U tématu „vrchol“ byste mohli sledovat odpovědnost, blízkost a rovnováhu v péči. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro odpovědnost, blízkost a rovnováhu v péči.",
+    "activity": "Pojmenujte jednu svou potřebu i jednu hranici.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "pinnacle:7": {
+    "title": "Poznávání",
+    "short": "Vrchol 7 může symbolicky vybízet k zaměření na soustředění, otázky a hledání souvislostí.",
+    "long": "V tomto symbolickém čtení představuje poznávání námět k vlastnímu uvažování. U tématu „vrchol“ byste mohli sledovat soustředění, otázky a hledání souvislostí. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro soustředění, otázky a hledání souvislostí.",
+    "activity": "Dopřejte si chvíli ticha a zapište otázku, kterou chcete prozkoumat.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "pinnacle:8": {
+    "title": "Uskutečnění",
+    "short": "Vrchol 8 může symbolicky vybízet k zaměření na vědomé zacházení se zdroji a dotahování záměrů.",
+    "long": "V tomto symbolickém čtení představuje uskutečnění námět k vlastnímu uvažování. U tématu „vrchol“ byste mohli sledovat vědomé zacházení se zdroji a dotahování záměrů. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro vědomé zacházení se zdroji a dotahování záměrů.",
+    "activity": "Zkontrolujte, kam tento týden směřují váš čas a energie.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "pinnacle:9": {
+    "title": "Nadhled",
+    "short": "Vrchol 9 může symbolicky vybízet k zaměření na sounáležitost, uzavírání a širší perspektivu.",
+    "long": "V tomto symbolickém čtení představuje nadhled námět k vlastnímu uvažování. U tématu „vrchol“ byste mohli sledovat sounáležitost, uzavírání a širší perspektivu. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro sounáležitost, uzavírání a širší perspektivu.",
+    "activity": "Sepište, co si přejete dokončit a co už můžete pustit.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "pinnacle:11": {
+    "title": "Citlivá inspirace",
+    "short": "Vrchol 11 může symbolicky vybízet k zaměření na propojení inspirace s pozorným nasloucháním.",
+    "long": "V tomto symbolickém čtení představuje citlivá inspirace námět k vlastnímu uvažování. U tématu „vrchol“ byste mohli sledovat propojení inspirace s pozorným nasloucháním. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro propojení inspirace s pozorným nasloucháním.",
+    "activity": "Zachyťte nápad a připojte k němu jeden praktický krok.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "pinnacle:22": {
+    "title": "Vize a struktura",
+    "short": "Vrchol 22 může symbolicky vybízet k zaměření na převádění širšího záměru do konkrétní podoby.",
+    "long": "V tomto symbolickém čtení představuje vize a struktura námět k vlastnímu uvažování. U tématu „vrchol“ byste mohli sledovat převádění širšího záměru do konkrétní podoby. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro převádění širšího záměru do konkrétní podoby.",
+    "activity": "Vyberte nejmenší uskutečnitelnou část svého záměru.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "pinnacle:33": {
+    "title": "Sdílená péče",
+    "short": "Vrchol 33 může symbolicky vybízet k zaměření na podporu druhých se zachováním vlastních hranic.",
+    "long": "V tomto symbolickém čtení představuje sdílená péče námět k vlastnímu uvažování. U tématu „vrchol“ byste mohli sledovat podporu druhých se zachováním vlastních hranic. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro podporu druhých se zachováním vlastních hranic.",
+    "activity": "Zvažte, jak nabídnout pomoc, aniž byste přehlíželi vlastní potřeby.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "challenge:0": {
+    "title": "Otevřenost",
+    "short": "Výzva 0 může symbolicky vybízet k zaměření na více možností a práci bez jediného pevného tématu.",
+    "long": "V tomto symbolickém čtení představuje otevřenost námět k vlastnímu uvažování. U tématu „výzva“ byste mohli sledovat více možností a práci bez jediného pevného tématu. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro více možností a práci bez jediného pevného tématu.",
+    "activity": "Zkuste si vybrat jeden malý, dosažitelný záměr.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "challenge:1": {
+    "title": "Samostatnost",
+    "short": "Výzva 1 může symbolicky vybízet k zaměření na vlastní iniciativu a hledání osobního směru.",
+    "long": "V tomto symbolickém čtení představuje samostatnost námět k vlastnímu uvažování. U tématu „výzva“ byste mohli sledovat vlastní iniciativu a hledání osobního směru. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro vlastní iniciativu a hledání osobního směru.",
+    "activity": "Zapište si jeden krok, o kterém rozhodnete sami.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "challenge:2": {
+    "title": "Spolupráce",
+    "short": "Výzva 2 může symbolicky vybízet k zaměření na naslouchání, jemnost a vzájemnou podporu.",
+    "long": "V tomto symbolickém čtení představuje spolupráce námět k vlastnímu uvažování. U tématu „výzva“ byste mohli sledovat naslouchání, jemnost a vzájemnou podporu. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro naslouchání, jemnost a vzájemnou podporu.",
+    "activity": "Při rozhovoru nejprve vlastními slovy shrňte pohled druhého.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "challenge:3": {
+    "title": "Vyjádření",
+    "short": "Výzva 3 může symbolicky vybízet k zaměření na tvořivost, sdílení a radost z objevování.",
+    "long": "V tomto symbolickém čtení představuje vyjádření námět k vlastnímu uvažování. U tématu „výzva“ byste mohli sledovat tvořivost, sdílení a radost z objevování. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro tvořivost, sdílení a radost z objevování.",
+    "activity": "Věnujte deset minut volnému psaní nebo kreslení.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "challenge:4": {
+    "title": "Stabilita",
+    "short": "Výzva 4 může symbolicky vybízet k zaměření na pravidelnost, péči o detaily a praktické zázemí.",
+    "long": "V tomto symbolickém čtení představuje stabilita námět k vlastnímu uvažování. U tématu „výzva“ byste mohli sledovat pravidelnost, péči o detaily a praktické zázemí. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro pravidelnost, péči o detaily a praktické zázemí.",
+    "activity": "Rozdělte jeden velký úkol na tři malé kroky.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "challenge:5": {
+    "title": "Proměna",
+    "short": "Výzva 5 může symbolicky vybízet k zaměření na zvídavost, pohyb a zkoušení nových možností.",
+    "long": "V tomto symbolickém čtení představuje proměna námět k vlastnímu uvažování. U tématu „výzva“ byste mohli sledovat zvídavost, pohyb a zkoušení nových možností. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro zvídavost, pohyb a zkoušení nových možností.",
+    "activity": "Vyzkoušejte drobnou změnu své obvyklé rutiny.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "challenge:6": {
+    "title": "Péče",
+    "short": "Výzva 6 může symbolicky vybízet k zaměření na odpovědnost, blízkost a rovnováhu v péči.",
+    "long": "V tomto symbolickém čtení představuje péče námět k vlastnímu uvažování. U tématu „výzva“ byste mohli sledovat odpovědnost, blízkost a rovnováhu v péči. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro odpovědnost, blízkost a rovnováhu v péči.",
+    "activity": "Pojmenujte jednu svou potřebu i jednu hranici.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "challenge:7": {
+    "title": "Poznávání",
+    "short": "Výzva 7 může symbolicky vybízet k zaměření na soustředění, otázky a hledání souvislostí.",
+    "long": "V tomto symbolickém čtení představuje poznávání námět k vlastnímu uvažování. U tématu „výzva“ byste mohli sledovat soustředění, otázky a hledání souvislostí. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro soustředění, otázky a hledání souvislostí.",
+    "activity": "Dopřejte si chvíli ticha a zapište otázku, kterou chcete prozkoumat.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "challenge:8": {
+    "title": "Uskutečnění",
+    "short": "Výzva 8 může symbolicky vybízet k zaměření na vědomé zacházení se zdroji a dotahování záměrů.",
+    "long": "V tomto symbolickém čtení představuje uskutečnění námět k vlastnímu uvažování. U tématu „výzva“ byste mohli sledovat vědomé zacházení se zdroji a dotahování záměrů. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro vědomé zacházení se zdroji a dotahování záměrů.",
+    "activity": "Zkontrolujte, kam tento týden směřují váš čas a energie.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "challenge:9": {
+    "title": "Nadhled",
+    "short": "Výzva 9 může symbolicky vybízet k zaměření na sounáležitost, uzavírání a širší perspektivu.",
+    "long": "V tomto symbolickém čtení představuje nadhled námět k vlastnímu uvažování. U tématu „výzva“ byste mohli sledovat sounáležitost, uzavírání a širší perspektivu. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro sounáležitost, uzavírání a širší perspektivu.",
+    "activity": "Sepište, co si přejete dokončit a co už můžete pustit.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "challenge:11": {
+    "title": "Citlivá inspirace",
+    "short": "Výzva 11 může symbolicky vybízet k zaměření na propojení inspirace s pozorným nasloucháním.",
+    "long": "V tomto symbolickém čtení představuje citlivá inspirace námět k vlastnímu uvažování. U tématu „výzva“ byste mohli sledovat propojení inspirace s pozorným nasloucháním. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro propojení inspirace s pozorným nasloucháním.",
+    "activity": "Zachyťte nápad a připojte k němu jeden praktický krok.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "challenge:22": {
+    "title": "Vize a struktura",
+    "short": "Výzva 22 může symbolicky vybízet k zaměření na převádění širšího záměru do konkrétní podoby.",
+    "long": "V tomto symbolickém čtení představuje vize a struktura námět k vlastnímu uvažování. U tématu „výzva“ byste mohli sledovat převádění širšího záměru do konkrétní podoby. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro převádění širšího záměru do konkrétní podoby.",
+    "activity": "Vyberte nejmenší uskutečnitelnou část svého záměru.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "challenge:33": {
+    "title": "Sdílená péče",
+    "short": "Výzva 33 může symbolicky vybízet k zaměření na podporu druhých se zachováním vlastních hranic.",
+    "long": "V tomto symbolickém čtení představuje sdílená péče námět k vlastnímu uvažování. U tématu „výzva“ byste mohli sledovat podporu druhých se zachováním vlastních hranic. Berte text jako otevřenou otázku: co s vaší zkušeností souzní a co ne? Číslo samo nepopisuje vaši osobnost ani nepředpovídá události.",
+    "potential": "Prostor pro podporu druhých se zachováním vlastních hranic.",
+    "activity": "Zvažte, jak nabídnout pomoc, aniž byste přehlíželi vlastní potřeby.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:1:0": {
+    "title": "Samostatnost · v mřížce chybí",
+    "short": "V mřížce chybí. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
+    "long": "Číslice 1 zde symbolicky otevírá vlastní iniciativu a hledání osobního směru. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
+    "potential": "Mohli byste prozkoumat vlastní iniciativu a hledání osobního směru.",
+    "activity": "Zapište si jeden krok, o kterém rozhodnete sami.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:1:1": {
+    "title": "Samostatnost · jeden výskyt",
+    "short": "Jeden výskyt. Jeden výskyt nabízí jednoduchý symbolický podnět.",
+    "long": "Číslice 1 zde symbolicky otevírá vlastní iniciativu a hledání osobního směru. Jeden výskyt nabízí jednoduchý symbolický podnět.",
+    "potential": "Mohli byste prozkoumat vlastní iniciativu a hledání osobního směru.",
+    "activity": "Zapište si jeden krok, o kterém rozhodnete sami.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:1:2": {
+    "title": "Samostatnost · dva výskyty",
+    "short": "Dva výskyty. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
+    "long": "Číslice 1 zde symbolicky otevírá vlastní iniciativu a hledání osobního směru. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
+    "potential": "Mohli byste prozkoumat vlastní iniciativu a hledání osobního směru.",
+    "activity": "Zapište si jeden krok, o kterém rozhodnete sami.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:1:3": {
+    "title": "Samostatnost · tři výskyty",
+    "short": "Tři výskyty. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
+    "long": "Číslice 1 zde symbolicky otevírá vlastní iniciativu a hledání osobního směru. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
+    "potential": "Mohli byste prozkoumat vlastní iniciativu a hledání osobního směru.",
+    "activity": "Zapište si jeden krok, o kterém rozhodnete sami.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:1:4": {
+    "title": "Samostatnost · čtyři a více výskytů",
+    "short": "Čtyři a více výskytů. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
+    "long": "Číslice 1 zde symbolicky otevírá vlastní iniciativu a hledání osobního směru. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
+    "potential": "Mohli byste prozkoumat vlastní iniciativu a hledání osobního směru.",
+    "activity": "Zapište si jeden krok, o kterém rozhodnete sami.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:2:0": {
+    "title": "Spolupráce · v mřížce chybí",
+    "short": "V mřížce chybí. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
+    "long": "Číslice 2 zde symbolicky otevírá naslouchání, jemnost a vzájemnou podporu. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
+    "potential": "Mohli byste prozkoumat naslouchání, jemnost a vzájemnou podporu.",
+    "activity": "Při rozhovoru nejprve vlastními slovy shrňte pohled druhého.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:2:1": {
+    "title": "Spolupráce · jeden výskyt",
+    "short": "Jeden výskyt. Jeden výskyt nabízí jednoduchý symbolický podnět.",
+    "long": "Číslice 2 zde symbolicky otevírá naslouchání, jemnost a vzájemnou podporu. Jeden výskyt nabízí jednoduchý symbolický podnět.",
+    "potential": "Mohli byste prozkoumat naslouchání, jemnost a vzájemnou podporu.",
+    "activity": "Při rozhovoru nejprve vlastními slovy shrňte pohled druhého.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:2:2": {
+    "title": "Spolupráce · dva výskyty",
+    "short": "Dva výskyty. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
+    "long": "Číslice 2 zde symbolicky otevírá naslouchání, jemnost a vzájemnou podporu. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
+    "potential": "Mohli byste prozkoumat naslouchání, jemnost a vzájemnou podporu.",
+    "activity": "Při rozhovoru nejprve vlastními slovy shrňte pohled druhého.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:2:3": {
+    "title": "Spolupráce · tři výskyty",
+    "short": "Tři výskyty. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
+    "long": "Číslice 2 zde symbolicky otevírá naslouchání, jemnost a vzájemnou podporu. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
+    "potential": "Mohli byste prozkoumat naslouchání, jemnost a vzájemnou podporu.",
+    "activity": "Při rozhovoru nejprve vlastními slovy shrňte pohled druhého.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:2:4": {
+    "title": "Spolupráce · čtyři a více výskytů",
+    "short": "Čtyři a více výskytů. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
+    "long": "Číslice 2 zde symbolicky otevírá naslouchání, jemnost a vzájemnou podporu. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
+    "potential": "Mohli byste prozkoumat naslouchání, jemnost a vzájemnou podporu.",
+    "activity": "Při rozhovoru nejprve vlastními slovy shrňte pohled druhého.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:3:0": {
+    "title": "Vyjádření · v mřížce chybí",
+    "short": "V mřížce chybí. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
+    "long": "Číslice 3 zde symbolicky otevírá tvořivost, sdílení a radost z objevování. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
+    "potential": "Mohli byste prozkoumat tvořivost, sdílení a radost z objevování.",
+    "activity": "Věnujte deset minut volnému psaní nebo kreslení.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:3:1": {
+    "title": "Vyjádření · jeden výskyt",
+    "short": "Jeden výskyt. Jeden výskyt nabízí jednoduchý symbolický podnět.",
+    "long": "Číslice 3 zde symbolicky otevírá tvořivost, sdílení a radost z objevování. Jeden výskyt nabízí jednoduchý symbolický podnět.",
+    "potential": "Mohli byste prozkoumat tvořivost, sdílení a radost z objevování.",
+    "activity": "Věnujte deset minut volnému psaní nebo kreslení.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:3:2": {
+    "title": "Vyjádření · dva výskyty",
+    "short": "Dva výskyty. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
+    "long": "Číslice 3 zde symbolicky otevírá tvořivost, sdílení a radost z objevování. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
+    "potential": "Mohli byste prozkoumat tvořivost, sdílení a radost z objevování.",
+    "activity": "Věnujte deset minut volnému psaní nebo kreslení.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:3:3": {
+    "title": "Vyjádření · tři výskyty",
+    "short": "Tři výskyty. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
+    "long": "Číslice 3 zde symbolicky otevírá tvořivost, sdílení a radost z objevování. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
+    "potential": "Mohli byste prozkoumat tvořivost, sdílení a radost z objevování.",
+    "activity": "Věnujte deset minut volnému psaní nebo kreslení.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:3:4": {
+    "title": "Vyjádření · čtyři a více výskytů",
+    "short": "Čtyři a více výskytů. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
+    "long": "Číslice 3 zde symbolicky otevírá tvořivost, sdílení a radost z objevování. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
+    "potential": "Mohli byste prozkoumat tvořivost, sdílení a radost z objevování.",
+    "activity": "Věnujte deset minut volnému psaní nebo kreslení.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:4:0": {
+    "title": "Stabilita · v mřížce chybí",
+    "short": "V mřížce chybí. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
+    "long": "Číslice 4 zde symbolicky otevírá pravidelnost, péči o detaily a praktické zázemí. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
+    "potential": "Mohli byste prozkoumat pravidelnost, péči o detaily a praktické zázemí.",
+    "activity": "Rozdělte jeden velký úkol na tři malé kroky.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:4:1": {
+    "title": "Stabilita · jeden výskyt",
+    "short": "Jeden výskyt. Jeden výskyt nabízí jednoduchý symbolický podnět.",
+    "long": "Číslice 4 zde symbolicky otevírá pravidelnost, péči o detaily a praktické zázemí. Jeden výskyt nabízí jednoduchý symbolický podnět.",
+    "potential": "Mohli byste prozkoumat pravidelnost, péči o detaily a praktické zázemí.",
+    "activity": "Rozdělte jeden velký úkol na tři malé kroky.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:4:2": {
+    "title": "Stabilita · dva výskyty",
+    "short": "Dva výskyty. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
+    "long": "Číslice 4 zde symbolicky otevírá pravidelnost, péči o detaily a praktické zázemí. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
+    "potential": "Mohli byste prozkoumat pravidelnost, péči o detaily a praktické zázemí.",
+    "activity": "Rozdělte jeden velký úkol na tři malé kroky.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:4:3": {
+    "title": "Stabilita · tři výskyty",
+    "short": "Tři výskyty. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
+    "long": "Číslice 4 zde symbolicky otevírá pravidelnost, péči o detaily a praktické zázemí. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
+    "potential": "Mohli byste prozkoumat pravidelnost, péči o detaily a praktické zázemí.",
+    "activity": "Rozdělte jeden velký úkol na tři malé kroky.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:4:4": {
+    "title": "Stabilita · čtyři a více výskytů",
+    "short": "Čtyři a více výskytů. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
+    "long": "Číslice 4 zde symbolicky otevírá pravidelnost, péči o detaily a praktické zázemí. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
+    "potential": "Mohli byste prozkoumat pravidelnost, péči o detaily a praktické zázemí.",
+    "activity": "Rozdělte jeden velký úkol na tři malé kroky.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:5:0": {
+    "title": "Proměna · v mřížce chybí",
+    "short": "V mřížce chybí. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
+    "long": "Číslice 5 zde symbolicky otevírá zvídavost, pohyb a zkoušení nových možností. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
+    "potential": "Mohli byste prozkoumat zvídavost, pohyb a zkoušení nových možností.",
+    "activity": "Vyzkoušejte drobnou změnu své obvyklé rutiny.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:5:1": {
+    "title": "Proměna · jeden výskyt",
+    "short": "Jeden výskyt. Jeden výskyt nabízí jednoduchý symbolický podnět.",
+    "long": "Číslice 5 zde symbolicky otevírá zvídavost, pohyb a zkoušení nových možností. Jeden výskyt nabízí jednoduchý symbolický podnět.",
+    "potential": "Mohli byste prozkoumat zvídavost, pohyb a zkoušení nových možností.",
+    "activity": "Vyzkoušejte drobnou změnu své obvyklé rutiny.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:5:2": {
+    "title": "Proměna · dva výskyty",
+    "short": "Dva výskyty. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
+    "long": "Číslice 5 zde symbolicky otevírá zvídavost, pohyb a zkoušení nových možností. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
+    "potential": "Mohli byste prozkoumat zvídavost, pohyb a zkoušení nových možností.",
+    "activity": "Vyzkoušejte drobnou změnu své obvyklé rutiny.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:5:3": {
+    "title": "Proměna · tři výskyty",
+    "short": "Tři výskyty. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
+    "long": "Číslice 5 zde symbolicky otevírá zvídavost, pohyb a zkoušení nových možností. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
+    "potential": "Mohli byste prozkoumat zvídavost, pohyb a zkoušení nových možností.",
+    "activity": "Vyzkoušejte drobnou změnu své obvyklé rutiny.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:5:4": {
+    "title": "Proměna · čtyři a více výskytů",
+    "short": "Čtyři a více výskytů. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
+    "long": "Číslice 5 zde symbolicky otevírá zvídavost, pohyb a zkoušení nových možností. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
+    "potential": "Mohli byste prozkoumat zvídavost, pohyb a zkoušení nových možností.",
+    "activity": "Vyzkoušejte drobnou změnu své obvyklé rutiny.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:6:0": {
+    "title": "Péče · v mřížce chybí",
+    "short": "V mřížce chybí. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
+    "long": "Číslice 6 zde symbolicky otevírá odpovědnost, blízkost a rovnováhu v péči. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
+    "potential": "Mohli byste prozkoumat odpovědnost, blízkost a rovnováhu v péči.",
+    "activity": "Pojmenujte jednu svou potřebu i jednu hranici.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:6:1": {
+    "title": "Péče · jeden výskyt",
+    "short": "Jeden výskyt. Jeden výskyt nabízí jednoduchý symbolický podnět.",
+    "long": "Číslice 6 zde symbolicky otevírá odpovědnost, blízkost a rovnováhu v péči. Jeden výskyt nabízí jednoduchý symbolický podnět.",
+    "potential": "Mohli byste prozkoumat odpovědnost, blízkost a rovnováhu v péči.",
+    "activity": "Pojmenujte jednu svou potřebu i jednu hranici.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:6:2": {
+    "title": "Péče · dva výskyty",
+    "short": "Dva výskyty. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
+    "long": "Číslice 6 zde symbolicky otevírá odpovědnost, blízkost a rovnováhu v péči. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
+    "potential": "Mohli byste prozkoumat odpovědnost, blízkost a rovnováhu v péči.",
+    "activity": "Pojmenujte jednu svou potřebu i jednu hranici.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:6:3": {
+    "title": "Péče · tři výskyty",
+    "short": "Tři výskyty. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
+    "long": "Číslice 6 zde symbolicky otevírá odpovědnost, blízkost a rovnováhu v péči. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
+    "potential": "Mohli byste prozkoumat odpovědnost, blízkost a rovnováhu v péči.",
+    "activity": "Pojmenujte jednu svou potřebu i jednu hranici.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:6:4": {
+    "title": "Péče · čtyři a více výskytů",
+    "short": "Čtyři a více výskytů. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
+    "long": "Číslice 6 zde symbolicky otevírá odpovědnost, blízkost a rovnováhu v péči. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
+    "potential": "Mohli byste prozkoumat odpovědnost, blízkost a rovnováhu v péči.",
+    "activity": "Pojmenujte jednu svou potřebu i jednu hranici.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:7:0": {
+    "title": "Poznávání · v mřížce chybí",
+    "short": "V mřížce chybí. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
+    "long": "Číslice 7 zde symbolicky otevírá soustředění, otázky a hledání souvislostí. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
+    "potential": "Mohli byste prozkoumat soustředění, otázky a hledání souvislostí.",
+    "activity": "Dopřejte si chvíli ticha a zapište otázku, kterou chcete prozkoumat.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:7:1": {
+    "title": "Poznávání · jeden výskyt",
+    "short": "Jeden výskyt. Jeden výskyt nabízí jednoduchý symbolický podnět.",
+    "long": "Číslice 7 zde symbolicky otevírá soustředění, otázky a hledání souvislostí. Jeden výskyt nabízí jednoduchý symbolický podnět.",
+    "potential": "Mohli byste prozkoumat soustředění, otázky a hledání souvislostí.",
+    "activity": "Dopřejte si chvíli ticha a zapište otázku, kterou chcete prozkoumat.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:7:2": {
+    "title": "Poznávání · dva výskyty",
+    "short": "Dva výskyty. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
+    "long": "Číslice 7 zde symbolicky otevírá soustředění, otázky a hledání souvislostí. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
+    "potential": "Mohli byste prozkoumat soustředění, otázky a hledání souvislostí.",
+    "activity": "Dopřejte si chvíli ticha a zapište otázku, kterou chcete prozkoumat.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:7:3": {
+    "title": "Poznávání · tři výskyty",
+    "short": "Tři výskyty. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
+    "long": "Číslice 7 zde symbolicky otevírá soustředění, otázky a hledání souvislostí. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
+    "potential": "Mohli byste prozkoumat soustředění, otázky a hledání souvislostí.",
+    "activity": "Dopřejte si chvíli ticha a zapište otázku, kterou chcete prozkoumat.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:7:4": {
+    "title": "Poznávání · čtyři a více výskytů",
+    "short": "Čtyři a více výskytů. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
+    "long": "Číslice 7 zde symbolicky otevírá soustředění, otázky a hledání souvislostí. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
+    "potential": "Mohli byste prozkoumat soustředění, otázky a hledání souvislostí.",
+    "activity": "Dopřejte si chvíli ticha a zapište otázku, kterou chcete prozkoumat.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:8:0": {
+    "title": "Uskutečnění · v mřížce chybí",
+    "short": "V mřížce chybí. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
+    "long": "Číslice 8 zde symbolicky otevírá vědomé zacházení se zdroji a dotahování záměrů. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
+    "potential": "Mohli byste prozkoumat vědomé zacházení se zdroji a dotahování záměrů.",
+    "activity": "Zkontrolujte, kam tento týden směřují váš čas a energie.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:8:1": {
+    "title": "Uskutečnění · jeden výskyt",
+    "short": "Jeden výskyt. Jeden výskyt nabízí jednoduchý symbolický podnět.",
+    "long": "Číslice 8 zde symbolicky otevírá vědomé zacházení se zdroji a dotahování záměrů. Jeden výskyt nabízí jednoduchý symbolický podnět.",
+    "potential": "Mohli byste prozkoumat vědomé zacházení se zdroji a dotahování záměrů.",
+    "activity": "Zkontrolujte, kam tento týden směřují váš čas a energie.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:8:2": {
+    "title": "Uskutečnění · dva výskyty",
+    "short": "Dva výskyty. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
+    "long": "Číslice 8 zde symbolicky otevírá vědomé zacházení se zdroji a dotahování záměrů. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
+    "potential": "Mohli byste prozkoumat vědomé zacházení se zdroji a dotahování záměrů.",
+    "activity": "Zkontrolujte, kam tento týden směřují váš čas a energie.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:8:3": {
+    "title": "Uskutečnění · tři výskyty",
+    "short": "Tři výskyty. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
+    "long": "Číslice 8 zde symbolicky otevírá vědomé zacházení se zdroji a dotahování záměrů. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
+    "potential": "Mohli byste prozkoumat vědomé zacházení se zdroji a dotahování záměrů.",
+    "activity": "Zkontrolujte, kam tento týden směřují váš čas a energie.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:8:4": {
+    "title": "Uskutečnění · čtyři a více výskytů",
+    "short": "Čtyři a více výskytů. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
+    "long": "Číslice 8 zde symbolicky otevírá vědomé zacházení se zdroji a dotahování záměrů. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
+    "potential": "Mohli byste prozkoumat vědomé zacházení se zdroji a dotahování záměrů.",
+    "activity": "Zkontrolujte, kam tento týden směřují váš čas a energie.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:9:0": {
+    "title": "Nadhled · v mřížce chybí",
+    "short": "V mřížce chybí. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
+    "long": "Číslice 9 zde symbolicky otevírá sounáležitost, uzavírání a širší perspektivu. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
+    "potential": "Mohli byste prozkoumat sounáležitost, uzavírání a širší perspektivu.",
+    "activity": "Sepište, co si přejete dokončit a co už můžete pustit.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:9:1": {
+    "title": "Nadhled · jeden výskyt",
+    "short": "Jeden výskyt. Jeden výskyt nabízí jednoduchý symbolický podnět.",
+    "long": "Číslice 9 zde symbolicky otevírá sounáležitost, uzavírání a širší perspektivu. Jeden výskyt nabízí jednoduchý symbolický podnět.",
+    "potential": "Mohli byste prozkoumat sounáležitost, uzavírání a širší perspektivu.",
+    "activity": "Sepište, co si přejete dokončit a co už můžete pustit.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:9:2": {
+    "title": "Nadhled · dva výskyty",
+    "short": "Dva výskyty. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
+    "long": "Číslice 9 zde symbolicky otevírá sounáležitost, uzavírání a širší perspektivu. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
+    "potential": "Mohli byste prozkoumat sounáležitost, uzavírání a širší perspektivu.",
+    "activity": "Sepište, co si přejete dokončit a co už můžete pustit.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:9:3": {
+    "title": "Nadhled · tři výskyty",
+    "short": "Tři výskyty. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
+    "long": "Číslice 9 zde symbolicky otevírá sounáležitost, uzavírání a širší perspektivu. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
+    "potential": "Mohli byste prozkoumat sounáležitost, uzavírání a širší perspektivu.",
+    "activity": "Sepište, co si přejete dokončit a co už můžete pustit.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "count:9:4": {
+    "title": "Nadhled · čtyři a více výskytů",
+    "short": "Čtyři a více výskytů. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
+    "long": "Číslice 9 zde symbolicky otevírá sounáležitost, uzavírání a širší perspektivu. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
+    "potential": "Mohli byste prozkoumat sounáležitost, uzavírání a širší perspektivu.",
+    "activity": "Sepište, co si přejete dokončit a co už můžete pustit.",
+    "sourceId": "editorial",
+    "sourceRefs": ["editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "line:1-4-7:0": {
+    "title": "Prázdná linie",
+    "short": "Prázdná linie: symbolický podnět pro praktické kroky.",
+    "long": "Žádná z číslic této linie v datu není. Nejde o chybějící schopnost; prázdná linie může být podnětem k vědomému objevování.",
+    "potential": "Prostor pro praktické kroky v podobě, kterou si sami zvolíte.",
+    "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat praktické kroky.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "line:1-4-7:1": {
+    "title": "Jedno obsazené pole",
+    "short": "Jedno obsazené pole: symbolický podnět pro praktické kroky.",
+    "long": "V datu je zastoupena jedna ze tří číslic. Zkuste si všimnout, jak toto dílčí téma zapadá do každodenní zkušenosti.",
+    "potential": "Prostor pro praktické kroky v podobě, kterou si sami zvolíte.",
+    "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat praktické kroky.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "line:1-4-7:2": {
+    "title": "Dvě obsazená pole",
+    "short": "Dvě obsazená pole: symbolický podnět pro praktické kroky.",
+    "long": "V datu jsou zastoupeny dvě ze tří číslic. Můžete zkoumat vztah mezi přítomnými motivy a tématem zbývající pozice.",
+    "potential": "Prostor pro praktické kroky v podobě, kterou si sami zvolíte.",
+    "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat praktické kroky.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "line:1-4-7:3": {
+    "title": "Plná linie",
+    "short": "Plná linie: symbolický podnět pro praktické kroky.",
+    "long": "V datu jsou zastoupeny všechny tři číslice. Plnost vyjadřuje zastoupení číslic, nikoli úroveň schopností.",
+    "potential": "Prostor pro praktické kroky v podobě, kterou si sami zvolíte.",
+    "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat praktické kroky.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "line:2-5-8:0": {
+    "title": "Prázdná linie",
+    "short": "Prázdná linie: symbolický podnět pro citovou rovnováhu.",
+    "long": "Žádná z číslic této linie v datu není. Nejde o chybějící schopnost; prázdná linie může být podnětem k vědomému objevování.",
+    "potential": "Prostor pro citovou rovnováhu v podobě, kterou si sami zvolíte.",
+    "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat citovou rovnováhu.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "line:2-5-8:1": {
+    "title": "Jedno obsazené pole",
+    "short": "Jedno obsazené pole: symbolický podnět pro citovou rovnováhu.",
+    "long": "V datu je zastoupena jedna ze tří číslic. Zkuste si všimnout, jak toto dílčí téma zapadá do každodenní zkušenosti.",
+    "potential": "Prostor pro citovou rovnováhu v podobě, kterou si sami zvolíte.",
+    "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat citovou rovnováhu.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "line:2-5-8:2": {
+    "title": "Dvě obsazená pole",
+    "short": "Dvě obsazená pole: symbolický podnět pro citovou rovnováhu.",
+    "long": "V datu jsou zastoupeny dvě ze tří číslic. Můžete zkoumat vztah mezi přítomnými motivy a tématem zbývající pozice.",
+    "potential": "Prostor pro citovou rovnováhu v podobě, kterou si sami zvolíte.",
+    "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat citovou rovnováhu.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "line:2-5-8:3": {
+    "title": "Plná linie",
+    "short": "Plná linie: symbolický podnět pro citovou rovnováhu.",
+    "long": "V datu jsou zastoupeny všechny tři číslice. Plnost vyjadřuje zastoupení číslic, nikoli úroveň schopností.",
+    "potential": "Prostor pro citovou rovnováhu v podobě, kterou si sami zvolíte.",
+    "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat citovou rovnováhu.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "line:3-6-9:0": {
+    "title": "Prázdná linie",
+    "short": "Prázdná linie: symbolický podnět pro práci s myšlenkami.",
+    "long": "Žádná z číslic této linie v datu není. Nejde o chybějící schopnost; prázdná linie může být podnětem k vědomému objevování.",
+    "potential": "Prostor pro práci s myšlenkami v podobě, kterou si sami zvolíte.",
+    "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat práci s myšlenkami.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "line:3-6-9:1": {
+    "title": "Jedno obsazené pole",
+    "short": "Jedno obsazené pole: symbolický podnět pro práci s myšlenkami.",
+    "long": "V datu je zastoupena jedna ze tří číslic. Zkuste si všimnout, jak toto dílčí téma zapadá do každodenní zkušenosti.",
+    "potential": "Prostor pro práci s myšlenkami v podobě, kterou si sami zvolíte.",
+    "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat práci s myšlenkami.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "line:3-6-9:2": {
+    "title": "Dvě obsazená pole",
+    "short": "Dvě obsazená pole: symbolický podnět pro práci s myšlenkami.",
+    "long": "V datu jsou zastoupeny dvě ze tří číslic. Můžete zkoumat vztah mezi přítomnými motivy a tématem zbývající pozice.",
+    "potential": "Prostor pro práci s myšlenkami v podobě, kterou si sami zvolíte.",
+    "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat práci s myšlenkami.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "line:3-6-9:3": {
+    "title": "Plná linie",
+    "short": "Plná linie: symbolický podnět pro práci s myšlenkami.",
+    "long": "V datu jsou zastoupeny všechny tři číslice. Plnost vyjadřuje zastoupení číslic, nikoli úroveň schopností.",
+    "potential": "Prostor pro práci s myšlenkami v podobě, kterou si sami zvolíte.",
+    "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat práci s myšlenkami.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "line:1-2-3:0": {
+    "title": "Prázdná linie",
+    "short": "Prázdná linie: symbolický podnět pro plánování.",
+    "long": "Žádná z číslic této linie v datu není. Nejde o chybějící schopnost; prázdná linie může být podnětem k vědomému objevování.",
+    "potential": "Prostor pro plánování v podobě, kterou si sami zvolíte.",
+    "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat plánování.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "line:1-2-3:1": {
+    "title": "Jedno obsazené pole",
+    "short": "Jedno obsazené pole: symbolický podnět pro plánování.",
+    "long": "V datu je zastoupena jedna ze tří číslic. Zkuste si všimnout, jak toto dílčí téma zapadá do každodenní zkušenosti.",
+    "potential": "Prostor pro plánování v podobě, kterou si sami zvolíte.",
+    "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat plánování.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "line:1-2-3:2": {
+    "title": "Dvě obsazená pole",
+    "short": "Dvě obsazená pole: symbolický podnět pro plánování.",
+    "long": "V datu jsou zastoupeny dvě ze tří číslic. Můžete zkoumat vztah mezi přítomnými motivy a tématem zbývající pozice.",
+    "potential": "Prostor pro plánování v podobě, kterou si sami zvolíte.",
+    "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat plánování.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "line:1-2-3:3": {
+    "title": "Plná linie",
+    "short": "Plná linie: symbolický podnět pro plánování.",
+    "long": "V datu jsou zastoupeny všechny tři číslice. Plnost vyjadřuje zastoupení číslic, nikoli úroveň schopností.",
+    "potential": "Prostor pro plánování v podobě, kterou si sami zvolíte.",
+    "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat plánování.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "line:4-5-6:0": {
+    "title": "Prázdná linie",
+    "short": "Prázdná linie: symbolický podnět pro vytrvalost a vůli.",
+    "long": "Žádná z číslic této linie v datu není. Nejde o chybějící schopnost; prázdná linie může být podnětem k vědomému objevování.",
+    "potential": "Prostor pro vytrvalost a vůli v podobě, kterou si sami zvolíte.",
+    "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat vytrvalost a vůli.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "line:4-5-6:1": {
+    "title": "Jedno obsazené pole",
+    "short": "Jedno obsazené pole: symbolický podnět pro vytrvalost a vůli.",
+    "long": "V datu je zastoupena jedna ze tří číslic. Zkuste si všimnout, jak toto dílčí téma zapadá do každodenní zkušenosti.",
+    "potential": "Prostor pro vytrvalost a vůli v podobě, kterou si sami zvolíte.",
+    "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat vytrvalost a vůli.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "line:4-5-6:2": {
+    "title": "Dvě obsazená pole",
+    "short": "Dvě obsazená pole: symbolický podnět pro vytrvalost a vůli.",
+    "long": "V datu jsou zastoupeny dvě ze tří číslic. Můžete zkoumat vztah mezi přítomnými motivy a tématem zbývající pozice.",
+    "potential": "Prostor pro vytrvalost a vůli v podobě, kterou si sami zvolíte.",
+    "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat vytrvalost a vůli.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "line:4-5-6:3": {
+    "title": "Plná linie",
+    "short": "Plná linie: symbolický podnět pro vytrvalost a vůli.",
+    "long": "V datu jsou zastoupeny všechny tři číslice. Plnost vyjadřuje zastoupení číslic, nikoli úroveň schopností.",
+    "potential": "Prostor pro vytrvalost a vůli v podobě, kterou si sami zvolíte.",
+    "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat vytrvalost a vůli.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "line:7-8-9:0": {
+    "title": "Prázdná linie",
+    "short": "Prázdná linie: symbolický podnět pro vědomou aktivitu.",
+    "long": "Žádná z číslic této linie v datu není. Nejde o chybějící schopnost; prázdná linie může být podnětem k vědomému objevování.",
+    "potential": "Prostor pro vědomou aktivitu v podobě, kterou si sami zvolíte.",
+    "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat vědomou aktivitu.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "line:7-8-9:1": {
+    "title": "Jedno obsazené pole",
+    "short": "Jedno obsazené pole: symbolický podnět pro vědomou aktivitu.",
+    "long": "V datu je zastoupena jedna ze tří číslic. Zkuste si všimnout, jak toto dílčí téma zapadá do každodenní zkušenosti.",
+    "potential": "Prostor pro vědomou aktivitu v podobě, kterou si sami zvolíte.",
+    "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat vědomou aktivitu.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "line:7-8-9:2": {
+    "title": "Dvě obsazená pole",
+    "short": "Dvě obsazená pole: symbolický podnět pro vědomou aktivitu.",
+    "long": "V datu jsou zastoupeny dvě ze tří číslic. Můžete zkoumat vztah mezi přítomnými motivy a tématem zbývající pozice.",
+    "potential": "Prostor pro vědomou aktivitu v podobě, kterou si sami zvolíte.",
+    "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat vědomou aktivitu.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "line:7-8-9:3": {
+    "title": "Plná linie",
+    "short": "Plná linie: symbolický podnět pro vědomou aktivitu.",
+    "long": "V datu jsou zastoupeny všechny tři číslice. Plnost vyjadřuje zastoupení číslic, nikoli úroveň schopností.",
+    "potential": "Prostor pro vědomou aktivitu v podobě, kterou si sami zvolíte.",
+    "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat vědomou aktivitu.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "line:1-5-9:0": {
+    "title": "Prázdná linie",
+    "short": "Prázdná linie: symbolický podnět pro odhodlání.",
+    "long": "Žádná z číslic této linie v datu není. Nejde o chybějící schopnost; prázdná linie může být podnětem k vědomému objevování.",
+    "potential": "Prostor pro odhodlání v podobě, kterou si sami zvolíte.",
+    "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat odhodlání.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "line:1-5-9:1": {
+    "title": "Jedno obsazené pole",
+    "short": "Jedno obsazené pole: symbolický podnět pro odhodlání.",
+    "long": "V datu je zastoupena jedna ze tří číslic. Zkuste si všimnout, jak toto dílčí téma zapadá do každodenní zkušenosti.",
+    "potential": "Prostor pro odhodlání v podobě, kterou si sami zvolíte.",
+    "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat odhodlání.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "line:1-5-9:2": {
+    "title": "Dvě obsazená pole",
+    "short": "Dvě obsazená pole: symbolický podnět pro odhodlání.",
+    "long": "V datu jsou zastoupeny dvě ze tří číslic. Můžete zkoumat vztah mezi přítomnými motivy a tématem zbývající pozice.",
+    "potential": "Prostor pro odhodlání v podobě, kterou si sami zvolíte.",
+    "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat odhodlání.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "line:1-5-9:3": {
+    "title": "Plná linie",
+    "short": "Plná linie: symbolický podnět pro odhodlání.",
+    "long": "V datu jsou zastoupeny všechny tři číslice. Plnost vyjadřuje zastoupení číslic, nikoli úroveň schopností.",
+    "potential": "Prostor pro odhodlání v podobě, kterou si sami zvolíte.",
+    "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat odhodlání.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "line:3-5-7:0": {
+    "title": "Prázdná linie",
+    "short": "Prázdná linie: symbolický podnět pro hledání smyslu.",
+    "long": "Žádná z číslic této linie v datu není. Nejde o chybějící schopnost; prázdná linie může být podnětem k vědomému objevování.",
+    "potential": "Prostor pro hledání smyslu v podobě, kterou si sami zvolíte.",
+    "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat hledání smyslu.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "line:3-5-7:1": {
+    "title": "Jedno obsazené pole",
+    "short": "Jedno obsazené pole: symbolický podnět pro hledání smyslu.",
+    "long": "V datu je zastoupena jedna ze tří číslic. Zkuste si všimnout, jak toto dílčí téma zapadá do každodenní zkušenosti.",
+    "potential": "Prostor pro hledání smyslu v podobě, kterou si sami zvolíte.",
+    "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat hledání smyslu.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "line:3-5-7:2": {
+    "title": "Dvě obsazená pole",
+    "short": "Dvě obsazená pole: symbolický podnět pro hledání smyslu.",
+    "long": "V datu jsou zastoupeny dvě ze tří číslic. Můžete zkoumat vztah mezi přítomnými motivy a tématem zbývající pozice.",
+    "potential": "Prostor pro hledání smyslu v podobě, kterou si sami zvolíte.",
+    "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat hledání smyslu.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "line:3-5-7:3": {
+    "title": "Plná linie",
+    "short": "Plná linie: symbolický podnět pro hledání smyslu.",
+    "long": "V datu jsou zastoupeny všechny tři číslice. Plnost vyjadřuje zastoupení číslic, nikoli úroveň schopností.",
+    "potential": "Prostor pro hledání smyslu v podobě, kterou si sami zvolíte.",
+    "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat hledání smyslu.",
+    "sourceId": "editorial",
+    "sourceRefs": ["western-conventions", "editorial"],
+    "evidenceLevel": "editorial_synthesis"
+  }
+}
