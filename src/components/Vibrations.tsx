@@ -1,0 +1,193 @@
+import { useState } from "react";
+import { parseDate } from "../engine";
+import { annualVibrations, vibrationTriangle } from "../engine/vibrations";
+import { Interpretation } from "./Interpretation";
+export function Vibrations({
+  birth,
+  analysis,
+}: {
+  birth: string;
+  analysis: string;
+}) {
+  const b = parseDate(birth),
+    a = parseDate(analysis),
+    annual = annualVibrations(b, a);
+  const [masters, setMasters] = useState(true),
+    [chosen, setChosen] = useState<number | null>(null);
+  const t = vibrationTriangle(b, masters);
+  return (
+    <>
+      <section className="panel annual-panel">
+        <span className="eyebrow">OD NAROZENIN DO NAROZENIN</span>
+        <h2>Osobní roční vibrace</h2>
+        <div className="annual-current">
+          <strong>{annual.current.value}</strong>
+          <div>
+            <h3>Aktivní vibrace k {analysis}</h3>
+            <p>
+              Od {annual.current.from} do {annual.current.until} (konec se
+              nezahrnuje).
+            </p>
+          </div>
+        </div>
+        <p>
+          Tato část vždy používá narozeninovou konvenci, nezávisle na
+          kalendářním přehledu. U 29. února připadá výročí v nepřestupných
+          letech na 28. února.
+        </p>
+        <h3>Devítiletá řada 1–9</h3>
+        <p>
+          {annual.cycleFrom} – {annual.cycleUntil}. Vyberte rok pro jeho
+          symbolický výklad. Řada ročních vibrací se nesmí zaměňovat s
+          neověřenou řídicí vibrací trojúhelníku.
+        </p>
+        <div className="annual-table-wrap">
+          <table className="annual-table">
+            <caption>Osobní roční vibrace v aktuální devítileté řadě</caption>
+            <thead>
+              <tr>
+                <th scope="col">Vibrace</th>
+                <th scope="col">Od narozenin</th>
+                <th scope="col">Do dalších narozenin</th>
+              </tr>
+            </thead>
+            <tbody>
+              {annual.periods.map((p) => (
+                <tr key={p.year} className={p.active ? "active-period" : ""}>
+                  <th scope="row">
+                    <button
+                      onClick={() => setChosen(p.value)}
+                      aria-label={`Výklad roční vibrace ${p.value}`}
+                    >
+                      {p.value}
+                      {p.active ? " · aktuální" : ""}
+                    </button>
+                  </th>
+                  <td>{p.from}</td>
+                  <td>{p.until}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+        <Interpretation id={`year:${chosen ?? annual.current.value}`} />
+      </section>
+      <section className="panel triangle-panel">
+        <span className="eyebrow">SCHÉMA Z DATA NAROZENÍ</span>
+        <h2>Vibrační trojúhelník</h2>
+        <p>
+          Interaktivní schéma součtů pro {birth}. Pro referenční obrázek
+          24.07.1939 vychází základna 7–6–4, vnitřní uzly 4–1–5 a vnější uzel
+          11.
+        </p>
+        <label className="checkbox">
+          <input
+            type="checkbox"
+            checked={masters}
+            onChange={(e) => setMasters(e.target.checked)}
+          />
+          V uzlech zachovat 11 a 22
+        </label>
+        <svg
+          className="vibration-triangle"
+          viewBox="0 0 440 390"
+          role="img"
+          aria-labelledby="triangle-title"
+          aria-describedby="triangle-desc"
+        >
+          <title id="triangle-title">Vibrační trojúhelník pro {birth}</title>
+          <desc id="triangle-desc">
+            Měsíc {t.month}, den {t.day}, rok {t.year}. Levý uzel {t.left.value}
+            , pravý {t.right.value}, vrchol {t.peak.value}, vnější uzel{" "}
+            {t.outer.value}.
+          </desc>
+          <g fill="none" stroke="currentColor" strokeWidth="1.7">
+            <path d="M65 300 L220 40 L375 300 Z M65 300 L220 300 L142 170 M220 300 L298 170 M142 170 L298 170" />
+            <path
+              d="M30 300 Q-10 60 220 5 Q450 60 410 300"
+              strokeDasharray="5 6"
+            />
+          </g>
+          {[
+            { x: 65, y: 300, value: t.month, label: "Měsíc" },
+            { x: 220, y: 300, value: t.day, label: "Den" },
+            { x: 375, y: 300, value: t.year, label: "Rok" },
+            { x: 142, y: 170, value: t.left.value, label: "Měsíc + den" },
+            { x: 298, y: 170, value: t.right.value, label: "Den + rok" },
+            { x: 220, y: 40, value: t.peak.value, label: "Součet uzlů" },
+          ].map((n) => (
+            <g key={n.label}>
+              <circle cx={n.x} cy={n.y} r="23" />
+              <text
+                x={n.x}
+                y={n.y + 7}
+                textAnchor="middle"
+                className="triangle-number"
+              >
+                {n.value}
+              </text>
+              <text
+                x={n.x}
+                y={n.y + 43}
+                textAnchor="middle"
+                className="triangle-label"
+              >
+                {n.label}
+              </text>
+            </g>
+          ))}
+          <text x="370" y="45" className="triangle-number">
+            {t.outer.value}
+          </text>
+          <text x="310" y="67" className="triangle-label">
+            Měsíc + rok
+          </text>
+        </svg>
+        <div className="facts">
+          <span>
+            Levý uzel
+            <b>
+              {t.month} + {t.day} → {t.left.steps.join(" → ")}
+            </b>
+          </span>
+          <span>
+            Pravý uzel
+            <b>
+              {t.day} + {t.year} → {t.right.steps.join(" → ")}
+            </b>
+          </span>
+          <span>
+            Vrchol
+            <b>
+              {t.left.value} + {t.right.value} → {t.peak.steps.join(" → ")}
+            </b>
+          </span>
+          <span>
+            Vnější uzel
+            <b>
+              {t.month} + {t.year} → {t.outer.steps.join(" → ")}
+            </b>
+          </span>
+        </div>
+        <p className="method-pending">
+          <strong>Časové přiřazení trojúhelníků čeká na ověření.</strong>{" "}
+          Samotný přiložený obrázek nedokládá, který uzel řídí které devítileté
+          období. Proto zde zatím řídicí vibrace období nepřiřazujeme. Toto
+          schéma není totéž co životní vrcholy a výzvy.
+        </p>
+        <p className="muted">
+          Zdroj geometrie a referenčních hodnot: obrázek dodaný uživatelem.
+          Textový postup z{" "}
+          <a
+            href="https://numerologie.najdise.cz/karmicke-trojuhelniky-devitiletych-vibracnich-cyklu"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Najdise.cz
+          </a>{" "}
+          zatím nebyl ověřen.
+        </p>
+      </section>
+    </>
+  );
+}

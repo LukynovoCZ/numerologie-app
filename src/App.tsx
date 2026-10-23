@@ -9,9 +9,12 @@ import {
   Printer,
   ArrowRight,
 } from "lucide-react";
-import { calculate, today } from "./engine";
+import { calculate, today, parseDate } from "./engine";
+import { annualVibrations, vibrationTriangle } from "./engine/vibrations";
 import type { Input } from "./types";
 import { layout } from "./config/rules";
+import { Vibrations } from "./components/Vibrations";
+import { Checks } from "./components/Checks";
 import { Interpretation } from "./components/Interpretation";
 import cs from "./data/locale.cs.json";
 import sources from "./data/sources.json";
@@ -54,7 +57,13 @@ export default function App() {
     [dark, setDark] = useState(
       () => window.matchMedia("(prefers-color-scheme: dark)").matches,
     ),
-    [tab, setTab] = useState("overview"),
+    [tab, setTab] = useState(() =>
+      window.location.hash === "#kontrola"
+        ? "checks"
+        : window.location.hash === "#vibrace"
+          ? "vibrations"
+          : "overview",
+    ),
     [selected, setSelected] = useState(
       () => `life:${calculate(load()).life.value}`,
     ),
@@ -95,9 +104,25 @@ export default function App() {
   }
   const summary = `Numerologický rozbor · ${result.input.birth}\nŽivotní číslo ${result.life.value} (základ ${result.life.baseValue})\nOsobní rok ${result.personal.year}, měsíc ${result.personal.month}, den ${result.personal.day}\nMetoda: ${result.method.life}; cykly: ${result.method.cycle}\n${cs.disclaimer}`;
   function download() {
-    const blob = new Blob([JSON.stringify(result, null, 2)], {
-      type: "application/json",
-    });
+    const blob = new Blob(
+      [
+        JSON.stringify(
+          {
+            ...result,
+            annualVibrations: annualVibrations(
+              result.birth,
+              parseDate(result.input.analysis),
+            ),
+            triangle: vibrationTriangle(result.birth),
+          },
+          null,
+          2,
+        ),
+      ],
+      {
+        type: "application/json",
+      },
+    );
     const url = URL.createObjectURL(blob);
     const a = document.createElement("a");
     a.href = url;
@@ -310,12 +335,25 @@ export default function App() {
               {[
                 ["overview", "Přehled"],
                 ["cycles", "Cykly a období"],
+                ["vibrations", "Roční vibrace a trojúhelník"],
+                ["checks", "Kontrola výpočtů"],
                 ["method", "Jak se to počítá"],
               ].map(([id, title]) => (
                 <button
                   key={id}
                   aria-current={tab === id ? "page" : undefined}
-                  onClick={() => setTab(id)}
+                  onClick={() => {
+                    setTab(id);
+                    window.history.replaceState(
+                      null,
+                      "",
+                      id === "checks"
+                        ? "#kontrola"
+                        : id === "vibrations"
+                          ? "#vibrace"
+                          : "#",
+                    );
+                  }}
                 >
                   {title}
                 </button>
@@ -637,6 +675,25 @@ export default function App() {
                   <Interpretation id={selected} />
                 </section>
               </>
+            )}
+            {tab === "vibrations" && (
+              <Vibrations
+                key={`${result.input.birth}:${result.input.analysis}`}
+                birth={result.input.birth}
+                analysis={result.input.analysis}
+              />
+            )}
+            {tab === "checks" && (
+              <Checks
+                result={result}
+                onExample={(value) => {
+                  setForm(value);
+                  setResult(calculate(value));
+                  setError("");
+                  setLine("");
+                  setSelected(`life:${calculate(value).life.value}`);
+                }}
+              />
             )}
             {tab === "method" && (
               <section className="panel methodology">

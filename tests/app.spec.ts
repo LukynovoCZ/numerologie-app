@@ -61,3 +61,44 @@ test("rozbor, interakce, soukromí a export", async ({ page }) => {
   ).toBe(true);
   expect(exceptions).toEqual([]);
 });
+
+test("kontrolní stránka a vibrační schéma", async ({ page }) => {
+  await page.goto("/#kontrola");
+  await expect(
+    page.getByRole("heading", { name: "Kontrola výpočtů", exact: true }),
+  ).toBeVisible();
+  await page
+    .getByRole("button", { name: "Spustit kontrolní příklady" })
+    .click();
+  await expect(
+    page.getByRole("status").filter({ hasText: "3 / 3" }),
+  ).toBeVisible();
+  await page
+    .getByRole("button", {
+      name: "Trojúhelník z obrázku · 24.07.1939",
+      exact: true,
+    })
+    .click();
+  await expect(page.getByLabel("Datum narození")).toHaveValue("24.07.1939");
+  await page
+    .getByRole("button", { name: "Roční vibrace a trojúhelník", exact: true })
+    .click();
+  await expect(
+    page.getByRole("heading", { name: "Osobní roční vibrace", exact: true }),
+  ).toBeVisible();
+  await expect(page.locator(".annual-table tbody tr")).toHaveCount(9);
+  await expect(
+    page.getByRole("img", {
+      name: "Vibrační trojúhelník pro 24.07.1939",
+      exact: true,
+    }),
+  ).toBeVisible();
+  await expect(page.locator(".triangle-panel .facts")).toContainText("11");
+  await page.getByLabel("V uzlech zachovat 11 a 22").uncheck();
+  await expect(page.locator(".triangle-panel .facts")).toContainText("11 → 2");
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+});

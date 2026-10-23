@@ -998,3 +998,151 @@ footer span {
     color: black;
   }
 }
+.tabs {
+  overflow-x: auto;
+  gap: 22px;
+}
+.tabs button {
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.annual-current {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  padding: 22px;
+  background: var(--soft);
+  border-radius: 12px;
+  margin: 22px 0;
+}
+.annual-current > strong {
+  font: 80px Georgia;
+  color: var(--ink);
+}
+.annual-current h3 {
+  margin-top: 0;
+}
+.annual-current p {
+  margin-bottom: 0;
+}
+.annual-table-wrap {
+  overflow-x: auto;
+}
+.annual-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12px;
+  margin: 20px 0;
+}
+.annual-table caption {
+  text-align: left;
+  font-size: 11px;
+  color: var(--muted);
+  margin-bottom: 14px;
+}
+.annual-table th,
+.annual-table td {
+  border-bottom: 1px solid var(--border);
+  text-align: left;
+  padding: 12px 10px;
+}
+.annual-table td {
+  font-variant-numeric: tabular-nums;
+}
+.annual-table th {
+  font-weight: 500;
+}
+.annual-table .active-period {
+  background: var(--soft);
+}
+.annual-table button {
+  background: none;
+  border: 0;
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+.vibration-triangle {
+  width: 100%;
+  max-width: 470px;
+  display: block;
+  margin: 20px auto;
+  color: var(--ink);
+}
+.vibration-triangle circle {
+  fill: var(--soft);
+  stroke: var(--ink);
+  stroke-width: 1;
+}
+.vibration-triangle text {
+  fill: var(--ink);
+}
+.triangle-number {
+  font: 28px Georgia;
+}
+.triangle-label {
+  font: 11px system-ui;
+}
+.method-pending {
+  border-left: 3px solid #b28d4a;
+  padding: 12px;
+  background: var(--soft);
+}
+.triangle-panel .facts b {
+  font: 16px Georgia;
+}
+.example-buttons {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+.example-buttons button {
+  background: var(--soft);
+  border: 1px solid var(--border);
+  border-radius: 7px;
+  padding: 12px;
+  text-align: left;
+  font-size: 12px;
+}
+.checks-panel .primary {
+  max-width: 290px;
+}
+.raw-data {
+  font-size: 11px;
+  line-height: 1.7;
+  overflow: auto;
+  max-height: 600px;
+  border: 1px solid var(--border);
+  padding: 16px;
+  background: var(--bg);
+  border-radius: 6px;
+}
+.checks-panel td {
+  overflow-wrap: anywhere;
+}
+.checks-panel table {
+  min-width: 420px;
+}
+@media (max-width: 650px) {
+  .annual-current {
+    gap: 18px;
+    padding: 16px;
+  }
+  .annual-current > strong {
+    font-size: 64px;
+  }
+  .annual-current h3 {
+    font-size: 20px;
+  }
+  .annual-table {
+    font-size: 10px;
+  }
+  .annual-table td,
+  .annual-table th {
+    padding: 10px 5px;
+  }
+  .tabs {
+    gap: 22px;
+  }
+}
