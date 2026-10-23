@@ -65,3 +65,17 @@ Není součástí výchozí numerologie. Ukládej a zobraz pouze jako volitelnou
 - Osobní přehled roku/měsíce/dne používá datum rozboru. U narozeninové varianty používá rok počátku aktivního narozeninového období, pak přičítá kalendářní měsíc a den data rozboru. Samostatná devítiletá a dvanáctiměsíční osa je výslovně kalendářní a centrovaná kolem vybraného roku.
 - Výstup obsahuje surové číslice včetně nul, počty 1–9, chybějící číslice, mezikroky redukce, identifikátory interpretací, aktivní pravidla a zdrojové identifikátory. Vše je serializovatelné do JSON.
 - Interpretace jsou vlastní nehodnotící redakční syntéza (`editorial_synthesis`), běžná výpočetní pravidla jsou označena `traditional`. Výzva 0 je samostatný symbolický podnět otevřenosti, nikoli absence výzev.
+
+## Osobní roční vibrace a kontrolní stránka
+
+Samostatná část „Roční vibrace a trojúhelník“ vždy používá narozeninovou konvenci: aktivní rok začíná na poslední narozeniny před datem rozboru nebo přímo v den narozenin. Hodnota je `reduce9(reduce9(day) + reduce9(month) + reduce9(startYear))`. Konec je na následující narozeniny a nezahrnuje se. Devítiletá řada začíná rokem `activeYear - (currentVibration - 1)` a zobrazuje po sobě vibrace 1 až 9. Tato řada není výpočtem řídicích vibrací karmických trojúhelníků. Roky mimo 1–9999 se nezobrazují.
+
+### Trojúhelník podle dodaného referenčního obrázku
+
+Základna zleva: `m=reduce9(month)`, `d=reduce9(day)`, `y=reduce9(year)`. Levý uzel je redukce `m+d`, pravý redukce `d+y`, vrchol redukce součtu levého a pravého uzlu, vnější uzel redukce `m+y`. U součtových uzlů lze samostatně zachovat 11 a 22, výchozí ano. Výchozí redukce komponent zůstává jednociferná. Tato volba je oddělená od životního čísla a nemění mřížku.
+
+Referenční obrázek uživatele: 24.07.1939 → základna 7,6,4; levý 4; pravý 1; vrchol 5; vnější 11. Vypnutí zachování mistrovských uzlů změní vnější číslo na 2.
+
+**Rozsah ověření:** schéma a hodnoty byly ověřeny pouze proti dodanému obrázku. Textová metoda https://numerologie.najdise.cz/karmicke-trojuhelniky-devitiletych-vibracnich-cyklu není z cloudového prostředí dostupná (síťový proxy zákaz HTTP 403). Z obrázku nelze určit přiřazení jednotlivých uzlů k navazujícím devítiletým obdobím. Řídicí vibrace těchto období proto zatím aplikace nepřiřazuje. Nejde o potvrzenou implementaci celé metody Najdise.cz ani o náhradu životních vrcholů. Ve výstupu schématu je `periodMappingVerified: false` a zdroj `user-supplied-diagram`.
+
+Kontrolní stránka `#kontrola` porovnává tři pevné příklady s uloženými očekáváními v `src/data/checks.cs.json`. Hodnoty pro datum 01.02.1917 jsou odvozeny z uvedených vzorců; nejsou výsledkem načteným z Najdise.cz. Kontrolní stránka nepřistupuje k externím kalkulačkám a neodesílá osobní údaje.

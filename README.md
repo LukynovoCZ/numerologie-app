@@ -55,3 +55,23 @@ PLAYWRIGHT_CHROMIUM_EXECUTABLE_PATH=/usr/bin/chromium npm run test:e2e
 ```
 
 Playwright spustí vývojový server, případně lokálně použije již běžící. Stejný scénář ověřuje desktop (1440 px) i mobil (390 px): referenční mřížku, zvýraznění linií, interpretace, validaci dat, výslovný souhlas s uložením a jeho odvolání, rok/měsíce, metodiku, JSON export, přepnutí tématu a přetečení stránky. Při implementaci prošlo 26 jednotkových/obsahových testů a oba prohlížečové scénáře; produkční build prošel. Samostatně ověřeno také vykreslení tiskového PDF.
+
+## Kontrolní stránka a roční vibrace
+
+V horních záložkách otevřete **Kontrola výpočtů** (`#kontrola`). Tři přednastavená data včetně 24.07.1939 z referenčního obrázku lze načíst do formuláře. Tlačítko „Spustit kontrolní příklady“ porovná pevná očekávání se skutečnými hodnotami. Pro vlastní data formulář potvrďte tlačítkem „Prozkoumat můj rozbor“; kontrolní stránka ukazuje aktuální výpočet a jeho JSON.
+
+Záložka **Roční vibrace a trojúhelník** (`#vibrace`) obsahuje osobní roční vibrace výslovně od narozenin do narozenin, celou devítiletou řadu s hranicemi a SVG schéma trojúhelníku. Číselné uzly schématu odpovídají dodanému obrázku, ale přiřazení řídicích vibrací jednotlivým devítiletým obdobím není zatím ověřeno a není implementováno. Podrobný rozsah je v metodice. JSON export obsahuje také narozeninové roční vibrace a výchozí trojúhelník se zachováním 11/22 (včetně příznaku neověřeného časového přiřazení); přepínač v náhledu schématu mění pouze jeho zobrazení.
+
+### Samostatná testovací stránka bez instalace
+
+```sh
+npm run build:standalone
+```
+
+Soubor `dist/numerologie-test.html` obsahuje celou aplikaci, styly i výklady. Lze jej otevřít přímo v prohlížeči bez serveru. Obsahuje stejné funkce i kontrolní záložku. Kopírování do schránky může být u souborů na disku omezeno prohlížečem; textový souhrn a JSON zůstávají dostupné. Ani tato varianta automaticky neodesílá vstupy.
+
+### Veřejná stránka přes GitHub Pages
+
+Workflow `.github/workflows/pages.yml` při pushi do `main` provede testy, produkční build s `/numerologie-app/` jako základnou a nasazení. V repozitáři musí být jednorázově zapnuto **Settings → Pages → Build and deployment → Source: GitHub Actions**. Integrace prostředí nedostala oprávnění zapnout Pages přes API (HTTP 403 „Resource not accessible by integration“), zapnutí tedy musí provést vlastník repozitáře. Poté spusťte **Actions → Test and deploy preview → Run workflow**, pokud nastavení nezapnete před prvním pushem. Veřejná stránka je dostupná až po úspěšném nasazení. Dostupnost Pages u soukromého repozitáře se řídí plánem účtu; pokud nastavení Pages není dostupné, použijte samostatný HTML soubor nebo hosting Cloudflare Pages z úvodní části README.
+
+Nové kontroly pokrývají narozeninové hranice, přestupné roky, posloupnost 1–9, uzly referenčního trojúhelníku a všechny tři pevné příklady. Prohlížečové scénáře zahrnují kontrolní stránku, změnu vzoru, roční vibrace a přepínač 11/22 na desktopu i mobilu.
