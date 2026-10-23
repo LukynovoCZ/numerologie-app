@@ -10,7 +10,7 @@ Zápis `DD.MM.RRRR` -> osm číslic `DDMMYYYY`, včetně úvodních nul. Při v�
 
 `reduce9(n)`: pro nezáporné celé n opakovaně sčítej desetinné číslice, dokud není výsledek v 0..9. Pro životní číslo volitelně zachovej 11,22,33 jako mezistav a vrať zvlášť `baseValue = reduce9(n)`.
 
-`lifePathRaw = sum(digit for digit in DDMMYYYY)`. Příklad 14.09.1990 -> 33 -> volitelně 33/6. Alternativa: nejdřív `reduce9(day) + reduce9(month) + reduce9(year)` => 5+9+1=15=>6. Nevydávej výstup 33 za výsledek *obou* metod.
+`lifePathRaw = sum(digit for digit in DDMMYYYY)`. Příklad 14.09.1990 -> 33 -> volitelně 33/6. Alternativa: nejdřív `reduce9(day) + reduce9(month) + reduce9(year)` => 5+9+1=15=>6. Nevydávej výstup 33 za výsledek _obou_ metod.
 
 `birthday = reduce9(day)`; `attitude = reduce9(day + month)`.
 
@@ -32,7 +32,7 @@ Přepínač **od narozenin do narozenin** musí mít zdokumentovanou konvenci: �
 
 Rozložení řádků odshora `[3,6,9], [2,5,8], [1,4,7]`.
 
-Počty `[1..9]`: výhradně původní číslice data. Stavy linek podle počtu *různých* zastoupených čísel (0, 1, 2, 3). Opakování ovlivňuje pouze četnost/intenzitu, ne počet obsazených polí.
+Počty `[1..9]`: výhradně původní číslice data. Stavy linek podle počtu _různých_ zastoupených čísel (0, 1, 2, 3). Opakování ovlivňuje pouze četnost/intenzitu, ne počet obsazených polí.
 
 `intense = presentCount === 3 && occurrenceSum >= 5` – vlastní UX pravidlo, ne historické tvrzení.
 
@@ -55,3 +55,13 @@ Po odstranění české diakritiky použij posloupnost ABCDEFGHIJKLMNOPQRSTUVWXY
 ## Čas narození
 
 Není součástí výchozí numerologie. Ukládej a zobraz pouze jako volitelnou informaci. Nic z něj nedovozuj bez samostatné explicitně pojmenované metody, která zatím není požadována.
+
+## Implementované volby a výstup
+
+- Narození 29. února má v nepřestupném roce výročí 28. února. Tato stejná konvence platí pro osobní období a kalendářní hranice vrcholů.
+- První vrchol zahrnuje věky 0 až `36 - baseLifePath` včetně. Další začíná na narozeniny ve věku `37 - baseLifePath`. Druhý a třetí mají devět celých věkových roků. Kalendářní `start` je včetně, `until` je první den následujícího období a nezahrnuje se.
+- Ve vrcholech, výzvách, jmenných číslech i osobních cyklech se mistrovská čísla nezachovávají. Volba 11/22/33 ovlivňuje pouze životní číslo; základ je vždy jednociferný.
+- Jméno: vyjádření je redukovaný součet všech normalizovaných písmen, duše součet samohlásek, osobnost součet souhlásek. Zralost = `reduce9(expression.baseValue + lifePath.baseValue)`. Bez písmen se jmenný rozbor nevytváří. Výchozí Y je samohláska, přepínač jej může zařadit mezi souhlásky. CH jsou C a H zvlášť. Znaky mimo normalizované A–Z se ignorují.
+- Osobní přehled roku/měsíce/dne používá datum rozboru. U narozeninové varianty používá rok počátku aktivního narozeninového období, pak přičítá kalendářní měsíc a den data rozboru. Samostatná devítiletá a dvanáctiměsíční osa je výslovně kalendářní a centrovaná kolem vybraného roku.
+- Výstup obsahuje surové číslice včetně nul, počty 1–9, chybějící číslice, mezikroky redukce, identifikátory interpretací, aktivní pravidla a zdrojové identifikátory. Vše je serializovatelné do JSON.
+- Interpretace jsou vlastní nehodnotící redakční syntéza (`editorial_synthesis`), běžná výpočetní pravidla jsou označena `traditional`. Výzva 0 je samostatný symbolický podnět otevřenosti, nikoli absence výzev.
