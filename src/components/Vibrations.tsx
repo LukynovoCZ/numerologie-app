@@ -5,15 +5,18 @@ import { Interpretation } from "./Interpretation";
 export function Vibrations({
   birth,
   analysis,
+  masters,
+  onMastersChange,
 }: {
   birth: string;
   analysis: string;
+  masters: boolean;
+  onMastersChange: (value: boolean) => void;
 }) {
   const b = parseDate(birth),
     a = parseDate(analysis),
     annual = annualVibrations(b, a);
-  const [masters, setMasters] = useState(true),
-    [chosen, setChosen] = useState<number | null>(null);
+  const [chosen, setChosen] = useState<number | null>(null);
   const t = vibrationTriangle(b, masters);
   return (
     <>
@@ -84,7 +87,7 @@ export function Vibrations({
           <input
             type="checkbox"
             checked={masters}
-            onChange={(e) => setMasters(e.target.checked)}
+            onChange={(e) => onMastersChange(e.target.checked)}
           />
           V uzlech zachovat 11 a 22
         </label>

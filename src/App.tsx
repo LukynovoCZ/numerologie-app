@@ -70,6 +70,7 @@ export default function App() {
     [line, setLine] = useState(""),
     [notice, setNotice] = useState(""),
     [activeCycle, setActiveCycle] = useState(0);
+  const [triangleMasters, setTriangleMasters] = useState(true);
   function update<K extends keyof Input>(key: K, value: Input[K]) {
     setForm((f) => ({ ...f, [key]: value }));
   }
@@ -113,7 +114,7 @@ export default function App() {
               result.birth,
               parseDate(result.input.analysis),
             ),
-            triangle: vibrationTriangle(result.birth),
+            triangle: vibrationTriangle(result.birth, triangleMasters),
           },
           null,
           2,
@@ -681,6 +682,8 @@ export default function App() {
                 key={`${result.input.birth}:${result.input.analysis}`}
                 birth={result.input.birth}
                 analysis={result.input.analysis}
+                masters={triangleMasters}
+                onMastersChange={setTriangleMasters}
               />
             )}
             {tab === "checks" && (

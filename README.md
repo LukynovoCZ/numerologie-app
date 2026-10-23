@@ -60,7 +60,7 @@ Playwright spustí vývojový server, případně lokálně použije již běž�
 
 V horních záložkách otevřete **Kontrola výpočtů** (`#kontrola`). Tři přednastavená data včetně 24.07.1939 z referenčního obrázku lze načíst do formuláře. Tlačítko „Spustit kontrolní příklady“ porovná pevná očekávání se skutečnými hodnotami. Pro vlastní data formulář potvrďte tlačítkem „Prozkoumat můj rozbor“; kontrolní stránka ukazuje aktuální výpočet a jeho JSON.
 
-Záložka **Roční vibrace a trojúhelník** (`#vibrace`) obsahuje osobní roční vibrace výslovně od narozenin do narozenin, celou devítiletou řadu s hranicemi a SVG schéma trojúhelníku. Číselné uzly schématu odpovídají dodanému obrázku, ale přiřazení řídicích vibrací jednotlivým devítiletým obdobím není zatím ověřeno a není implementováno. Podrobný rozsah je v metodice. JSON export obsahuje také narozeninové roční vibrace a výchozí trojúhelník se zachováním 11/22 (včetně příznaku neověřeného časového přiřazení); přepínač v náhledu schématu mění pouze jeho zobrazení.
+Záložka **Roční vibrace a trojúhelník** (`#vibrace`) obsahuje osobní roční vibrace výslovně od narozenin do narozenin, celou devítiletou řadu s hranicemi a SVG schéma trojúhelníku. Číselné uzly schématu odpovídají dodanému obrázku, ale přiřazení řídicích vibrací jednotlivým devítiletým obdobím není zatím ověřeno a není implementováno. Podrobný rozsah je v metodice. JSON export obsahuje také narozeninové roční vibrace a trojúhelník s aktuální volbou zachování 11/22 (včetně příznaku neověřeného časového přiřazení).
 
 ### Samostatná testovací stránka bez instalace
 
