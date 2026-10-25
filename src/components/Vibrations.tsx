@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { parseDate } from "../engine";
 import { annualVibrations, vibrationTriangle } from "../engine/vibrations";
+import { TrianglePeriods } from "./TrianglePeriods";
 import { Interpretation } from "./Interpretation";
 export function Vibrations({
   birth,
@@ -41,8 +42,8 @@ export function Vibrations({
         <h3>Devítiletá řada 1–9</h3>
         <p>
           {annual.cycleFrom} – {annual.cycleUntil}. Vyberte rok pro jeho
-          symbolický výklad. Řada ročních vibrací se nesmí zaměňovat s
-          neověřenou řídicí vibrací trojúhelníku.
+          symbolický výklad. Tato řada od ORV 1 je samostatný pohled;
+          trojúhelníková období níže začínají ORV 9.
         </p>
         <div className="annual-table-wrap">
           <table className="annual-table">
@@ -75,6 +76,7 @@ export function Vibrations({
         </div>
         <Interpretation id={`year:${chosen ?? annual.current.value}`} />
       </section>
+      <TrianglePeriods birth={birth} analysis={analysis} masters={masters} />
       <section className="panel triangle-panel">
         <span className="eyebrow">SCHÉMA Z DATA NAROZENÍ</span>
         <h2>Vibrační trojúhelník</h2>
@@ -89,7 +91,7 @@ export function Vibrations({
             checked={masters}
             onChange={(e) => onMastersChange(e.target.checked)}
           />
-          V uzlech zachovat 11 a 22
+          Zachovat 11 ve třetím a čtvrtém vrcholu (podle zdroje)
         </label>
         <svg
           className="vibration-triangle"
@@ -172,23 +174,22 @@ export function Vibrations({
             </b>
           </span>
         </div>
-        <p className="method-pending">
-          <strong>Časové přiřazení trojúhelníků čeká na ověření.</strong>{" "}
-          Samotný přiložený obrázek nedokládá, který uzel řídí které devítileté
-          období. Proto zde zatím řídicí vibrace období nepřiřazujeme. Toto
-          schéma není totéž co životní vrcholy a výzvy.
+        <p className="muted">
+          První dva vrcholy se vždy redukují na 1–9. Jedenáctka se podle zdroje
+          zachovává pouze ve třetím a čtvrtém vrcholu; 22 se redukuje na 4.
+          Vypnutím volby zobrazíte alternativu bez jedenáctek.
         </p>
         <p className="muted">
-          Zdroj geometrie a referenčních hodnot: obrázek dodaný uživatelem.
-          Textový postup z{" "}
+          Postup ověřen podle textu dodaného uživatelem a stránky{" "}
           <a
             href="https://numerologie.najdise.cz/karmicke-trojuhelniky-devitiletych-vibracnich-cyklu"
             target="_blank"
             rel="noreferrer"
           >
             Najdise.cz
-          </a>{" "}
-          zatím nebyl ověřen.
+          </a>
+          . Jde o ověření výpočetních pravidel vůči sekundárnímu zdroji, nikoli
+          o vědecké potvrzení metody nebo přímé ověření knih Robin Stein.
         </p>
       </section>
     </>

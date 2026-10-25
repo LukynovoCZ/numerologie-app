@@ -1,3 +1,4 @@
+import sources from "../data/sources.json";
 import texts from "../data/interpretations.cs.json";
 export function Interpretation({ id }: { id: string }) {
   const text = (texts as Record<string, (typeof texts)["life:1"]>)[id];
@@ -16,7 +17,21 @@ export function Interpretation({ id }: { id: string }) {
       </p>
       <small>
         Původ: vlastní redakční syntéza ({text.evidenceLevel}) ·{" "}
-        {text.sourceRefs.join(", ")}
+        {text.sourceRefs.map((id, i) => {
+          const source = sources.find((s) => s.id === id);
+          return (
+            <span key={id}>
+              {i > 0 ? " · " : ""}
+              {source && "url" in source && source.url ? (
+                <a href={source.url} target="_blank" rel="noreferrer">
+                  {source.title}
+                </a>
+              ) : (
+                (source?.title ?? id)
+              )}
+            </span>
+          );
+        })}
       </small>
     </div>
   );

@@ -1146,3 +1146,85 @@ footer span {
     gap: 22px;
   }
 }
+.triangle-period-buttons {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 10px;
+  margin: 24px 0;
+}
+.triangle-period-buttons button {
+  background: var(--soft);
+  border: 1px solid var(--border);
+  border-radius: 9px;
+  padding: 16px 9px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  text-align: left;
+}
+.triangle-period-buttons [aria-pressed="true"] {
+  background: #2c493c;
+  color: #fff;
+}
+.triangle-period-buttons strong {
+  font: 42px Georgia;
+}
+.triangle-period-buttons small {
+  font-size: 10px;
+}
+.triangle-period-buttons span {
+  font-size: 10px;
+  line-height: 1.6;
+}
+.cycle-status {
+  background: var(--soft);
+  border-radius: 7px;
+  padding: 14px;
+}
+.cycle-years-table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 12px;
+  margin: 20px 0;
+}
+.cycle-years-table td,
+.cycle-years-table th {
+  padding: 12px 10px;
+  border-bottom: 1px solid var(--border);
+  text-align: left;
+}
+.cycle-years-table caption {
+  text-align: left;
+  color: var(--muted);
+  margin-bottom: 12px;
+}
+.cycle-years-table button {
+  background: none;
+  color: inherit;
+  border: 0;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+.cycle-years-table .active-period {
+  background: var(--soft);
+}
+.cycle-years-table [aria-pressed="true"] {
+  font-weight: 700;
+}
+.combined-reading {
+  border-top: 1px solid var(--border);
+  margin-top: 25px;
+  padding-top: 25px;
+}
+@media (max-width: 650px) {
+  .triangle-period-buttons {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .cycle-years-table {
+    font-size: 10px;
+  }
+  .cycle-years-table td,
+  .cycle-years-table th {
+    padding: 10px 5px;
+  }
+}

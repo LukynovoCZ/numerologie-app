@@ -1,6 +1,6 @@
 import { useState } from "react";
-import { calculate } from "../engine";
-import { vibrationTriangle } from "../engine/vibrations";
+import { calculate, parseDate } from "../engine";
+import { vibrationTriangle, triangleCycles } from "../engine/vibrations";
 import examples from "../data/checks.cs.json";
 import type { Input } from "../types";
 export function Checks({
@@ -30,7 +30,10 @@ export function Checks({
         year: e.year,
       }),
       t = vibrationTriangle(r.birth);
+    const cycles = triangleCycles(r.birth, parseDate(e.analysis));
     const actual = {
+      cycleValues: cycles.periods.map((p) => p.value).join(","),
+      firstCycleFrom: cycles.periods[0].from,
       life: r.life.value,
       base: r.life.baseValue,
       annual: r.personal.year,
@@ -50,7 +53,9 @@ export function Checks({
     return {
       example: e,
       actual,
-      pass: JSON.stringify(actual) === JSON.stringify(e.expected),
+      pass: Object.entries(e.expected).every(
+        ([key, value]) => actual[key as keyof typeof actual] === value,
+      ),
     };
   });
   return (
@@ -112,6 +117,8 @@ export function Checks({
                           {
                             (
                               {
+                                cycleValues: "Řídicí vibrace 1.–4. období",
+                                firstCycleFrom: "Začátek prvního období",
                                 life: "Životní číslo",
                                 base: "Základ",
                                 annual: "Kalendářní osobní rok",

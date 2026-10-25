@@ -10,7 +10,11 @@ import {
   ArrowRight,
 } from "lucide-react";
 import { calculate, today, parseDate } from "./engine";
-import { annualVibrations, vibrationTriangle } from "./engine/vibrations";
+import {
+  annualVibrations,
+  vibrationTriangle,
+  triangleCycles,
+} from "./engine/vibrations";
 import type { Input } from "./types";
 import { layout } from "./config/rules";
 import { Vibrations } from "./components/Vibrations";
@@ -115,6 +119,11 @@ export default function App() {
               parseDate(result.input.analysis),
             ),
             triangle: vibrationTriangle(result.birth, triangleMasters),
+            triangleCycles: triangleCycles(
+              result.birth,
+              parseDate(result.input.analysis),
+              triangleMasters,
+            ),
           },
           null,
           2,

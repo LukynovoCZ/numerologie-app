@@ -58,9 +58,13 @@ Playwright spustí vývojový server, případně lokálně použije již běž�
 
 ## Kontrolní stránka a roční vibrace
 
-V horních záložkách otevřete **Kontrola výpočtů** (`#kontrola`). Tři přednastavená data včetně 24.07.1939 z referenčního obrázku lze načíst do formuláře. Tlačítko „Spustit kontrolní příklady“ porovná pevná očekávání se skutečnými hodnotami. Pro vlastní data formulář potvrďte tlačítkem „Prozkoumat můj rozbor“; kontrolní stránka ukazuje aktuální výpočet a jeho JSON.
+V horních záložkách otevřete **Kontrola výpočtů** (`#kontrola`). Čtyři přednastavená data včetně 24.07.1939 z referenčního obrázku lze načíst do formuláře. Tlačítko „Spustit kontrolní příklady“ porovná pevná očekávání se skutečnými hodnotami. Pro vlastní data formulář potvrďte tlačítkem „Prozkoumat můj rozbor“; kontrolní stránka ukazuje aktuální výpočet a jeho JSON.
 
-Záložka **Roční vibrace a trojúhelník** (`#vibrace`) obsahuje osobní roční vibrace výslovně od narozenin do narozenin, celou devítiletou řadu s hranicemi a SVG schéma trojúhelníku. Číselné uzly schématu odpovídají dodanému obrázku, ale přiřazení řídicích vibrací jednotlivým devítiletým obdobím není zatím ověřeno a není implementováno. Podrobný rozsah je v metodice. JSON export obsahuje také narozeninové roční vibrace a trojúhelník s aktuální volbou zachování 11/22 (včetně příznaku neověřeného časového přiřazení).
+Záložka **Roční vibrace a trojúhelník** (`#vibrace`) obsahuje osobní roční vibrace od narozenin do narozenin, čtyři trojúhelníková období podle postupu Najdise.cz, jejich věkové a kalendářní hranice, aktivní období a SVG schéma. První vstup nastává ve věku `36 − jednociferný základ životního čísla`; první tři období mají devět let, čtvrté pokračuje dále. Na vstupu je ORV 9. Jedenáctka se podle zdroje zachovává pouze ve třetím a čtvrtém vrcholu. Zdrojový postup a původní konvence Pinnacles mají odlišné hranice a zůstávají výslovně oddělené.
+
+Kliknutí na období otevře jeho řídicí vibraci a tabulku ročních vibrací. Kliknutím na ORV zobrazíte vlastní nehodnotící shrnutí jejího souběhu s dlouhodobou vibrací. Obsah pokrývá cykly 1–9 a 11 a jejich souběhy s ORV 1–9; podrobněji zpracovává i odkazovaný cyklus 9. Přímé zdrojové stránky jsou uvedeny v metadatech. Texty aplikace jsou vlastní redakční syntéza, nikoli citace či předpovědi. Původní knihy Robin Stein nebyly přímo ověřeny.
+
+JSON export obsahuje narozeninové roční vibrace, aktuální schéma i `triangleCycles` s intervaly, aktivním obdobím a ročními tabulkami. Přepínač jedenáctky mění schéma i export; volba 11/22/33 u životního čísla věkové hranice nemění. Dokumentované vzorce a zdrojové příklady najdete v metodice.
 
 ### Samostatná testovací stránka bez instalace
 
@@ -74,4 +78,8 @@ Soubor `dist/numerologie-test.html` obsahuje celou aplikaci, styly i výklady. L
 
 Workflow `.github/workflows/pages.yml` při pushi do `main` provede testy, produkční build s `/numerologie-app/` jako základnou a nasazení. V repozitáři musí být jednorázově zapnuto **Settings → Pages → Build and deployment → Source: GitHub Actions**. Integrace prostředí nedostala oprávnění zapnout Pages přes API (HTTP 403 „Resource not accessible by integration“), zapnutí tedy musí provést vlastník repozitáře. Poté spusťte **Actions → Test and deploy preview → Run workflow**, pokud nastavení nezapnete před prvním pushem. Veřejná stránka je dostupná až po úspěšném nasazení. Dostupnost Pages u soukromého repozitáře se řídí plánem účtu; pokud nastavení Pages není dostupné, použijte samostatný HTML soubor nebo hosting Cloudflare Pages z úvodní části README.
 
-Nové kontroly pokrývají narozeninové hranice, přestupné roky, posloupnost 1–9, uzly referenčního trojúhelníku a všechny tři pevné příklady. Prohlížečové scénáře zahrnují kontrolní stránku, změnu vzoru, roční vibrace a přepínač 11/22 na desktopu i mobilu.
+Nové kontroly pokrývají narozeninové hranice, přestupné roky, posloupnost 1–9, uzly referenčního trojúhelníku a všechny čtyři pevné příklady. Prohlížečové scénáře zahrnují kontrolní stránku, změnu vzoru, roční vibrace a přepínač jedenáctky na desktopu i mobilu.
+
+### Ověření dokončených trojúhelníků
+
+Prošlo 43 jednotkových a obsahových testů, produkční build a čtyři prohlížečové scénáře (desktop a mobil). Kontroly zahrnují příklady 24.07.1939 a 22.05.2024, ORV 9 na vstupech pro 127 dat, přechod den před narozeninami a na narozeniny, jedenáctku v jednotlivých vrcholech, přestupné výročí, neměnnou čtvrtou vibraci a úplnost všech 90 kombinací cyklu s ORV.
