@@ -134,34 +134,13 @@ export function calculate(input: Input) {
     ),
     until: i === 3 ? null : dateText(birthday(b, b.year + end + i * 9 + 1)),
   }));
-  const letters = (input.name || "")
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "")
-    .toUpperCase()
-    .replace(/[^A-Z]/g, "")
-    .split("");
-  const letterValue = (s: string) => ((s.charCodeAt(0) - 65) % 9) + 1;
-  const vowels = input.yVowel ? "AEIOUY" : "AEIOU";
-  const name = letters.length
-    ? {
-        normalized: letters.join(""),
-        expression: reduction(letters.reduce((s, l) => s + letterValue(l), 0)),
-        soul: reduction(
-          letters
-            .filter((l) => vowels.includes(l))
-            .reduce((s, l) => s + letterValue(l), 0),
-        ),
-        personality: reduction(
-          letters
-            .filter((l) => !vowels.includes(l))
-            .reduce((s, l) => s + letterValue(l), 0),
-        ),
-        maturity: reduction(
-          reduce9(letters.reduce((s, l) => s + letterValue(l), 0)) +
-            life.baseValue,
-        ),
-      }
-    : null;
+  const name = nameAnalysis(
+    input.name || "",
+    input.surname || "",
+    input.yVowel,
+    life.baseValue,
+    input.nameMasters ?? true,
+  );
   return {
     input,
     birth: b,
@@ -199,5 +178,76 @@ export function calculate(input: Input) {
     cycles,
     name,
     sources: ["western-conventions", "editorial"],
+  };
+}
+
+export function nameAnalysis(
+  given: string,
+  surname: string,
+  yVowel: boolean,
+  lifeBase: number,
+  masters = true,
+) {
+  const normalize = (value: string) =>
+    value
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "")
+      .toUpperCase()
+      .replace(/[^A-Z]/g, "");
+  const first = normalize(given),
+    last = normalize(surname),
+    letters = (first + last).split("");
+  if (!letters.length) return null;
+  const value = (letter: string) => ((letter.charCodeAt(0) - 65) % 9) + 1;
+  const sum = (text: string) =>
+    text.split("").reduce((s, l) => s + value(l), 0);
+  const vowels = yVowel ? "AEIOUY" : "AEIOU";
+  const reduce = (n: number) => {
+    const steps = [n];
+    while (n > 9 && !(masters && [11, 22].includes(n))) {
+      n = sumDigits(n);
+      steps.push(n);
+    }
+    return { value: n, baseValue: reduce9(n), steps };
+  };
+  const active = first ? reduce(sum(first)) : null,
+    hereditary = last ? reduce(sum(last)) : null;
+  const expression = reduce(sum(first + last));
+  const soul = reduce(sum(letters.filter((l) => vowels.includes(l)).join("")));
+  const personality = reduce(
+    sum(letters.filter((l) => !vowels.includes(l)).join("")),
+  );
+  const personal = reduce((active?.value ?? 0) + (hereditary?.value ?? 0));
+  const counts = Object.fromEntries(
+    Array.from({ length: 9 }, (_, i) => [
+      i + 1,
+      letters.filter((l) => value(l) === i + 1).length,
+    ]),
+  );
+  return {
+    normalized: first + last,
+    first,
+    last,
+    masters,
+    expression,
+    soul,
+    personality,
+    maturity: reduce(reduce9(expression.value) + lifeBase),
+    vibrations: {
+      active,
+      hereditary,
+      personal,
+      intimate: soul,
+      realization: personality,
+    },
+    letters: letters.map((letter) => ({
+      letter,
+      value: value(letter),
+      kind: vowels.includes(letter) ? "vowel" : "consonant",
+    })),
+    counts,
+    missing: Object.keys(counts)
+      .map(Number)
+      .filter((n) => counts[n] === 0),
   };
 }

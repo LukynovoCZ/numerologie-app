@@ -87,5 +87,33 @@
     "url": "https://numerologie.najdise.cz/devitileta-vibrace/11",
     "evidenceLevel": "secondary_verified",
     "description": "Tematický podklad pro vlastní nehodnotící shrnutí a souběh s ORV. Web připisuje text Robin Steinové; původní kniha nebyla přímo ověřena. Aplikační výklady jsou redakční syntéza, nikoli citace ani předpověď."
+  },
+  {
+    "id": "najdise-birthday",
+    "title": "Najdise.cz – den narození",
+    "url": "https://numerologie.najdise.cz/den-narozeni",
+    "evidenceLevel": "secondary_verified",
+    "description": "Uživatelem dodaný seznam témat pro dny 1–31. Texty možností a témat k rozvíjení v aplikaci jsou vlastní redakční syntéza, nikoli diagnóza charakteru."
+  },
+  {
+    "id": "najdise-name",
+    "title": "Najdise.cz – numerologie jména",
+    "url": "https://numerologie.najdise.cz/numerologie-jmena",
+    "evidenceLevel": "secondary_verified",
+    "description": "Uživatelem dodaný postup a příklad Petr Veselý. Jméno a příjmení jsou oddělené, Y je ve výchozí volbě samohláska a ve jmenných číslech se zachovává 11/22."
+  },
+  {
+    "id": "najdise-orv",
+    "title": "Najdise.cz – osobní roční vibrace",
+    "url": "https://numerologie.najdise.cz/osobni-rocni-vibrace",
+    "evidenceLevel": "secondary_verified",
+    "description": "Uživatelem dodané pravidlo posledních narozenin a rozdělení na čtyři kalendářní čtvrtiny. Aplikace nepočítá skutečné astronomické fáze Měsíce."
+  },
+  {
+    "id": "najdise-grid",
+    "title": "Najdise.cz – numerologická mřížka",
+    "url": "https://numerologie.najdise.cz/numerologicka-mrizka",
+    "evidenceLevel": "secondary_verified",
+    "description": "Uživatelem dodaný seznam témat číslic 1–9 a rozlišení plných a prázdných rovin. Texty podle počtů a částečných rovin jsou vlastní redakční syntéza; četnosti nejsou měřením schopností."
   }
 ]

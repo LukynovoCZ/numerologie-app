@@ -1014,541 +1014,586 @@
     "evidenceLevel": "editorial_synthesis"
   },
   "count:1:0": {
-    "title": "Samostatnost · v mřížce chybí",
-    "short": "V mřížce chybí. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
-    "long": "Číslice 1 zde symbolicky otevírá vlastní iniciativu a hledání osobního směru. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
-    "potential": "Mohli byste prozkoumat vlastní iniciativu a hledání osobního směru.",
-    "activity": "Zapište si jeden krok, o kterém rozhodnete sami.",
-    "sourceId": "editorial",
+    "title": "Vyjadřování a myšlenky · bez výskytu",
+    "short": "Bez výskytu. Číslice 1 zde nabízí symbolický námět pro vyjadřování vlastních myšlenek a pocitů.",
+    "long": "Číslice 1 se v této tradici spojuje s tématem „vyjadřování a myšlenky“. Chybějící číslice neznamená chybějící schopnost, nižší hodnotu ani povinnou životní lekci. Pokud vás téma zajímá, můžete je zkoumat stejně jako kterékoli jiné.",
+    "potential": "Prostor pro vyjadřování vlastních myšlenek a pocitů podle vlastních zkušeností.",
+    "activity": "Zkuste jednu svoji potřebu vyjádřit krátkou a srozumitelnou větou.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:1:1": {
-    "title": "Samostatnost · jeden výskyt",
-    "short": "Jeden výskyt. Jeden výskyt nabízí jednoduchý symbolický podnět.",
-    "long": "Číslice 1 zde symbolicky otevírá vlastní iniciativu a hledání osobního směru. Jeden výskyt nabízí jednoduchý symbolický podnět.",
-    "potential": "Mohli byste prozkoumat vlastní iniciativu a hledání osobního směru.",
-    "activity": "Zapište si jeden krok, o kterém rozhodnete sami.",
-    "sourceId": "editorial",
+    "title": "Vyjadřování a myšlenky · jeden výskyt",
+    "short": "Jeden výskyt. Číslice 1 zde nabízí symbolický námět pro vyjadřování vlastních myšlenek a pocitů.",
+    "long": "Číslice 1 se v této tradici spojuje s tématem „vyjadřování a myšlenky“. Jediný výskyt pouze popisuje zápis data narození. Můžete se ptát, jak je pro vás téma užitečné v běžných situacích.",
+    "potential": "Prostor pro vyjadřování vlastních myšlenek a pocitů podle vlastních zkušeností.",
+    "activity": "Zkuste jednu svoji potřebu vyjádřit krátkou a srozumitelnou větou.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:1:2": {
-    "title": "Samostatnost · dva výskyty",
-    "short": "Dva výskyty. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
-    "long": "Číslice 1 zde symbolicky otevírá vlastní iniciativu a hledání osobního směru. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
-    "potential": "Mohli byste prozkoumat vlastní iniciativu a hledání osobního směru.",
-    "activity": "Zapište si jeden krok, o kterém rozhodnete sami.",
-    "sourceId": "editorial",
+    "title": "Vyjadřování a myšlenky · dva výskyty",
+    "short": "Dva výskyty. Číslice 1 zde nabízí symbolický námět pro vyjadřování vlastních myšlenek a pocitů.",
+    "long": "Číslice 1 se v této tradici spojuje s tématem „vyjadřování a myšlenky“. Dva výskyty lze číst jako opakovaný podnět, nikoli jako dvojnásobnou schopnost. Zkuste hledat vlastní rovnováhu mezi tímto tématem a ostatními.",
+    "potential": "Prostor pro vyjadřování vlastních myšlenek a pocitů podle vlastních zkušeností.",
+    "activity": "Zkuste jednu svoji potřebu vyjádřit krátkou a srozumitelnou větou.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:1:3": {
-    "title": "Samostatnost · tři výskyty",
-    "short": "Tři výskyty. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
-    "long": "Číslice 1 zde symbolicky otevírá vlastní iniciativu a hledání osobního směru. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
-    "potential": "Mohli byste prozkoumat vlastní iniciativu a hledání osobního směru.",
-    "activity": "Zapište si jeden krok, o kterém rozhodnete sami.",
-    "sourceId": "editorial",
+    "title": "Vyjadřování a myšlenky · tři výskyty",
+    "short": "Tři výskyty. Číslice 1 zde nabízí symbolický námět pro vyjadřování vlastních myšlenek a pocitů.",
+    "long": "Číslice 1 se v této tradici spojuje s tématem „vyjadřování a myšlenky“. Tři výskyty jsou výraznou součástí zápisu data, ale neměří vlohy ani intenzitu prožívání. Sami můžete rozhodnout, které otázky vás oslovují.",
+    "potential": "Prostor pro vyjadřování vlastních myšlenek a pocitů podle vlastních zkušeností.",
+    "activity": "Zkuste jednu svoji potřebu vyjádřit krátkou a srozumitelnou větou.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:1:4": {
-    "title": "Samostatnost · čtyři a více výskytů",
-    "short": "Čtyři a více výskytů. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
-    "long": "Číslice 1 zde symbolicky otevírá vlastní iniciativu a hledání osobního směru. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
-    "potential": "Mohli byste prozkoumat vlastní iniciativu a hledání osobního směru.",
-    "activity": "Zapište si jeden krok, o kterém rozhodnete sami.",
-    "sourceId": "editorial",
+    "title": "Vyjadřování a myšlenky · čtyři a více výskytů",
+    "short": "Čtyři a více výskytů. Číslice 1 zde nabízí symbolický námět pro vyjadřování vlastních myšlenek a pocitů.",
+    "long": "Číslice 1 se v této tradici spojuje s tématem „vyjadřování a myšlenky“. Mnohonásobné opakování číslice v datu neurčuje osobnost ani nezaručuje mimořádnou schopnost. Vyberte si jen takový podnět, který odpovídá vaší zkušenosti.",
+    "potential": "Prostor pro vyjadřování vlastních myšlenek a pocitů podle vlastních zkušeností.",
+    "activity": "Zkuste jednu svoji potřebu vyjádřit krátkou a srozumitelnou větou.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:2:0": {
-    "title": "Spolupráce · v mřížce chybí",
-    "short": "V mřížce chybí. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
-    "long": "Číslice 2 zde symbolicky otevírá naslouchání, jemnost a vzájemnou podporu. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
-    "potential": "Mohli byste prozkoumat naslouchání, jemnost a vzájemnou podporu.",
-    "activity": "Při rozhovoru nejprve vlastními slovy shrňte pohled druhého.",
-    "sourceId": "editorial",
+    "title": "Vnímavost a vcítění · bez výskytu",
+    "short": "Bez výskytu. Číslice 2 zde nabízí symbolický námět pro naslouchání a porozumění prožívání druhých.",
+    "long": "Číslice 2 se v této tradici spojuje s tématem „vnímavost a vcítění“. Chybějící číslice neznamená chybějící schopnost, nižší hodnotu ani povinnou životní lekci. Pokud vás téma zajímá, můžete je zkoumat stejně jako kterékoli jiné.",
+    "potential": "Prostor pro naslouchání a porozumění prožívání druhých podle vlastních zkušeností.",
+    "activity": "Zeptejte se druhého, co potřebuje, namísto odhadování jeho pocitů.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:2:1": {
-    "title": "Spolupráce · jeden výskyt",
-    "short": "Jeden výskyt. Jeden výskyt nabízí jednoduchý symbolický podnět.",
-    "long": "Číslice 2 zde symbolicky otevírá naslouchání, jemnost a vzájemnou podporu. Jeden výskyt nabízí jednoduchý symbolický podnět.",
-    "potential": "Mohli byste prozkoumat naslouchání, jemnost a vzájemnou podporu.",
-    "activity": "Při rozhovoru nejprve vlastními slovy shrňte pohled druhého.",
-    "sourceId": "editorial",
+    "title": "Vnímavost a vcítění · jeden výskyt",
+    "short": "Jeden výskyt. Číslice 2 zde nabízí symbolický námět pro naslouchání a porozumění prožívání druhých.",
+    "long": "Číslice 2 se v této tradici spojuje s tématem „vnímavost a vcítění“. Jediný výskyt pouze popisuje zápis data narození. Můžete se ptát, jak je pro vás téma užitečné v běžných situacích.",
+    "potential": "Prostor pro naslouchání a porozumění prožívání druhých podle vlastních zkušeností.",
+    "activity": "Zeptejte se druhého, co potřebuje, namísto odhadování jeho pocitů.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:2:2": {
-    "title": "Spolupráce · dva výskyty",
-    "short": "Dva výskyty. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
-    "long": "Číslice 2 zde symbolicky otevírá naslouchání, jemnost a vzájemnou podporu. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
-    "potential": "Mohli byste prozkoumat naslouchání, jemnost a vzájemnou podporu.",
-    "activity": "Při rozhovoru nejprve vlastními slovy shrňte pohled druhého.",
-    "sourceId": "editorial",
+    "title": "Vnímavost a vcítění · dva výskyty",
+    "short": "Dva výskyty. Číslice 2 zde nabízí symbolický námět pro naslouchání a porozumění prožívání druhých.",
+    "long": "Číslice 2 se v této tradici spojuje s tématem „vnímavost a vcítění“. Dva výskyty lze číst jako opakovaný podnět, nikoli jako dvojnásobnou schopnost. Zkuste hledat vlastní rovnováhu mezi tímto tématem a ostatními.",
+    "potential": "Prostor pro naslouchání a porozumění prožívání druhých podle vlastních zkušeností.",
+    "activity": "Zeptejte se druhého, co potřebuje, namísto odhadování jeho pocitů.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:2:3": {
-    "title": "Spolupráce · tři výskyty",
-    "short": "Tři výskyty. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
-    "long": "Číslice 2 zde symbolicky otevírá naslouchání, jemnost a vzájemnou podporu. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
-    "potential": "Mohli byste prozkoumat naslouchání, jemnost a vzájemnou podporu.",
-    "activity": "Při rozhovoru nejprve vlastními slovy shrňte pohled druhého.",
-    "sourceId": "editorial",
+    "title": "Vnímavost a vcítění · tři výskyty",
+    "short": "Tři výskyty. Číslice 2 zde nabízí symbolický námět pro naslouchání a porozumění prožívání druhých.",
+    "long": "Číslice 2 se v této tradici spojuje s tématem „vnímavost a vcítění“. Tři výskyty jsou výraznou součástí zápisu data, ale neměří vlohy ani intenzitu prožívání. Sami můžete rozhodnout, které otázky vás oslovují.",
+    "potential": "Prostor pro naslouchání a porozumění prožívání druhých podle vlastních zkušeností.",
+    "activity": "Zeptejte se druhého, co potřebuje, namísto odhadování jeho pocitů.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:2:4": {
-    "title": "Spolupráce · čtyři a více výskytů",
-    "short": "Čtyři a více výskytů. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
-    "long": "Číslice 2 zde symbolicky otevírá naslouchání, jemnost a vzájemnou podporu. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
-    "potential": "Mohli byste prozkoumat naslouchání, jemnost a vzájemnou podporu.",
-    "activity": "Při rozhovoru nejprve vlastními slovy shrňte pohled druhého.",
-    "sourceId": "editorial",
+    "title": "Vnímavost a vcítění · čtyři a více výskytů",
+    "short": "Čtyři a více výskytů. Číslice 2 zde nabízí symbolický námět pro naslouchání a porozumění prožívání druhých.",
+    "long": "Číslice 2 se v této tradici spojuje s tématem „vnímavost a vcítění“. Mnohonásobné opakování číslice v datu neurčuje osobnost ani nezaručuje mimořádnou schopnost. Vyberte si jen takový podnět, který odpovídá vaší zkušenosti.",
+    "potential": "Prostor pro naslouchání a porozumění prožívání druhých podle vlastních zkušeností.",
+    "activity": "Zeptejte se druhého, co potřebuje, namísto odhadování jeho pocitů.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:3:0": {
-    "title": "Vyjádření · v mřížce chybí",
-    "short": "V mřížce chybí. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
-    "long": "Číslice 3 zde symbolicky otevírá tvořivost, sdílení a radost z objevování. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
-    "potential": "Mohli byste prozkoumat tvořivost, sdílení a radost z objevování.",
-    "activity": "Věnujte deset minut volnému psaní nebo kreslení.",
-    "sourceId": "editorial",
+    "title": "Představivost a duševní postřeh · bez výskytu",
+    "short": "Bez výskytu. Číslice 3 zde nabízí symbolický námět pro práci s představami, nápady a učením.",
+    "long": "Číslice 3 se v této tradici spojuje s tématem „představivost a duševní postřeh“. Chybějící číslice neznamená chybějící schopnost, nižší hodnotu ani povinnou životní lekci. Pokud vás téma zajímá, můžete je zkoumat stejně jako kterékoli jiné.",
+    "potential": "Prostor pro práci s představami, nápady a učením podle vlastních zkušeností.",
+    "activity": "Nakreslete si jednoduchou mapu myšlenek k otázce, která vás zajímá.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:3:1": {
-    "title": "Vyjádření · jeden výskyt",
-    "short": "Jeden výskyt. Jeden výskyt nabízí jednoduchý symbolický podnět.",
-    "long": "Číslice 3 zde symbolicky otevírá tvořivost, sdílení a radost z objevování. Jeden výskyt nabízí jednoduchý symbolický podnět.",
-    "potential": "Mohli byste prozkoumat tvořivost, sdílení a radost z objevování.",
-    "activity": "Věnujte deset minut volnému psaní nebo kreslení.",
-    "sourceId": "editorial",
+    "title": "Představivost a duševní postřeh · jeden výskyt",
+    "short": "Jeden výskyt. Číslice 3 zde nabízí symbolický námět pro práci s představami, nápady a učením.",
+    "long": "Číslice 3 se v této tradici spojuje s tématem „představivost a duševní postřeh“. Jediný výskyt pouze popisuje zápis data narození. Můžete se ptát, jak je pro vás téma užitečné v běžných situacích.",
+    "potential": "Prostor pro práci s představami, nápady a učením podle vlastních zkušeností.",
+    "activity": "Nakreslete si jednoduchou mapu myšlenek k otázce, která vás zajímá.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:3:2": {
-    "title": "Vyjádření · dva výskyty",
-    "short": "Dva výskyty. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
-    "long": "Číslice 3 zde symbolicky otevírá tvořivost, sdílení a radost z objevování. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
-    "potential": "Mohli byste prozkoumat tvořivost, sdílení a radost z objevování.",
-    "activity": "Věnujte deset minut volnému psaní nebo kreslení.",
-    "sourceId": "editorial",
+    "title": "Představivost a duševní postřeh · dva výskyty",
+    "short": "Dva výskyty. Číslice 3 zde nabízí symbolický námět pro práci s představami, nápady a učením.",
+    "long": "Číslice 3 se v této tradici spojuje s tématem „představivost a duševní postřeh“. Dva výskyty lze číst jako opakovaný podnět, nikoli jako dvojnásobnou schopnost. Zkuste hledat vlastní rovnováhu mezi tímto tématem a ostatními.",
+    "potential": "Prostor pro práci s představami, nápady a učením podle vlastních zkušeností.",
+    "activity": "Nakreslete si jednoduchou mapu myšlenek k otázce, která vás zajímá.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:3:3": {
-    "title": "Vyjádření · tři výskyty",
-    "short": "Tři výskyty. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
-    "long": "Číslice 3 zde symbolicky otevírá tvořivost, sdílení a radost z objevování. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
-    "potential": "Mohli byste prozkoumat tvořivost, sdílení a radost z objevování.",
-    "activity": "Věnujte deset minut volnému psaní nebo kreslení.",
-    "sourceId": "editorial",
+    "title": "Představivost a duševní postřeh · tři výskyty",
+    "short": "Tři výskyty. Číslice 3 zde nabízí symbolický námět pro práci s představami, nápady a učením.",
+    "long": "Číslice 3 se v této tradici spojuje s tématem „představivost a duševní postřeh“. Tři výskyty jsou výraznou součástí zápisu data, ale neměří vlohy ani intenzitu prožívání. Sami můžete rozhodnout, které otázky vás oslovují.",
+    "potential": "Prostor pro práci s představami, nápady a učením podle vlastních zkušeností.",
+    "activity": "Nakreslete si jednoduchou mapu myšlenek k otázce, která vás zajímá.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:3:4": {
-    "title": "Vyjádření · čtyři a více výskytů",
-    "short": "Čtyři a více výskytů. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
-    "long": "Číslice 3 zde symbolicky otevírá tvořivost, sdílení a radost z objevování. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
-    "potential": "Mohli byste prozkoumat tvořivost, sdílení a radost z objevování.",
-    "activity": "Věnujte deset minut volnému psaní nebo kreslení.",
-    "sourceId": "editorial",
+    "title": "Představivost a duševní postřeh · čtyři a více výskytů",
+    "short": "Čtyři a více výskytů. Číslice 3 zde nabízí symbolický námět pro práci s představami, nápady a učením.",
+    "long": "Číslice 3 se v této tradici spojuje s tématem „představivost a duševní postřeh“. Mnohonásobné opakování číslice v datu neurčuje osobnost ani nezaručuje mimořádnou schopnost. Vyberte si jen takový podnět, který odpovídá vaší zkušenosti.",
+    "potential": "Prostor pro práci s představami, nápady a učením podle vlastních zkušeností.",
+    "activity": "Nakreslete si jednoduchou mapu myšlenek k otázce, která vás zajímá.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:4:0": {
-    "title": "Stabilita · v mřížce chybí",
-    "short": "V mřížce chybí. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
-    "long": "Číslice 4 zde symbolicky otevírá pravidelnost, péči o detaily a praktické zázemí. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
-    "potential": "Mohli byste prozkoumat pravidelnost, péči o detaily a praktické zázemí.",
-    "activity": "Rozdělte jeden velký úkol na tři malé kroky.",
-    "sourceId": "editorial",
+    "title": "Praktičnost a zručnost · bez výskytu",
+    "short": "Bez výskytu. Číslice 4 zde nabízí symbolický námět pro praktické dovednosti, vytrvalost a zdravé prosazení.",
+    "long": "Číslice 4 se v této tradici spojuje s tématem „praktičnost a zručnost“. Chybějící číslice neznamená chybějící schopnost, nižší hodnotu ani povinnou životní lekci. Pokud vás téma zajímá, můžete je zkoumat stejně jako kterékoli jiné.",
+    "potential": "Prostor pro praktické dovednosti, vytrvalost a zdravé prosazení podle vlastních zkušeností.",
+    "activity": "Vyberte malý praktický úkol, který lze dokončit bez zbytečného spěchu.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:4:1": {
-    "title": "Stabilita · jeden výskyt",
-    "short": "Jeden výskyt. Jeden výskyt nabízí jednoduchý symbolický podnět.",
-    "long": "Číslice 4 zde symbolicky otevírá pravidelnost, péči o detaily a praktické zázemí. Jeden výskyt nabízí jednoduchý symbolický podnět.",
-    "potential": "Mohli byste prozkoumat pravidelnost, péči o detaily a praktické zázemí.",
-    "activity": "Rozdělte jeden velký úkol na tři malé kroky.",
-    "sourceId": "editorial",
+    "title": "Praktičnost a zručnost · jeden výskyt",
+    "short": "Jeden výskyt. Číslice 4 zde nabízí symbolický námět pro praktické dovednosti, vytrvalost a zdravé prosazení.",
+    "long": "Číslice 4 se v této tradici spojuje s tématem „praktičnost a zručnost“. Jediný výskyt pouze popisuje zápis data narození. Můžete se ptát, jak je pro vás téma užitečné v běžných situacích.",
+    "potential": "Prostor pro praktické dovednosti, vytrvalost a zdravé prosazení podle vlastních zkušeností.",
+    "activity": "Vyberte malý praktický úkol, který lze dokončit bez zbytečného spěchu.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:4:2": {
-    "title": "Stabilita · dva výskyty",
-    "short": "Dva výskyty. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
-    "long": "Číslice 4 zde symbolicky otevírá pravidelnost, péči o detaily a praktické zázemí. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
-    "potential": "Mohli byste prozkoumat pravidelnost, péči o detaily a praktické zázemí.",
-    "activity": "Rozdělte jeden velký úkol na tři malé kroky.",
-    "sourceId": "editorial",
+    "title": "Praktičnost a zručnost · dva výskyty",
+    "short": "Dva výskyty. Číslice 4 zde nabízí symbolický námět pro praktické dovednosti, vytrvalost a zdravé prosazení.",
+    "long": "Číslice 4 se v této tradici spojuje s tématem „praktičnost a zručnost“. Dva výskyty lze číst jako opakovaný podnět, nikoli jako dvojnásobnou schopnost. Zkuste hledat vlastní rovnováhu mezi tímto tématem a ostatními.",
+    "potential": "Prostor pro praktické dovednosti, vytrvalost a zdravé prosazení podle vlastních zkušeností.",
+    "activity": "Vyberte malý praktický úkol, který lze dokončit bez zbytečného spěchu.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:4:3": {
-    "title": "Stabilita · tři výskyty",
-    "short": "Tři výskyty. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
-    "long": "Číslice 4 zde symbolicky otevírá pravidelnost, péči o detaily a praktické zázemí. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
-    "potential": "Mohli byste prozkoumat pravidelnost, péči o detaily a praktické zázemí.",
-    "activity": "Rozdělte jeden velký úkol na tři malé kroky.",
-    "sourceId": "editorial",
+    "title": "Praktičnost a zručnost · tři výskyty",
+    "short": "Tři výskyty. Číslice 4 zde nabízí symbolický námět pro praktické dovednosti, vytrvalost a zdravé prosazení.",
+    "long": "Číslice 4 se v této tradici spojuje s tématem „praktičnost a zručnost“. Tři výskyty jsou výraznou součástí zápisu data, ale neměří vlohy ani intenzitu prožívání. Sami můžete rozhodnout, které otázky vás oslovují.",
+    "potential": "Prostor pro praktické dovednosti, vytrvalost a zdravé prosazení podle vlastních zkušeností.",
+    "activity": "Vyberte malý praktický úkol, který lze dokončit bez zbytečného spěchu.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:4:4": {
-    "title": "Stabilita · čtyři a více výskytů",
-    "short": "Čtyři a více výskytů. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
-    "long": "Číslice 4 zde symbolicky otevírá pravidelnost, péči o detaily a praktické zázemí. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
-    "potential": "Mohli byste prozkoumat pravidelnost, péči o detaily a praktické zázemí.",
-    "activity": "Rozdělte jeden velký úkol na tři malé kroky.",
-    "sourceId": "editorial",
+    "title": "Praktičnost a zručnost · čtyři a více výskytů",
+    "short": "Čtyři a více výskytů. Číslice 4 zde nabízí symbolický námět pro praktické dovednosti, vytrvalost a zdravé prosazení.",
+    "long": "Číslice 4 se v této tradici spojuje s tématem „praktičnost a zručnost“. Mnohonásobné opakování číslice v datu neurčuje osobnost ani nezaručuje mimořádnou schopnost. Vyberte si jen takový podnět, který odpovídá vaší zkušenosti.",
+    "potential": "Prostor pro praktické dovednosti, vytrvalost a zdravé prosazení podle vlastních zkušeností.",
+    "activity": "Vyberte malý praktický úkol, který lze dokončit bez zbytečného spěchu.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:5:0": {
-    "title": "Proměna · v mřížce chybí",
-    "short": "V mřížce chybí. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
-    "long": "Číslice 5 zde symbolicky otevírá zvídavost, pohyb a zkoušení nových možností. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
-    "potential": "Mohli byste prozkoumat zvídavost, pohyb a zkoušení nových možností.",
-    "activity": "Vyzkoušejte drobnou změnu své obvyklé rutiny.",
-    "sourceId": "editorial",
+    "title": "Vůle a hloubka prožívání · bez výskytu",
+    "short": "Bez výskytu. Číslice 5 zde nabízí symbolický námět pro vlastní vůli, kontakt s lidmi a pojmenování pocitů.",
+    "long": "Číslice 5 se v této tradici spojuje s tématem „vůle a hloubka prožívání“. Chybějící číslice neznamená chybějící schopnost, nižší hodnotu ani povinnou životní lekci. Pokud vás téma zajímá, můžete je zkoumat stejně jako kterékoli jiné.",
+    "potential": "Prostor pro vlastní vůli, kontakt s lidmi a pojmenování pocitů podle vlastních zkušeností.",
+    "activity": "Zapište, co si přejete, jak se u toho cítíte a jaký malý krok můžete zvolit.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:5:1": {
-    "title": "Proměna · jeden výskyt",
-    "short": "Jeden výskyt. Jeden výskyt nabízí jednoduchý symbolický podnět.",
-    "long": "Číslice 5 zde symbolicky otevírá zvídavost, pohyb a zkoušení nových možností. Jeden výskyt nabízí jednoduchý symbolický podnět.",
-    "potential": "Mohli byste prozkoumat zvídavost, pohyb a zkoušení nových možností.",
-    "activity": "Vyzkoušejte drobnou změnu své obvyklé rutiny.",
-    "sourceId": "editorial",
+    "title": "Vůle a hloubka prožívání · jeden výskyt",
+    "short": "Jeden výskyt. Číslice 5 zde nabízí symbolický námět pro vlastní vůli, kontakt s lidmi a pojmenování pocitů.",
+    "long": "Číslice 5 se v této tradici spojuje s tématem „vůle a hloubka prožívání“. Jediný výskyt pouze popisuje zápis data narození. Můžete se ptát, jak je pro vás téma užitečné v běžných situacích.",
+    "potential": "Prostor pro vlastní vůli, kontakt s lidmi a pojmenování pocitů podle vlastních zkušeností.",
+    "activity": "Zapište, co si přejete, jak se u toho cítíte a jaký malý krok můžete zvolit.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:5:2": {
-    "title": "Proměna · dva výskyty",
-    "short": "Dva výskyty. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
-    "long": "Číslice 5 zde symbolicky otevírá zvídavost, pohyb a zkoušení nových možností. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
-    "potential": "Mohli byste prozkoumat zvídavost, pohyb a zkoušení nových možností.",
-    "activity": "Vyzkoušejte drobnou změnu své obvyklé rutiny.",
-    "sourceId": "editorial",
+    "title": "Vůle a hloubka prožívání · dva výskyty",
+    "short": "Dva výskyty. Číslice 5 zde nabízí symbolický námět pro vlastní vůli, kontakt s lidmi a pojmenování pocitů.",
+    "long": "Číslice 5 se v této tradici spojuje s tématem „vůle a hloubka prožívání“. Dva výskyty lze číst jako opakovaný podnět, nikoli jako dvojnásobnou schopnost. Zkuste hledat vlastní rovnováhu mezi tímto tématem a ostatními.",
+    "potential": "Prostor pro vlastní vůli, kontakt s lidmi a pojmenování pocitů podle vlastních zkušeností.",
+    "activity": "Zapište, co si přejete, jak se u toho cítíte a jaký malý krok můžete zvolit.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:5:3": {
-    "title": "Proměna · tři výskyty",
-    "short": "Tři výskyty. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
-    "long": "Číslice 5 zde symbolicky otevírá zvídavost, pohyb a zkoušení nových možností. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
-    "potential": "Mohli byste prozkoumat zvídavost, pohyb a zkoušení nových možností.",
-    "activity": "Vyzkoušejte drobnou změnu své obvyklé rutiny.",
-    "sourceId": "editorial",
+    "title": "Vůle a hloubka prožívání · tři výskyty",
+    "short": "Tři výskyty. Číslice 5 zde nabízí symbolický námět pro vlastní vůli, kontakt s lidmi a pojmenování pocitů.",
+    "long": "Číslice 5 se v této tradici spojuje s tématem „vůle a hloubka prožívání“. Tři výskyty jsou výraznou součástí zápisu data, ale neměří vlohy ani intenzitu prožívání. Sami můžete rozhodnout, které otázky vás oslovují.",
+    "potential": "Prostor pro vlastní vůli, kontakt s lidmi a pojmenování pocitů podle vlastních zkušeností.",
+    "activity": "Zapište, co si přejete, jak se u toho cítíte a jaký malý krok můžete zvolit.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:5:4": {
-    "title": "Proměna · čtyři a více výskytů",
-    "short": "Čtyři a více výskytů. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
-    "long": "Číslice 5 zde symbolicky otevírá zvídavost, pohyb a zkoušení nových možností. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
-    "potential": "Mohli byste prozkoumat zvídavost, pohyb a zkoušení nových možností.",
-    "activity": "Vyzkoušejte drobnou změnu své obvyklé rutiny.",
-    "sourceId": "editorial",
+    "title": "Vůle a hloubka prožívání · čtyři a více výskytů",
+    "short": "Čtyři a více výskytů. Číslice 5 zde nabízí symbolický námět pro vlastní vůli, kontakt s lidmi a pojmenování pocitů.",
+    "long": "Číslice 5 se v této tradici spojuje s tématem „vůle a hloubka prožívání“. Mnohonásobné opakování číslice v datu neurčuje osobnost ani nezaručuje mimořádnou schopnost. Vyberte si jen takový podnět, který odpovídá vaší zkušenosti.",
+    "potential": "Prostor pro vlastní vůli, kontakt s lidmi a pojmenování pocitů podle vlastních zkušeností.",
+    "activity": "Zapište, co si přejete, jak se u toho cítíte a jaký malý krok můžete zvolit.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:6:0": {
-    "title": "Péče · v mřížce chybí",
-    "short": "V mřížce chybí. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
-    "long": "Číslice 6 zde symbolicky otevírá odpovědnost, blízkost a rovnováhu v péči. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
-    "potential": "Mohli byste prozkoumat odpovědnost, blízkost a rovnováhu v péči.",
-    "activity": "Pojmenujte jednu svou potřebu i jednu hranici.",
-    "sourceId": "editorial",
+    "title": "Harmonie a blízké vztahy · bez výskytu",
+    "short": "Bez výskytu. Číslice 6 zde nabízí symbolický námět pro vztahy s blízkými, estetiku a vyvažování každodenních potřeb.",
+    "long": "Číslice 6 se v této tradici spojuje s tématem „harmonie a blízké vztahy“. Chybějící číslice neznamená chybějící schopnost, nižší hodnotu ani povinnou životní lekci. Pokud vás téma zajímá, můžete je zkoumat stejně jako kterékoli jiné.",
+    "potential": "Prostor pro vztahy s blízkými, estetiku a vyvažování každodenních potřeb podle vlastních zkušeností.",
+    "activity": "Zvolte drobnou úpravu prostředí nebo společnou činnost, která vám přináší klid.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:6:1": {
-    "title": "Péče · jeden výskyt",
-    "short": "Jeden výskyt. Jeden výskyt nabízí jednoduchý symbolický podnět.",
-    "long": "Číslice 6 zde symbolicky otevírá odpovědnost, blízkost a rovnováhu v péči. Jeden výskyt nabízí jednoduchý symbolický podnět.",
-    "potential": "Mohli byste prozkoumat odpovědnost, blízkost a rovnováhu v péči.",
-    "activity": "Pojmenujte jednu svou potřebu i jednu hranici.",
-    "sourceId": "editorial",
+    "title": "Harmonie a blízké vztahy · jeden výskyt",
+    "short": "Jeden výskyt. Číslice 6 zde nabízí symbolický námět pro vztahy s blízkými, estetiku a vyvažování každodenních potřeb.",
+    "long": "Číslice 6 se v této tradici spojuje s tématem „harmonie a blízké vztahy“. Jediný výskyt pouze popisuje zápis data narození. Můžete se ptát, jak je pro vás téma užitečné v běžných situacích.",
+    "potential": "Prostor pro vztahy s blízkými, estetiku a vyvažování každodenních potřeb podle vlastních zkušeností.",
+    "activity": "Zvolte drobnou úpravu prostředí nebo společnou činnost, která vám přináší klid.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:6:2": {
-    "title": "Péče · dva výskyty",
-    "short": "Dva výskyty. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
-    "long": "Číslice 6 zde symbolicky otevírá odpovědnost, blízkost a rovnováhu v péči. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
-    "potential": "Mohli byste prozkoumat odpovědnost, blízkost a rovnováhu v péči.",
-    "activity": "Pojmenujte jednu svou potřebu i jednu hranici.",
-    "sourceId": "editorial",
+    "title": "Harmonie a blízké vztahy · dva výskyty",
+    "short": "Dva výskyty. Číslice 6 zde nabízí symbolický námět pro vztahy s blízkými, estetiku a vyvažování každodenních potřeb.",
+    "long": "Číslice 6 se v této tradici spojuje s tématem „harmonie a blízké vztahy“. Dva výskyty lze číst jako opakovaný podnět, nikoli jako dvojnásobnou schopnost. Zkuste hledat vlastní rovnováhu mezi tímto tématem a ostatními.",
+    "potential": "Prostor pro vztahy s blízkými, estetiku a vyvažování každodenních potřeb podle vlastních zkušeností.",
+    "activity": "Zvolte drobnou úpravu prostředí nebo společnou činnost, která vám přináší klid.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:6:3": {
-    "title": "Péče · tři výskyty",
-    "short": "Tři výskyty. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
-    "long": "Číslice 6 zde symbolicky otevírá odpovědnost, blízkost a rovnováhu v péči. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
-    "potential": "Mohli byste prozkoumat odpovědnost, blízkost a rovnováhu v péči.",
-    "activity": "Pojmenujte jednu svou potřebu i jednu hranici.",
-    "sourceId": "editorial",
+    "title": "Harmonie a blízké vztahy · tři výskyty",
+    "short": "Tři výskyty. Číslice 6 zde nabízí symbolický námět pro vztahy s blízkými, estetiku a vyvažování každodenních potřeb.",
+    "long": "Číslice 6 se v této tradici spojuje s tématem „harmonie a blízké vztahy“. Tři výskyty jsou výraznou součástí zápisu data, ale neměří vlohy ani intenzitu prožívání. Sami můžete rozhodnout, které otázky vás oslovují.",
+    "potential": "Prostor pro vztahy s blízkými, estetiku a vyvažování každodenních potřeb podle vlastních zkušeností.",
+    "activity": "Zvolte drobnou úpravu prostředí nebo společnou činnost, která vám přináší klid.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:6:4": {
-    "title": "Péče · čtyři a více výskytů",
-    "short": "Čtyři a více výskytů. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
-    "long": "Číslice 6 zde symbolicky otevírá odpovědnost, blízkost a rovnováhu v péči. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
-    "potential": "Mohli byste prozkoumat odpovědnost, blízkost a rovnováhu v péči.",
-    "activity": "Pojmenujte jednu svou potřebu i jednu hranici.",
-    "sourceId": "editorial",
+    "title": "Harmonie a blízké vztahy · čtyři a více výskytů",
+    "short": "Čtyři a více výskytů. Číslice 6 zde nabízí symbolický námět pro vztahy s blízkými, estetiku a vyvažování každodenních potřeb.",
+    "long": "Číslice 6 se v této tradici spojuje s tématem „harmonie a blízké vztahy“. Mnohonásobné opakování číslice v datu neurčuje osobnost ani nezaručuje mimořádnou schopnost. Vyberte si jen takový podnět, který odpovídá vaší zkušenosti.",
+    "potential": "Prostor pro vztahy s blízkými, estetiku a vyvažování každodenních potřeb podle vlastních zkušeností.",
+    "activity": "Zvolte drobnou úpravu prostředí nebo společnou činnost, která vám přináší klid.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:7:0": {
-    "title": "Poznávání · v mřížce chybí",
-    "short": "V mřížce chybí. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
-    "long": "Číslice 7 zde symbolicky otevírá soustředění, otázky a hledání souvislostí. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
-    "potential": "Mohli byste prozkoumat soustředění, otázky a hledání souvislostí.",
-    "activity": "Dopřejte si chvíli ticha a zapište otázku, kterou chcete prozkoumat.",
-    "sourceId": "editorial",
+    "title": "Prožívání a účast · bez výskytu",
+    "short": "Bez výskytu. Číslice 7 zde nabízí symbolický námět pro spontánnost, pochopení a ochotu být druhým oporou.",
+    "long": "Číslice 7 se v této tradici spojuje s tématem „prožívání a účast“. Chybějící číslice neznamená chybějící schopnost, nižší hodnotu ani povinnou životní lekci. Pokud vás téma zajímá, můžete je zkoumat stejně jako kterékoli jiné.",
+    "potential": "Prostor pro spontánnost, pochopení a ochotu být druhým oporou podle vlastních zkušeností.",
+    "activity": "Všimněte si jednoho pocitu a zvolte, jak na něj chcete reagovat.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:7:1": {
-    "title": "Poznávání · jeden výskyt",
-    "short": "Jeden výskyt. Jeden výskyt nabízí jednoduchý symbolický podnět.",
-    "long": "Číslice 7 zde symbolicky otevírá soustředění, otázky a hledání souvislostí. Jeden výskyt nabízí jednoduchý symbolický podnět.",
-    "potential": "Mohli byste prozkoumat soustředění, otázky a hledání souvislostí.",
-    "activity": "Dopřejte si chvíli ticha a zapište otázku, kterou chcete prozkoumat.",
-    "sourceId": "editorial",
+    "title": "Prožívání a účast · jeden výskyt",
+    "short": "Jeden výskyt. Číslice 7 zde nabízí symbolický námět pro spontánnost, pochopení a ochotu být druhým oporou.",
+    "long": "Číslice 7 se v této tradici spojuje s tématem „prožívání a účast“. Jediný výskyt pouze popisuje zápis data narození. Můžete se ptát, jak je pro vás téma užitečné v běžných situacích.",
+    "potential": "Prostor pro spontánnost, pochopení a ochotu být druhým oporou podle vlastních zkušeností.",
+    "activity": "Všimněte si jednoho pocitu a zvolte, jak na něj chcete reagovat.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:7:2": {
-    "title": "Poznávání · dva výskyty",
-    "short": "Dva výskyty. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
-    "long": "Číslice 7 zde symbolicky otevírá soustředění, otázky a hledání souvislostí. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
-    "potential": "Mohli byste prozkoumat soustředění, otázky a hledání souvislostí.",
-    "activity": "Dopřejte si chvíli ticha a zapište otázku, kterou chcete prozkoumat.",
-    "sourceId": "editorial",
+    "title": "Prožívání a účast · dva výskyty",
+    "short": "Dva výskyty. Číslice 7 zde nabízí symbolický námět pro spontánnost, pochopení a ochotu být druhým oporou.",
+    "long": "Číslice 7 se v této tradici spojuje s tématem „prožívání a účast“. Dva výskyty lze číst jako opakovaný podnět, nikoli jako dvojnásobnou schopnost. Zkuste hledat vlastní rovnováhu mezi tímto tématem a ostatními.",
+    "potential": "Prostor pro spontánnost, pochopení a ochotu být druhým oporou podle vlastních zkušeností.",
+    "activity": "Všimněte si jednoho pocitu a zvolte, jak na něj chcete reagovat.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:7:3": {
-    "title": "Poznávání · tři výskyty",
-    "short": "Tři výskyty. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
-    "long": "Číslice 7 zde symbolicky otevírá soustředění, otázky a hledání souvislostí. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
-    "potential": "Mohli byste prozkoumat soustředění, otázky a hledání souvislostí.",
-    "activity": "Dopřejte si chvíli ticha a zapište otázku, kterou chcete prozkoumat.",
-    "sourceId": "editorial",
+    "title": "Prožívání a účast · tři výskyty",
+    "short": "Tři výskyty. Číslice 7 zde nabízí symbolický námět pro spontánnost, pochopení a ochotu být druhým oporou.",
+    "long": "Číslice 7 se v této tradici spojuje s tématem „prožívání a účast“. Tři výskyty jsou výraznou součástí zápisu data, ale neměří vlohy ani intenzitu prožívání. Sami můžete rozhodnout, které otázky vás oslovují.",
+    "potential": "Prostor pro spontánnost, pochopení a ochotu být druhým oporou podle vlastních zkušeností.",
+    "activity": "Všimněte si jednoho pocitu a zvolte, jak na něj chcete reagovat.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:7:4": {
-    "title": "Poznávání · čtyři a více výskytů",
-    "short": "Čtyři a více výskytů. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
-    "long": "Číslice 7 zde symbolicky otevírá soustředění, otázky a hledání souvislostí. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
-    "potential": "Mohli byste prozkoumat soustředění, otázky a hledání souvislostí.",
-    "activity": "Dopřejte si chvíli ticha a zapište otázku, kterou chcete prozkoumat.",
-    "sourceId": "editorial",
+    "title": "Prožívání a účast · čtyři a více výskytů",
+    "short": "Čtyři a více výskytů. Číslice 7 zde nabízí symbolický námět pro spontánnost, pochopení a ochotu být druhým oporou.",
+    "long": "Číslice 7 se v této tradici spojuje s tématem „prožívání a účast“. Mnohonásobné opakování číslice v datu neurčuje osobnost ani nezaručuje mimořádnou schopnost. Vyberte si jen takový podnět, který odpovídá vaší zkušenosti.",
+    "potential": "Prostor pro spontánnost, pochopení a ochotu být druhým oporou podle vlastních zkušeností.",
+    "activity": "Všimněte si jednoho pocitu a zvolte, jak na něj chcete reagovat.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:8:0": {
-    "title": "Uskutečnění · v mřížce chybí",
-    "short": "V mřížce chybí. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
-    "long": "Číslice 8 zde symbolicky otevírá vědomé zacházení se zdroji a dotahování záměrů. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
-    "potential": "Mohli byste prozkoumat vědomé zacházení se zdroji a dotahování záměrů.",
-    "activity": "Zkontrolujte, kam tento týden směřují váš čas a energie.",
-    "sourceId": "editorial",
+    "title": "Logika a organizace · bez výskytu",
+    "short": "Bez výskytu. Číslice 8 zde nabízí symbolický námět pro uspořádání věcí, logické souvislosti a práci se zdroji.",
+    "long": "Číslice 8 se v této tradici spojuje s tématem „logika a organizace“. Chybějící číslice neznamená chybějící schopnost, nižší hodnotu ani povinnou životní lekci. Pokud vás téma zajímá, můžete je zkoumat stejně jako kterékoli jiné.",
+    "potential": "Prostor pro uspořádání věcí, logické souvislosti a práci se zdroji podle vlastních zkušeností.",
+    "activity": "Rozdělte jeden plán na priority, dostupné zdroje a další konkrétní krok.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:8:1": {
-    "title": "Uskutečnění · jeden výskyt",
-    "short": "Jeden výskyt. Jeden výskyt nabízí jednoduchý symbolický podnět.",
-    "long": "Číslice 8 zde symbolicky otevírá vědomé zacházení se zdroji a dotahování záměrů. Jeden výskyt nabízí jednoduchý symbolický podnět.",
-    "potential": "Mohli byste prozkoumat vědomé zacházení se zdroji a dotahování záměrů.",
-    "activity": "Zkontrolujte, kam tento týden směřují váš čas a energie.",
-    "sourceId": "editorial",
+    "title": "Logika a organizace · jeden výskyt",
+    "short": "Jeden výskyt. Číslice 8 zde nabízí symbolický námět pro uspořádání věcí, logické souvislosti a práci se zdroji.",
+    "long": "Číslice 8 se v této tradici spojuje s tématem „logika a organizace“. Jediný výskyt pouze popisuje zápis data narození. Můžete se ptát, jak je pro vás téma užitečné v běžných situacích.",
+    "potential": "Prostor pro uspořádání věcí, logické souvislosti a práci se zdroji podle vlastních zkušeností.",
+    "activity": "Rozdělte jeden plán na priority, dostupné zdroje a další konkrétní krok.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:8:2": {
-    "title": "Uskutečnění · dva výskyty",
-    "short": "Dva výskyty. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
-    "long": "Číslice 8 zde symbolicky otevírá vědomé zacházení se zdroji a dotahování záměrů. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
-    "potential": "Mohli byste prozkoumat vědomé zacházení se zdroji a dotahování záměrů.",
-    "activity": "Zkontrolujte, kam tento týden směřují váš čas a energie.",
-    "sourceId": "editorial",
+    "title": "Logika a organizace · dva výskyty",
+    "short": "Dva výskyty. Číslice 8 zde nabízí symbolický námět pro uspořádání věcí, logické souvislosti a práci se zdroji.",
+    "long": "Číslice 8 se v této tradici spojuje s tématem „logika a organizace“. Dva výskyty lze číst jako opakovaný podnět, nikoli jako dvojnásobnou schopnost. Zkuste hledat vlastní rovnováhu mezi tímto tématem a ostatními.",
+    "potential": "Prostor pro uspořádání věcí, logické souvislosti a práci se zdroji podle vlastních zkušeností.",
+    "activity": "Rozdělte jeden plán na priority, dostupné zdroje a další konkrétní krok.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:8:3": {
-    "title": "Uskutečnění · tři výskyty",
-    "short": "Tři výskyty. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
-    "long": "Číslice 8 zde symbolicky otevírá vědomé zacházení se zdroji a dotahování záměrů. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
-    "potential": "Mohli byste prozkoumat vědomé zacházení se zdroji a dotahování záměrů.",
-    "activity": "Zkontrolujte, kam tento týden směřují váš čas a energie.",
-    "sourceId": "editorial",
+    "title": "Logika a organizace · tři výskyty",
+    "short": "Tři výskyty. Číslice 8 zde nabízí symbolický námět pro uspořádání věcí, logické souvislosti a práci se zdroji.",
+    "long": "Číslice 8 se v této tradici spojuje s tématem „logika a organizace“. Tři výskyty jsou výraznou součástí zápisu data, ale neměří vlohy ani intenzitu prožívání. Sami můžete rozhodnout, které otázky vás oslovují.",
+    "potential": "Prostor pro uspořádání věcí, logické souvislosti a práci se zdroji podle vlastních zkušeností.",
+    "activity": "Rozdělte jeden plán na priority, dostupné zdroje a další konkrétní krok.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:8:4": {
-    "title": "Uskutečnění · čtyři a více výskytů",
-    "short": "Čtyři a více výskytů. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
-    "long": "Číslice 8 zde symbolicky otevírá vědomé zacházení se zdroji a dotahování záměrů. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
-    "potential": "Mohli byste prozkoumat vědomé zacházení se zdroji a dotahování záměrů.",
-    "activity": "Zkontrolujte, kam tento týden směřují váš čas a energie.",
-    "sourceId": "editorial",
+    "title": "Logika a organizace · čtyři a více výskytů",
+    "short": "Čtyři a více výskytů. Číslice 8 zde nabízí symbolický námět pro uspořádání věcí, logické souvislosti a práci se zdroji.",
+    "long": "Číslice 8 se v této tradici spojuje s tématem „logika a organizace“. Mnohonásobné opakování číslice v datu neurčuje osobnost ani nezaručuje mimořádnou schopnost. Vyberte si jen takový podnět, který odpovídá vaší zkušenosti.",
+    "potential": "Prostor pro uspořádání věcí, logické souvislosti a práci se zdroji podle vlastních zkušeností.",
+    "activity": "Rozdělte jeden plán na priority, dostupné zdroje a další konkrétní krok.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:9:0": {
-    "title": "Nadhled · v mřížce chybí",
-    "short": "V mřížce chybí. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
-    "long": "Číslice 9 zde symbolicky otevírá sounáležitost, uzavírání a širší perspektivu. Nepřítomnost číslice není nedostatek ani neschopnost. Téma můžete zkoumat stejně jako kterékoli jiné.",
-    "potential": "Mohli byste prozkoumat sounáležitost, uzavírání a širší perspektivu.",
-    "activity": "Sepište, co si přejete dokončit a co už můžete pustit.",
-    "sourceId": "editorial",
+    "title": "Analýza a hledání smyslu · bez výskytu",
+    "short": "Bez výskytu. Číslice 9 zde nabízí symbolický námět pro promýšlení souvislostí a vlastní hledání smyslu.",
+    "long": "Číslice 9 se v této tradici spojuje s tématem „analýza a hledání smyslu“. Chybějící číslice neznamená chybějící schopnost, nižší hodnotu ani povinnou životní lekci. Pokud vás téma zajímá, můžete je zkoumat stejně jako kterékoli jiné.",
+    "potential": "Prostor pro promýšlení souvislostí a vlastní hledání smyslu podle vlastních zkušeností.",
+    "activity": "Zformulujte jednu otázku, kterou chcete lépe pochopit, a zvažte různé pohledy.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:9:1": {
-    "title": "Nadhled · jeden výskyt",
-    "short": "Jeden výskyt. Jeden výskyt nabízí jednoduchý symbolický podnět.",
-    "long": "Číslice 9 zde symbolicky otevírá sounáležitost, uzavírání a širší perspektivu. Jeden výskyt nabízí jednoduchý symbolický podnět.",
-    "potential": "Mohli byste prozkoumat sounáležitost, uzavírání a širší perspektivu.",
-    "activity": "Sepište, co si přejete dokončit a co už můžete pustit.",
-    "sourceId": "editorial",
+    "title": "Analýza a hledání smyslu · jeden výskyt",
+    "short": "Jeden výskyt. Číslice 9 zde nabízí symbolický námět pro promýšlení souvislostí a vlastní hledání smyslu.",
+    "long": "Číslice 9 se v této tradici spojuje s tématem „analýza a hledání smyslu“. Jediný výskyt pouze popisuje zápis data narození. Můžete se ptát, jak je pro vás téma užitečné v běžných situacích.",
+    "potential": "Prostor pro promýšlení souvislostí a vlastní hledání smyslu podle vlastních zkušeností.",
+    "activity": "Zformulujte jednu otázku, kterou chcete lépe pochopit, a zvažte různé pohledy.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:9:2": {
-    "title": "Nadhled · dva výskyty",
-    "short": "Dva výskyty. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
-    "long": "Číslice 9 zde symbolicky otevírá sounáležitost, uzavírání a širší perspektivu. Opakování lze využít jako připomínku rovnováhy mezi tímto tématem a ostatními.",
-    "potential": "Mohli byste prozkoumat sounáležitost, uzavírání a širší perspektivu.",
-    "activity": "Sepište, co si přejete dokončit a co už můžete pustit.",
-    "sourceId": "editorial",
+    "title": "Analýza a hledání smyslu · dva výskyty",
+    "short": "Dva výskyty. Číslice 9 zde nabízí symbolický námět pro promýšlení souvislostí a vlastní hledání smyslu.",
+    "long": "Číslice 9 se v této tradici spojuje s tématem „analýza a hledání smyslu“. Dva výskyty lze číst jako opakovaný podnět, nikoli jako dvojnásobnou schopnost. Zkuste hledat vlastní rovnováhu mezi tímto tématem a ostatními.",
+    "potential": "Prostor pro promýšlení souvislostí a vlastní hledání smyslu podle vlastních zkušeností.",
+    "activity": "Zformulujte jednu otázku, kterou chcete lépe pochopit, a zvažte různé pohledy.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:9:3": {
-    "title": "Nadhled · tři výskyty",
-    "short": "Tři výskyty. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
-    "long": "Číslice 9 zde symbolicky otevírá sounáležitost, uzavírání a širší perspektivu. Výrazné opakování zve k otázce, kdy vám téma pomáhá a kdy potřebujete oddech.",
-    "potential": "Mohli byste prozkoumat sounáležitost, uzavírání a širší perspektivu.",
-    "activity": "Sepište, co si přejete dokončit a co už můžete pustit.",
-    "sourceId": "editorial",
+    "title": "Analýza a hledání smyslu · tři výskyty",
+    "short": "Tři výskyty. Číslice 9 zde nabízí symbolický námět pro promýšlení souvislostí a vlastní hledání smyslu.",
+    "long": "Číslice 9 se v této tradici spojuje s tématem „analýza a hledání smyslu“. Tři výskyty jsou výraznou součástí zápisu data, ale neměří vlohy ani intenzitu prožívání. Sami můžete rozhodnout, které otázky vás oslovují.",
+    "potential": "Prostor pro promýšlení souvislostí a vlastní hledání smyslu podle vlastních zkušeností.",
+    "activity": "Zformulujte jednu otázku, kterou chcete lépe pochopit, a zvažte různé pohledy.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:9:4": {
-    "title": "Nadhled · čtyři a více výskytů",
-    "short": "Čtyři a více výskytů. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
-    "long": "Číslice 9 zde symbolicky otevírá sounáležitost, uzavírání a širší perspektivu. Mnohonásobné opakování pouze popisuje číslice data; neznamená vyšší schopnost či hodnotu.",
-    "potential": "Mohli byste prozkoumat sounáležitost, uzavírání a širší perspektivu.",
-    "activity": "Sepište, co si přejete dokončit a co už můžete pustit.",
-    "sourceId": "editorial",
+    "title": "Analýza a hledání smyslu · čtyři a více výskytů",
+    "short": "Čtyři a více výskytů. Číslice 9 zde nabízí symbolický námět pro promýšlení souvislostí a vlastní hledání smyslu.",
+    "long": "Číslice 9 se v této tradici spojuje s tématem „analýza a hledání smyslu“. Mnohonásobné opakování číslice v datu neurčuje osobnost ani nezaručuje mimořádnou schopnost. Vyberte si jen takový podnět, který odpovídá vaší zkušenosti.",
+    "potential": "Prostor pro promýšlení souvislostí a vlastní hledání smyslu podle vlastních zkušeností.",
+    "activity": "Zformulujte jednu otázku, kterou chcete lépe pochopit, a zvažte různé pohledy.",
+    "sourceId": "najdise-grid",
     "sourceRefs": [
+      "najdise-grid",
       "editorial"
     ],
     "evidenceLevel": "editorial_synthesis"

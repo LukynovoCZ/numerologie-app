@@ -147,7 +147,10 @@ describe("další výpočty a invarianty", () => {
       personality: { value: 5 },
       maturity: { value: 3 },
     });
-    expect(run({ name: "CH" }).name?.expression.value).toBe(2);
+    expect(run({ name: "CH" }).name?.expression.value).toBe(11);
+    expect(run({ name: "CH", nameMasters: false }).name?.expression.value).toBe(
+      2,
+    );
     expect(run({ name: "Y", yVowel: true }).name?.soul.value).toBe(7);
     expect(run({ name: "Y", yVowel: false }).name?.soul.value).toBe(0);
     expect(run({ name: "---" }).name).toBeNull();

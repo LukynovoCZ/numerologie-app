@@ -3,6 +3,8 @@ export type Input = {
   birth: string;
   time?: string;
   name?: string;
+  surname?: string;
+  nameMasters?: boolean;
   analysis: string;
   year: number;
   masters: boolean;

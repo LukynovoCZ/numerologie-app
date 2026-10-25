@@ -17,8 +17,24 @@ export function annualVibrations(birth: CalendarDate, analysis: CalendarDate) {
     active: year === activeYear(birth, analysis),
   });
   const start = year - (personalYear(birth, year) - 1);
+  const boundaries = [
+    birthday(birth, year),
+    ...[3, 6, 9].map((offset) =>
+      addCalendarMonths(birthday(birth, year), offset),
+    ),
+    birthday(birth, year + 1),
+  ];
+  const quarters = Array.from({ length: 4 }, (_, i) => ({
+    index: i + 1,
+    from: dateText(boundaries[i]),
+    until: dateText(boundaries[i + 1]),
+    active:
+      calendarKey(analysis) >= calendarKey(boundaries[i]) &&
+      calendarKey(analysis) < calendarKey(boundaries[i + 1]),
+  }));
   return {
     current: period(year),
+    quarters,
     periods: Array.from({ length: 9 }, (_, i) => start + i)
       .filter((y) => y >= 1 && y < 9999)
       .map(period),
@@ -122,4 +138,30 @@ export function triangleCycles(
     ageConvention: "reduced-life-path-1-9",
     triangle,
   };
+}
+
+const calendarKey = (d: CalendarDate) => d.year * 10000 + d.month * 100 + d.day;
+export function addCalendarMonths(
+  date: CalendarDate,
+  months: number,
+): CalendarDate {
+  const absolute = date.year * 12 + date.month - 1 + months,
+    year = Math.floor(absolute / 12),
+    month = (absolute % 12) + 1;
+  const leapYear = year % 4 === 0 && (year % 100 !== 0 || year % 400 === 0);
+  const maxDay = [
+    31,
+    leapYear ? 29 : 28,
+    31,
+    30,
+    31,
+    30,
+    31,
+    31,
+    30,
+    31,
+    30,
+    31,
+  ][month - 1];
+  return { year, month, day: Math.min(date.day, maxDay) };
 }
