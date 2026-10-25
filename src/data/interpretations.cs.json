@@ -6,7 +6,10 @@
     "potential": "Prostor pro více možností a práci bez jediného pevného tématu.",
     "activity": "Zkuste si vybrat jeden malý, dosažitelný záměr.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "life:1": {
@@ -16,7 +19,10 @@
     "potential": "Prostor pro vlastní iniciativu a hledání osobního směru.",
     "activity": "Zapište si jeden krok, o kterém rozhodnete sami.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "life:2": {
@@ -26,7 +32,10 @@
     "potential": "Prostor pro naslouchání, jemnost a vzájemnou podporu.",
     "activity": "Při rozhovoru nejprve vlastními slovy shrňte pohled druhého.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "life:3": {
@@ -36,7 +45,10 @@
     "potential": "Prostor pro tvořivost, sdílení a radost z objevování.",
     "activity": "Věnujte deset minut volnému psaní nebo kreslení.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "life:4": {
@@ -46,7 +58,10 @@
     "potential": "Prostor pro pravidelnost, péči o detaily a praktické zázemí.",
     "activity": "Rozdělte jeden velký úkol na tři malé kroky.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "life:5": {
@@ -56,7 +71,10 @@
     "potential": "Prostor pro zvídavost, pohyb a zkoušení nových možností.",
     "activity": "Vyzkoušejte drobnou změnu své obvyklé rutiny.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "life:6": {
@@ -66,7 +84,10 @@
     "potential": "Prostor pro odpovědnost, blízkost a rovnováhu v péči.",
     "activity": "Pojmenujte jednu svou potřebu i jednu hranici.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "life:7": {
@@ -76,7 +97,10 @@
     "potential": "Prostor pro soustředění, otázky a hledání souvislostí.",
     "activity": "Dopřejte si chvíli ticha a zapište otázku, kterou chcete prozkoumat.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "life:8": {
@@ -86,7 +110,10 @@
     "potential": "Prostor pro vědomé zacházení se zdroji a dotahování záměrů.",
     "activity": "Zkontrolujte, kam tento týden směřují váš čas a energie.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "life:9": {
@@ -96,7 +123,10 @@
     "potential": "Prostor pro sounáležitost, uzavírání a širší perspektivu.",
     "activity": "Sepište, co si přejete dokončit a co už můžete pustit.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "life:11": {
@@ -106,7 +136,10 @@
     "potential": "Prostor pro propojení inspirace s pozorným nasloucháním.",
     "activity": "Zachyťte nápad a připojte k němu jeden praktický krok.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "life:22": {
@@ -116,7 +149,10 @@
     "potential": "Prostor pro převádění širšího záměru do konkrétní podoby.",
     "activity": "Vyberte nejmenší uskutečnitelnou část svého záměru.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "life:33": {
@@ -126,7 +162,10 @@
     "potential": "Prostor pro podporu druhých se zachováním vlastních hranic.",
     "activity": "Zvažte, jak nabídnout pomoc, aniž byste přehlíželi vlastní potřeby.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "year:0": {
@@ -136,7 +175,10 @@
     "potential": "Prostor pro více možností a práci bez jediného pevného tématu.",
     "activity": "Zkuste si vybrat jeden malý, dosažitelný záměr.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "year:1": {
@@ -146,7 +188,10 @@
     "potential": "Prostor pro vlastní iniciativu a hledání osobního směru.",
     "activity": "Zapište si jeden krok, o kterém rozhodnete sami.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "year:2": {
@@ -156,7 +201,10 @@
     "potential": "Prostor pro naslouchání, jemnost a vzájemnou podporu.",
     "activity": "Při rozhovoru nejprve vlastními slovy shrňte pohled druhého.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "year:3": {
@@ -166,7 +214,10 @@
     "potential": "Prostor pro tvořivost, sdílení a radost z objevování.",
     "activity": "Věnujte deset minut volnému psaní nebo kreslení.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "year:4": {
@@ -176,7 +227,10 @@
     "potential": "Prostor pro pravidelnost, péči o detaily a praktické zázemí.",
     "activity": "Rozdělte jeden velký úkol na tři malé kroky.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "year:5": {
@@ -186,7 +240,10 @@
     "potential": "Prostor pro zvídavost, pohyb a zkoušení nových možností.",
     "activity": "Vyzkoušejte drobnou změnu své obvyklé rutiny.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "year:6": {
@@ -196,7 +253,10 @@
     "potential": "Prostor pro odpovědnost, blízkost a rovnováhu v péči.",
     "activity": "Pojmenujte jednu svou potřebu i jednu hranici.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "year:7": {
@@ -206,7 +266,10 @@
     "potential": "Prostor pro soustředění, otázky a hledání souvislostí.",
     "activity": "Dopřejte si chvíli ticha a zapište otázku, kterou chcete prozkoumat.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "year:8": {
@@ -216,7 +279,10 @@
     "potential": "Prostor pro vědomé zacházení se zdroji a dotahování záměrů.",
     "activity": "Zkontrolujte, kam tento týden směřují váš čas a energie.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "year:9": {
@@ -226,7 +292,10 @@
     "potential": "Prostor pro sounáležitost, uzavírání a širší perspektivu.",
     "activity": "Sepište, co si přejete dokončit a co už můžete pustit.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "year:11": {
@@ -236,7 +305,10 @@
     "potential": "Prostor pro propojení inspirace s pozorným nasloucháním.",
     "activity": "Zachyťte nápad a připojte k němu jeden praktický krok.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "year:22": {
@@ -246,7 +318,10 @@
     "potential": "Prostor pro převádění širšího záměru do konkrétní podoby.",
     "activity": "Vyberte nejmenší uskutečnitelnou část svého záměru.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "year:33": {
@@ -256,7 +331,10 @@
     "potential": "Prostor pro podporu druhých se zachováním vlastních hranic.",
     "activity": "Zvažte, jak nabídnout pomoc, aniž byste přehlíželi vlastní potřeby.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "month:0": {
@@ -266,7 +344,10 @@
     "potential": "Prostor pro více možností a práci bez jediného pevného tématu.",
     "activity": "Zkuste si vybrat jeden malý, dosažitelný záměr.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "month:1": {
@@ -276,7 +357,10 @@
     "potential": "Prostor pro vlastní iniciativu a hledání osobního směru.",
     "activity": "Zapište si jeden krok, o kterém rozhodnete sami.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "month:2": {
@@ -286,7 +370,10 @@
     "potential": "Prostor pro naslouchání, jemnost a vzájemnou podporu.",
     "activity": "Při rozhovoru nejprve vlastními slovy shrňte pohled druhého.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "month:3": {
@@ -296,7 +383,10 @@
     "potential": "Prostor pro tvořivost, sdílení a radost z objevování.",
     "activity": "Věnujte deset minut volnému psaní nebo kreslení.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "month:4": {
@@ -306,7 +396,10 @@
     "potential": "Prostor pro pravidelnost, péči o detaily a praktické zázemí.",
     "activity": "Rozdělte jeden velký úkol na tři malé kroky.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "month:5": {
@@ -316,7 +409,10 @@
     "potential": "Prostor pro zvídavost, pohyb a zkoušení nových možností.",
     "activity": "Vyzkoušejte drobnou změnu své obvyklé rutiny.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "month:6": {
@@ -326,7 +422,10 @@
     "potential": "Prostor pro odpovědnost, blízkost a rovnováhu v péči.",
     "activity": "Pojmenujte jednu svou potřebu i jednu hranici.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "month:7": {
@@ -336,7 +435,10 @@
     "potential": "Prostor pro soustředění, otázky a hledání souvislostí.",
     "activity": "Dopřejte si chvíli ticha a zapište otázku, kterou chcete prozkoumat.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "month:8": {
@@ -346,7 +448,10 @@
     "potential": "Prostor pro vědomé zacházení se zdroji a dotahování záměrů.",
     "activity": "Zkontrolujte, kam tento týden směřují váš čas a energie.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "month:9": {
@@ -356,7 +461,10 @@
     "potential": "Prostor pro sounáležitost, uzavírání a širší perspektivu.",
     "activity": "Sepište, co si přejete dokončit a co už můžete pustit.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "month:11": {
@@ -366,7 +474,10 @@
     "potential": "Prostor pro propojení inspirace s pozorným nasloucháním.",
     "activity": "Zachyťte nápad a připojte k němu jeden praktický krok.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "month:22": {
@@ -376,7 +487,10 @@
     "potential": "Prostor pro převádění širšího záměru do konkrétní podoby.",
     "activity": "Vyberte nejmenší uskutečnitelnou část svého záměru.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "month:33": {
@@ -386,7 +500,10 @@
     "potential": "Prostor pro podporu druhých se zachováním vlastních hranic.",
     "activity": "Zvažte, jak nabídnout pomoc, aniž byste přehlíželi vlastní potřeby.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "day:0": {
@@ -396,7 +513,10 @@
     "potential": "Prostor pro více možností a práci bez jediného pevného tématu.",
     "activity": "Zkuste si vybrat jeden malý, dosažitelný záměr.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "day:1": {
@@ -406,7 +526,10 @@
     "potential": "Prostor pro vlastní iniciativu a hledání osobního směru.",
     "activity": "Zapište si jeden krok, o kterém rozhodnete sami.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "day:2": {
@@ -416,7 +539,10 @@
     "potential": "Prostor pro naslouchání, jemnost a vzájemnou podporu.",
     "activity": "Při rozhovoru nejprve vlastními slovy shrňte pohled druhého.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "day:3": {
@@ -426,7 +552,10 @@
     "potential": "Prostor pro tvořivost, sdílení a radost z objevování.",
     "activity": "Věnujte deset minut volnému psaní nebo kreslení.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "day:4": {
@@ -436,7 +565,10 @@
     "potential": "Prostor pro pravidelnost, péči o detaily a praktické zázemí.",
     "activity": "Rozdělte jeden velký úkol na tři malé kroky.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "day:5": {
@@ -446,7 +578,10 @@
     "potential": "Prostor pro zvídavost, pohyb a zkoušení nových možností.",
     "activity": "Vyzkoušejte drobnou změnu své obvyklé rutiny.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "day:6": {
@@ -456,7 +591,10 @@
     "potential": "Prostor pro odpovědnost, blízkost a rovnováhu v péči.",
     "activity": "Pojmenujte jednu svou potřebu i jednu hranici.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "day:7": {
@@ -466,7 +604,10 @@
     "potential": "Prostor pro soustředění, otázky a hledání souvislostí.",
     "activity": "Dopřejte si chvíli ticha a zapište otázku, kterou chcete prozkoumat.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "day:8": {
@@ -476,7 +617,10 @@
     "potential": "Prostor pro vědomé zacházení se zdroji a dotahování záměrů.",
     "activity": "Zkontrolujte, kam tento týden směřují váš čas a energie.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "day:9": {
@@ -486,7 +630,10 @@
     "potential": "Prostor pro sounáležitost, uzavírání a širší perspektivu.",
     "activity": "Sepište, co si přejete dokončit a co už můžete pustit.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "day:11": {
@@ -496,7 +643,10 @@
     "potential": "Prostor pro propojení inspirace s pozorným nasloucháním.",
     "activity": "Zachyťte nápad a připojte k němu jeden praktický krok.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "day:22": {
@@ -506,7 +656,10 @@
     "potential": "Prostor pro převádění širšího záměru do konkrétní podoby.",
     "activity": "Vyberte nejmenší uskutečnitelnou část svého záměru.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "day:33": {
@@ -516,7 +669,10 @@
     "potential": "Prostor pro podporu druhých se zachováním vlastních hranic.",
     "activity": "Zvažte, jak nabídnout pomoc, aniž byste přehlíželi vlastní potřeby.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "pinnacle:0": {
@@ -526,7 +682,10 @@
     "potential": "Prostor pro více možností a práci bez jediného pevného tématu.",
     "activity": "Zkuste si vybrat jeden malý, dosažitelný záměr.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "pinnacle:1": {
@@ -536,7 +695,10 @@
     "potential": "Prostor pro vlastní iniciativu a hledání osobního směru.",
     "activity": "Zapište si jeden krok, o kterém rozhodnete sami.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "pinnacle:2": {
@@ -546,7 +708,10 @@
     "potential": "Prostor pro naslouchání, jemnost a vzájemnou podporu.",
     "activity": "Při rozhovoru nejprve vlastními slovy shrňte pohled druhého.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "pinnacle:3": {
@@ -556,7 +721,10 @@
     "potential": "Prostor pro tvořivost, sdílení a radost z objevování.",
     "activity": "Věnujte deset minut volnému psaní nebo kreslení.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "pinnacle:4": {
@@ -566,7 +734,10 @@
     "potential": "Prostor pro pravidelnost, péči o detaily a praktické zázemí.",
     "activity": "Rozdělte jeden velký úkol na tři malé kroky.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "pinnacle:5": {
@@ -576,7 +747,10 @@
     "potential": "Prostor pro zvídavost, pohyb a zkoušení nových možností.",
     "activity": "Vyzkoušejte drobnou změnu své obvyklé rutiny.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "pinnacle:6": {
@@ -586,7 +760,10 @@
     "potential": "Prostor pro odpovědnost, blízkost a rovnováhu v péči.",
     "activity": "Pojmenujte jednu svou potřebu i jednu hranici.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "pinnacle:7": {
@@ -596,7 +773,10 @@
     "potential": "Prostor pro soustředění, otázky a hledání souvislostí.",
     "activity": "Dopřejte si chvíli ticha a zapište otázku, kterou chcete prozkoumat.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "pinnacle:8": {
@@ -606,7 +786,10 @@
     "potential": "Prostor pro vědomé zacházení se zdroji a dotahování záměrů.",
     "activity": "Zkontrolujte, kam tento týden směřují váš čas a energie.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "pinnacle:9": {
@@ -616,7 +799,10 @@
     "potential": "Prostor pro sounáležitost, uzavírání a širší perspektivu.",
     "activity": "Sepište, co si přejete dokončit a co už můžete pustit.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "pinnacle:11": {
@@ -626,7 +812,10 @@
     "potential": "Prostor pro propojení inspirace s pozorným nasloucháním.",
     "activity": "Zachyťte nápad a připojte k němu jeden praktický krok.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "pinnacle:22": {
@@ -636,7 +825,10 @@
     "potential": "Prostor pro převádění širšího záměru do konkrétní podoby.",
     "activity": "Vyberte nejmenší uskutečnitelnou část svého záměru.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "pinnacle:33": {
@@ -646,7 +838,10 @@
     "potential": "Prostor pro podporu druhých se zachováním vlastních hranic.",
     "activity": "Zvažte, jak nabídnout pomoc, aniž byste přehlíželi vlastní potřeby.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "challenge:0": {
@@ -656,7 +851,10 @@
     "potential": "Prostor pro více možností a práci bez jediného pevného tématu.",
     "activity": "Zkuste si vybrat jeden malý, dosažitelný záměr.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "challenge:1": {
@@ -666,7 +864,10 @@
     "potential": "Prostor pro vlastní iniciativu a hledání osobního směru.",
     "activity": "Zapište si jeden krok, o kterém rozhodnete sami.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "challenge:2": {
@@ -676,7 +877,10 @@
     "potential": "Prostor pro naslouchání, jemnost a vzájemnou podporu.",
     "activity": "Při rozhovoru nejprve vlastními slovy shrňte pohled druhého.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "challenge:3": {
@@ -686,7 +890,10 @@
     "potential": "Prostor pro tvořivost, sdílení a radost z objevování.",
     "activity": "Věnujte deset minut volnému psaní nebo kreslení.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "challenge:4": {
@@ -696,7 +903,10 @@
     "potential": "Prostor pro pravidelnost, péči o detaily a praktické zázemí.",
     "activity": "Rozdělte jeden velký úkol na tři malé kroky.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "challenge:5": {
@@ -706,7 +916,10 @@
     "potential": "Prostor pro zvídavost, pohyb a zkoušení nových možností.",
     "activity": "Vyzkoušejte drobnou změnu své obvyklé rutiny.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "challenge:6": {
@@ -716,7 +929,10 @@
     "potential": "Prostor pro odpovědnost, blízkost a rovnováhu v péči.",
     "activity": "Pojmenujte jednu svou potřebu i jednu hranici.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "challenge:7": {
@@ -726,7 +942,10 @@
     "potential": "Prostor pro soustředění, otázky a hledání souvislostí.",
     "activity": "Dopřejte si chvíli ticha a zapište otázku, kterou chcete prozkoumat.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "challenge:8": {
@@ -736,7 +955,10 @@
     "potential": "Prostor pro vědomé zacházení se zdroji a dotahování záměrů.",
     "activity": "Zkontrolujte, kam tento týden směřují váš čas a energie.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "challenge:9": {
@@ -746,7 +968,10 @@
     "potential": "Prostor pro sounáležitost, uzavírání a širší perspektivu.",
     "activity": "Sepište, co si přejete dokončit a co už můžete pustit.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "challenge:11": {
@@ -756,7 +981,10 @@
     "potential": "Prostor pro propojení inspirace s pozorným nasloucháním.",
     "activity": "Zachyťte nápad a připojte k němu jeden praktický krok.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "challenge:22": {
@@ -766,7 +994,10 @@
     "potential": "Prostor pro převádění širšího záměru do konkrétní podoby.",
     "activity": "Vyberte nejmenší uskutečnitelnou část svého záměru.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "challenge:33": {
@@ -776,7 +1007,10 @@
     "potential": "Prostor pro podporu druhých se zachováním vlastních hranic.",
     "activity": "Zvažte, jak nabídnout pomoc, aniž byste přehlíželi vlastní potřeby.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:1:0": {
@@ -786,7 +1020,9 @@
     "potential": "Mohli byste prozkoumat vlastní iniciativu a hledání osobního směru.",
     "activity": "Zapište si jeden krok, o kterém rozhodnete sami.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:1:1": {
@@ -796,7 +1032,9 @@
     "potential": "Mohli byste prozkoumat vlastní iniciativu a hledání osobního směru.",
     "activity": "Zapište si jeden krok, o kterém rozhodnete sami.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:1:2": {
@@ -806,7 +1044,9 @@
     "potential": "Mohli byste prozkoumat vlastní iniciativu a hledání osobního směru.",
     "activity": "Zapište si jeden krok, o kterém rozhodnete sami.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:1:3": {
@@ -816,7 +1056,9 @@
     "potential": "Mohli byste prozkoumat vlastní iniciativu a hledání osobního směru.",
     "activity": "Zapište si jeden krok, o kterém rozhodnete sami.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:1:4": {
@@ -826,7 +1068,9 @@
     "potential": "Mohli byste prozkoumat vlastní iniciativu a hledání osobního směru.",
     "activity": "Zapište si jeden krok, o kterém rozhodnete sami.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:2:0": {
@@ -836,7 +1080,9 @@
     "potential": "Mohli byste prozkoumat naslouchání, jemnost a vzájemnou podporu.",
     "activity": "Při rozhovoru nejprve vlastními slovy shrňte pohled druhého.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:2:1": {
@@ -846,7 +1092,9 @@
     "potential": "Mohli byste prozkoumat naslouchání, jemnost a vzájemnou podporu.",
     "activity": "Při rozhovoru nejprve vlastními slovy shrňte pohled druhého.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:2:2": {
@@ -856,7 +1104,9 @@
     "potential": "Mohli byste prozkoumat naslouchání, jemnost a vzájemnou podporu.",
     "activity": "Při rozhovoru nejprve vlastními slovy shrňte pohled druhého.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:2:3": {
@@ -866,7 +1116,9 @@
     "potential": "Mohli byste prozkoumat naslouchání, jemnost a vzájemnou podporu.",
     "activity": "Při rozhovoru nejprve vlastními slovy shrňte pohled druhého.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:2:4": {
@@ -876,7 +1128,9 @@
     "potential": "Mohli byste prozkoumat naslouchání, jemnost a vzájemnou podporu.",
     "activity": "Při rozhovoru nejprve vlastními slovy shrňte pohled druhého.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:3:0": {
@@ -886,7 +1140,9 @@
     "potential": "Mohli byste prozkoumat tvořivost, sdílení a radost z objevování.",
     "activity": "Věnujte deset minut volnému psaní nebo kreslení.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:3:1": {
@@ -896,7 +1152,9 @@
     "potential": "Mohli byste prozkoumat tvořivost, sdílení a radost z objevování.",
     "activity": "Věnujte deset minut volnému psaní nebo kreslení.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:3:2": {
@@ -906,7 +1164,9 @@
     "potential": "Mohli byste prozkoumat tvořivost, sdílení a radost z objevování.",
     "activity": "Věnujte deset minut volnému psaní nebo kreslení.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:3:3": {
@@ -916,7 +1176,9 @@
     "potential": "Mohli byste prozkoumat tvořivost, sdílení a radost z objevování.",
     "activity": "Věnujte deset minut volnému psaní nebo kreslení.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:3:4": {
@@ -926,7 +1188,9 @@
     "potential": "Mohli byste prozkoumat tvořivost, sdílení a radost z objevování.",
     "activity": "Věnujte deset minut volnému psaní nebo kreslení.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:4:0": {
@@ -936,7 +1200,9 @@
     "potential": "Mohli byste prozkoumat pravidelnost, péči o detaily a praktické zázemí.",
     "activity": "Rozdělte jeden velký úkol na tři malé kroky.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:4:1": {
@@ -946,7 +1212,9 @@
     "potential": "Mohli byste prozkoumat pravidelnost, péči o detaily a praktické zázemí.",
     "activity": "Rozdělte jeden velký úkol na tři malé kroky.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:4:2": {
@@ -956,7 +1224,9 @@
     "potential": "Mohli byste prozkoumat pravidelnost, péči o detaily a praktické zázemí.",
     "activity": "Rozdělte jeden velký úkol na tři malé kroky.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:4:3": {
@@ -966,7 +1236,9 @@
     "potential": "Mohli byste prozkoumat pravidelnost, péči o detaily a praktické zázemí.",
     "activity": "Rozdělte jeden velký úkol na tři malé kroky.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:4:4": {
@@ -976,7 +1248,9 @@
     "potential": "Mohli byste prozkoumat pravidelnost, péči o detaily a praktické zázemí.",
     "activity": "Rozdělte jeden velký úkol na tři malé kroky.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:5:0": {
@@ -986,7 +1260,9 @@
     "potential": "Mohli byste prozkoumat zvídavost, pohyb a zkoušení nových možností.",
     "activity": "Vyzkoušejte drobnou změnu své obvyklé rutiny.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:5:1": {
@@ -996,7 +1272,9 @@
     "potential": "Mohli byste prozkoumat zvídavost, pohyb a zkoušení nových možností.",
     "activity": "Vyzkoušejte drobnou změnu své obvyklé rutiny.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:5:2": {
@@ -1006,7 +1284,9 @@
     "potential": "Mohli byste prozkoumat zvídavost, pohyb a zkoušení nových možností.",
     "activity": "Vyzkoušejte drobnou změnu své obvyklé rutiny.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:5:3": {
@@ -1016,7 +1296,9 @@
     "potential": "Mohli byste prozkoumat zvídavost, pohyb a zkoušení nových možností.",
     "activity": "Vyzkoušejte drobnou změnu své obvyklé rutiny.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:5:4": {
@@ -1026,7 +1308,9 @@
     "potential": "Mohli byste prozkoumat zvídavost, pohyb a zkoušení nových možností.",
     "activity": "Vyzkoušejte drobnou změnu své obvyklé rutiny.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:6:0": {
@@ -1036,7 +1320,9 @@
     "potential": "Mohli byste prozkoumat odpovědnost, blízkost a rovnováhu v péči.",
     "activity": "Pojmenujte jednu svou potřebu i jednu hranici.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:6:1": {
@@ -1046,7 +1332,9 @@
     "potential": "Mohli byste prozkoumat odpovědnost, blízkost a rovnováhu v péči.",
     "activity": "Pojmenujte jednu svou potřebu i jednu hranici.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:6:2": {
@@ -1056,7 +1344,9 @@
     "potential": "Mohli byste prozkoumat odpovědnost, blízkost a rovnováhu v péči.",
     "activity": "Pojmenujte jednu svou potřebu i jednu hranici.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:6:3": {
@@ -1066,7 +1356,9 @@
     "potential": "Mohli byste prozkoumat odpovědnost, blízkost a rovnováhu v péči.",
     "activity": "Pojmenujte jednu svou potřebu i jednu hranici.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:6:4": {
@@ -1076,7 +1368,9 @@
     "potential": "Mohli byste prozkoumat odpovědnost, blízkost a rovnováhu v péči.",
     "activity": "Pojmenujte jednu svou potřebu i jednu hranici.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:7:0": {
@@ -1086,7 +1380,9 @@
     "potential": "Mohli byste prozkoumat soustředění, otázky a hledání souvislostí.",
     "activity": "Dopřejte si chvíli ticha a zapište otázku, kterou chcete prozkoumat.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:7:1": {
@@ -1096,7 +1392,9 @@
     "potential": "Mohli byste prozkoumat soustředění, otázky a hledání souvislostí.",
     "activity": "Dopřejte si chvíli ticha a zapište otázku, kterou chcete prozkoumat.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:7:2": {
@@ -1106,7 +1404,9 @@
     "potential": "Mohli byste prozkoumat soustředění, otázky a hledání souvislostí.",
     "activity": "Dopřejte si chvíli ticha a zapište otázku, kterou chcete prozkoumat.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:7:3": {
@@ -1116,7 +1416,9 @@
     "potential": "Mohli byste prozkoumat soustředění, otázky a hledání souvislostí.",
     "activity": "Dopřejte si chvíli ticha a zapište otázku, kterou chcete prozkoumat.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:7:4": {
@@ -1126,7 +1428,9 @@
     "potential": "Mohli byste prozkoumat soustředění, otázky a hledání souvislostí.",
     "activity": "Dopřejte si chvíli ticha a zapište otázku, kterou chcete prozkoumat.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:8:0": {
@@ -1136,7 +1440,9 @@
     "potential": "Mohli byste prozkoumat vědomé zacházení se zdroji a dotahování záměrů.",
     "activity": "Zkontrolujte, kam tento týden směřují váš čas a energie.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:8:1": {
@@ -1146,7 +1452,9 @@
     "potential": "Mohli byste prozkoumat vědomé zacházení se zdroji a dotahování záměrů.",
     "activity": "Zkontrolujte, kam tento týden směřují váš čas a energie.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:8:2": {
@@ -1156,7 +1464,9 @@
     "potential": "Mohli byste prozkoumat vědomé zacházení se zdroji a dotahování záměrů.",
     "activity": "Zkontrolujte, kam tento týden směřují váš čas a energie.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:8:3": {
@@ -1166,7 +1476,9 @@
     "potential": "Mohli byste prozkoumat vědomé zacházení se zdroji a dotahování záměrů.",
     "activity": "Zkontrolujte, kam tento týden směřují váš čas a energie.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:8:4": {
@@ -1176,7 +1488,9 @@
     "potential": "Mohli byste prozkoumat vědomé zacházení se zdroji a dotahování záměrů.",
     "activity": "Zkontrolujte, kam tento týden směřují váš čas a energie.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:9:0": {
@@ -1186,7 +1500,9 @@
     "potential": "Mohli byste prozkoumat sounáležitost, uzavírání a širší perspektivu.",
     "activity": "Sepište, co si přejete dokončit a co už můžete pustit.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:9:1": {
@@ -1196,7 +1512,9 @@
     "potential": "Mohli byste prozkoumat sounáležitost, uzavírání a širší perspektivu.",
     "activity": "Sepište, co si přejete dokončit a co už můžete pustit.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:9:2": {
@@ -1206,7 +1524,9 @@
     "potential": "Mohli byste prozkoumat sounáležitost, uzavírání a širší perspektivu.",
     "activity": "Sepište, co si přejete dokončit a co už můžete pustit.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:9:3": {
@@ -1216,7 +1536,9 @@
     "potential": "Mohli byste prozkoumat sounáležitost, uzavírání a širší perspektivu.",
     "activity": "Sepište, co si přejete dokončit a co už můžete pustit.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "count:9:4": {
@@ -1226,7 +1548,9 @@
     "potential": "Mohli byste prozkoumat sounáležitost, uzavírání a širší perspektivu.",
     "activity": "Sepište, co si přejete dokončit a co už můžete pustit.",
     "sourceId": "editorial",
-    "sourceRefs": ["editorial"],
+    "sourceRefs": [
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "line:1-4-7:0": {
@@ -1236,7 +1560,10 @@
     "potential": "Prostor pro praktické kroky v podobě, kterou si sami zvolíte.",
     "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat praktické kroky.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "line:1-4-7:1": {
@@ -1246,7 +1573,10 @@
     "potential": "Prostor pro praktické kroky v podobě, kterou si sami zvolíte.",
     "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat praktické kroky.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "line:1-4-7:2": {
@@ -1256,7 +1586,10 @@
     "potential": "Prostor pro praktické kroky v podobě, kterou si sami zvolíte.",
     "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat praktické kroky.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "line:1-4-7:3": {
@@ -1266,7 +1599,10 @@
     "potential": "Prostor pro praktické kroky v podobě, kterou si sami zvolíte.",
     "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat praktické kroky.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "line:2-5-8:0": {
@@ -1276,7 +1612,10 @@
     "potential": "Prostor pro citovou rovnováhu v podobě, kterou si sami zvolíte.",
     "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat citovou rovnováhu.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "line:2-5-8:1": {
@@ -1286,7 +1625,10 @@
     "potential": "Prostor pro citovou rovnováhu v podobě, kterou si sami zvolíte.",
     "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat citovou rovnováhu.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "line:2-5-8:2": {
@@ -1296,7 +1638,10 @@
     "potential": "Prostor pro citovou rovnováhu v podobě, kterou si sami zvolíte.",
     "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat citovou rovnováhu.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "line:2-5-8:3": {
@@ -1306,7 +1651,10 @@
     "potential": "Prostor pro citovou rovnováhu v podobě, kterou si sami zvolíte.",
     "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat citovou rovnováhu.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "line:3-6-9:0": {
@@ -1316,7 +1664,10 @@
     "potential": "Prostor pro práci s myšlenkami v podobě, kterou si sami zvolíte.",
     "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat práci s myšlenkami.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "line:3-6-9:1": {
@@ -1326,7 +1677,10 @@
     "potential": "Prostor pro práci s myšlenkami v podobě, kterou si sami zvolíte.",
     "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat práci s myšlenkami.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "line:3-6-9:2": {
@@ -1336,7 +1690,10 @@
     "potential": "Prostor pro práci s myšlenkami v podobě, kterou si sami zvolíte.",
     "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat práci s myšlenkami.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "line:3-6-9:3": {
@@ -1346,7 +1703,10 @@
     "potential": "Prostor pro práci s myšlenkami v podobě, kterou si sami zvolíte.",
     "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat práci s myšlenkami.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "line:1-2-3:0": {
@@ -1356,7 +1716,10 @@
     "potential": "Prostor pro plánování v podobě, kterou si sami zvolíte.",
     "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat plánování.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "line:1-2-3:1": {
@@ -1366,7 +1729,10 @@
     "potential": "Prostor pro plánování v podobě, kterou si sami zvolíte.",
     "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat plánování.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "line:1-2-3:2": {
@@ -1376,7 +1742,10 @@
     "potential": "Prostor pro plánování v podobě, kterou si sami zvolíte.",
     "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat plánování.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "line:1-2-3:3": {
@@ -1386,7 +1755,10 @@
     "potential": "Prostor pro plánování v podobě, kterou si sami zvolíte.",
     "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat plánování.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "line:4-5-6:0": {
@@ -1396,7 +1768,10 @@
     "potential": "Prostor pro vytrvalost a vůli v podobě, kterou si sami zvolíte.",
     "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat vytrvalost a vůli.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "line:4-5-6:1": {
@@ -1406,7 +1781,10 @@
     "potential": "Prostor pro vytrvalost a vůli v podobě, kterou si sami zvolíte.",
     "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat vytrvalost a vůli.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "line:4-5-6:2": {
@@ -1416,7 +1794,10 @@
     "potential": "Prostor pro vytrvalost a vůli v podobě, kterou si sami zvolíte.",
     "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat vytrvalost a vůli.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "line:4-5-6:3": {
@@ -1426,7 +1807,10 @@
     "potential": "Prostor pro vytrvalost a vůli v podobě, kterou si sami zvolíte.",
     "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat vytrvalost a vůli.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "line:7-8-9:0": {
@@ -1436,7 +1820,10 @@
     "potential": "Prostor pro vědomou aktivitu v podobě, kterou si sami zvolíte.",
     "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat vědomou aktivitu.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "line:7-8-9:1": {
@@ -1446,7 +1833,10 @@
     "potential": "Prostor pro vědomou aktivitu v podobě, kterou si sami zvolíte.",
     "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat vědomou aktivitu.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "line:7-8-9:2": {
@@ -1456,7 +1846,10 @@
     "potential": "Prostor pro vědomou aktivitu v podobě, kterou si sami zvolíte.",
     "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat vědomou aktivitu.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "line:7-8-9:3": {
@@ -1466,7 +1859,10 @@
     "potential": "Prostor pro vědomou aktivitu v podobě, kterou si sami zvolíte.",
     "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat vědomou aktivitu.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "line:1-5-9:0": {
@@ -1476,7 +1872,10 @@
     "potential": "Prostor pro odhodlání v podobě, kterou si sami zvolíte.",
     "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat odhodlání.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "line:1-5-9:1": {
@@ -1486,7 +1885,10 @@
     "potential": "Prostor pro odhodlání v podobě, kterou si sami zvolíte.",
     "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat odhodlání.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "line:1-5-9:2": {
@@ -1496,7 +1898,10 @@
     "potential": "Prostor pro odhodlání v podobě, kterou si sami zvolíte.",
     "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat odhodlání.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "line:1-5-9:3": {
@@ -1506,7 +1911,10 @@
     "potential": "Prostor pro odhodlání v podobě, kterou si sami zvolíte.",
     "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat odhodlání.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "line:3-5-7:0": {
@@ -1516,7 +1924,10 @@
     "potential": "Prostor pro hledání smyslu v podobě, kterou si sami zvolíte.",
     "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat hledání smyslu.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "line:3-5-7:1": {
@@ -1526,7 +1937,10 @@
     "potential": "Prostor pro hledání smyslu v podobě, kterou si sami zvolíte.",
     "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat hledání smyslu.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "line:3-5-7:2": {
@@ -1536,7 +1950,10 @@
     "potential": "Prostor pro hledání smyslu v podobě, kterou si sami zvolíte.",
     "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat hledání smyslu.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   },
   "line:3-5-7:3": {
@@ -1546,7 +1963,1310 @@
     "potential": "Prostor pro hledání smyslu v podobě, kterou si sami zvolíte.",
     "activity": "Zapište jednu konkrétní situaci, ve které byste chtěli prozkoumat hledání smyslu.",
     "sourceId": "editorial",
-    "sourceRefs": ["western-conventions", "editorial"],
+    "sourceRefs": [
+      "western-conventions",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:1": {
+    "title": "Samostatnost a vlastní směr",
+    "short": "V symbolickém čtení může toto období otevírat vlastní rozhodování, zdravou sebejistotu a samostatnost.",
+    "long": "Kde se chcete opřít o vlastní úsudek a kdy vám naopak pomůže spolupráce? Samostatnost se nemusí rovnat osamění.",
+    "potential": "Prostor pro vlastní rozhodování, zdravou sebejistotu a samostatnost ve vlastní, nedeterministické podobě.",
+    "activity": "Vyberte jeden drobný záměr, napište vlastní důvody a určete první krok.",
+    "sourceId": "najdise-vibration-1",
+    "sourceRefs": [
+      "najdise-vibration-1",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:1:year:1": {
+    "title": "Cyklus 1 + ORV 1 · nový krok",
+    "short": "Dlouhodobé téma cyklu 1 se zde potkává s ročním podnětem pro vlastní iniciativu a začátky.",
+    "long": "V této kombinaci můžete propojit vlastní rozhodování, zdravou sebejistotu a samostatnost s pozorností na vlastní iniciativu a začátky. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „samostatnost a vlastní směr“ a ročním podnětem „nový krok“.",
+    "activity": "Zvolte jeden malý začátek, který je v souladu s vašimi hodnotami.",
+    "sourceId": "najdise-vibration-1",
+    "sourceRefs": [
+      "najdise-vibration-1",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:1:year:2": {
+    "title": "Cyklus 1 + ORV 2 · naslouchání",
+    "short": "Dlouhodobé téma cyklu 1 se zde potkává s ročním podnětem pro spolupráci a citlivost.",
+    "long": "V této kombinaci můžete propojit vlastní rozhodování, zdravou sebejistotu a samostatnost s pozorností na spolupráci a citlivost. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „samostatnost a vlastní směr“ a ročním podnětem „naslouchání“.",
+    "activity": "Zeptejte se druhého na jeho pohled a ověřte si své domněnky.",
+    "sourceId": "najdise-vibration-1",
+    "sourceRefs": [
+      "najdise-vibration-1",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:1:year:3": {
+    "title": "Cyklus 1 + ORV 3 · sdílení",
+    "short": "Dlouhodobé téma cyklu 1 se zde potkává s ročním podnětem pro tvořivost, komunikaci a učení.",
+    "long": "V této kombinaci můžete propojit vlastní rozhodování, zdravou sebejistotu a samostatnost s pozorností na tvořivost, komunikaci a učení. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „samostatnost a vlastní směr“ a ročním podnětem „sdílení“.",
+    "activity": "Zkuste své zkušenosti vyjádřit tvořivou formou nebo je s někým sdílet.",
+    "sourceId": "najdise-vibration-1",
+    "sourceRefs": [
+      "najdise-vibration-1",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:1:year:4": {
+    "title": "Cyklus 1 + ORV 4 · praktická opora",
+    "short": "Dlouhodobé téma cyklu 1 se zde potkává s ročním podnětem pro pravidelnost, práci a odpočinek.",
+    "long": "V této kombinaci můžete propojit vlastní rozhodování, zdravou sebejistotu a samostatnost s pozorností na pravidelnost, práci a odpočinek. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „samostatnost a vlastní směr“ a ročním podnětem „praktická opora“.",
+    "activity": "Upravte jeden každodenní návyk tak, aby byl dlouhodobě udržitelný.",
+    "sourceId": "najdise-vibration-1",
+    "sourceRefs": [
+      "najdise-vibration-1",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:1:year:5": {
+    "title": "Cyklus 1 + ORV 5 · prostor pro změnu",
+    "short": "Dlouhodobé téma cyklu 1 se zde potkává s ročním podnětem pro zvídavost a volbu.",
+    "long": "V této kombinaci můžete propojit vlastní rozhodování, zdravou sebejistotu a samostatnost s pozorností na zvídavost a volbu. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „samostatnost a vlastní směr“ a ročním podnětem „prostor pro změnu“.",
+    "activity": "Prozkoumejte novou možnost malým krokem bez tlaku na okamžité rozhodnutí.",
+    "sourceId": "najdise-vibration-1",
+    "sourceRefs": [
+      "najdise-vibration-1",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:1:year:6": {
+    "title": "Cyklus 1 + ORV 6 · péče a hranice",
+    "short": "Dlouhodobé téma cyklu 1 se zde potkává s ročním podnětem pro vztahy, odpovědnost a vlastní kapacitu.",
+    "long": "V této kombinaci můžete propojit vlastní rozhodování, zdravou sebejistotu a samostatnost s pozorností na vztahy, odpovědnost a vlastní kapacitu. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „samostatnost a vlastní směr“ a ročním podnětem „péče a hranice“.",
+    "activity": "Domluvte se s blízkými na konkrétní pomoci i na prostoru pro sebe.",
+    "sourceId": "najdise-vibration-1",
+    "sourceRefs": [
+      "najdise-vibration-1",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:1:year:7": {
+    "title": "Cyklus 1 + ORV 7 · zastavení a reflexe",
+    "short": "Dlouhodobé téma cyklu 1 se zde potkává s ročním podnětem pro soustředění a hledání souvislostí.",
+    "long": "V této kombinaci můžete propojit vlastní rozhodování, zdravou sebejistotu a samostatnost s pozorností na soustředění a hledání souvislostí. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „samostatnost a vlastní směr“ a ročním podnětem „zastavení a reflexe“.",
+    "activity": "Vyhraďte si klidnou chvíli pro otázky, na které ještě neznáte odpověď.",
+    "sourceId": "najdise-vibration-1",
+    "sourceRefs": [
+      "najdise-vibration-1",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:1:year:8": {
+    "title": "Cyklus 1 + ORV 8 · vědomé uskutečnění",
+    "short": "Dlouhodobé téma cyklu 1 se zde potkává s ročním podnětem pro zacházení s časem, zdroji a vlivem.",
+    "long": "V této kombinaci můžete propojit vlastní rozhodování, zdravou sebejistotu a samostatnost s pozorností na zacházení s časem, zdroji a vlivem. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „samostatnost a vlastní směr“ a ročním podnětem „vědomé uskutečnění“.",
+    "activity": "Zkontrolujte priority, nároky a hranice jednoho projektu.",
+    "sourceId": "najdise-vibration-1",
+    "sourceRefs": [
+      "najdise-vibration-1",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:1:year:9": {
+    "title": "Cyklus 1 + ORV 9 · bilance a hodnoty",
+    "short": "Dlouhodobé téma cyklu 1 se zde potkává s ročním podnětem pro dokončování a přehodnocení priorit.",
+    "long": "V této kombinaci můžete propojit vlastní rozhodování, zdravou sebejistotu a samostatnost s pozorností na dokončování a přehodnocení priorit. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „samostatnost a vlastní směr“ a ročním podnětem „bilance a hodnoty“.",
+    "activity": "Pojmenujte jednu věc, kterou chcete uzavřít, a jednu, kterou si přejete zachovat.",
+    "sourceId": "najdise-vibration-1",
+    "sourceRefs": [
+      "najdise-vibration-1",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:2": {
+    "title": "Vnímavost a vztahy",
+    "short": "V symbolickém čtení může toto období otevírat naslouchání, intuici a ohleduplnou spolupráci.",
+    "long": "Můžete si všimnout, jak vyvažujete své potřeby a potřeby druhých. Pocit či intuici lze brát jako námět k otázce, nikoli jako jistotu o druhém člověku.",
+    "potential": "Prostor pro naslouchání, intuici a ohleduplnou spolupráci ve vlastní, nedeterministické podobě.",
+    "activity": "Domluvte si klidný rozhovor, při kterém každý dostane stejný prostor.",
+    "sourceId": "najdise-vibration-2",
+    "sourceRefs": [
+      "najdise-vibration-2",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:2:year:1": {
+    "title": "Cyklus 2 + ORV 1 · nový krok",
+    "short": "Dlouhodobé téma cyklu 2 se zde potkává s ročním podnětem pro vlastní iniciativu a začátky.",
+    "long": "V této kombinaci můžete propojit naslouchání, intuici a ohleduplnou spolupráci s pozorností na vlastní iniciativu a začátky. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vnímavost a vztahy“ a ročním podnětem „nový krok“.",
+    "activity": "Zvolte jeden malý začátek, který je v souladu s vašimi hodnotami.",
+    "sourceId": "najdise-vibration-2",
+    "sourceRefs": [
+      "najdise-vibration-2",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:2:year:2": {
+    "title": "Cyklus 2 + ORV 2 · naslouchání",
+    "short": "Dlouhodobé téma cyklu 2 se zde potkává s ročním podnětem pro spolupráci a citlivost.",
+    "long": "V této kombinaci můžete propojit naslouchání, intuici a ohleduplnou spolupráci s pozorností na spolupráci a citlivost. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vnímavost a vztahy“ a ročním podnětem „naslouchání“.",
+    "activity": "Zeptejte se druhého na jeho pohled a ověřte si své domněnky.",
+    "sourceId": "najdise-vibration-2",
+    "sourceRefs": [
+      "najdise-vibration-2",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:2:year:3": {
+    "title": "Cyklus 2 + ORV 3 · sdílení",
+    "short": "Dlouhodobé téma cyklu 2 se zde potkává s ročním podnětem pro tvořivost, komunikaci a učení.",
+    "long": "V této kombinaci můžete propojit naslouchání, intuici a ohleduplnou spolupráci s pozorností na tvořivost, komunikaci a učení. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vnímavost a vztahy“ a ročním podnětem „sdílení“.",
+    "activity": "Zkuste své zkušenosti vyjádřit tvořivou formou nebo je s někým sdílet.",
+    "sourceId": "najdise-vibration-2",
+    "sourceRefs": [
+      "najdise-vibration-2",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:2:year:4": {
+    "title": "Cyklus 2 + ORV 4 · praktická opora",
+    "short": "Dlouhodobé téma cyklu 2 se zde potkává s ročním podnětem pro pravidelnost, práci a odpočinek.",
+    "long": "V této kombinaci můžete propojit naslouchání, intuici a ohleduplnou spolupráci s pozorností na pravidelnost, práci a odpočinek. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vnímavost a vztahy“ a ročním podnětem „praktická opora“.",
+    "activity": "Upravte jeden každodenní návyk tak, aby byl dlouhodobě udržitelný.",
+    "sourceId": "najdise-vibration-2",
+    "sourceRefs": [
+      "najdise-vibration-2",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:2:year:5": {
+    "title": "Cyklus 2 + ORV 5 · prostor pro změnu",
+    "short": "Dlouhodobé téma cyklu 2 se zde potkává s ročním podnětem pro zvídavost a volbu.",
+    "long": "V této kombinaci můžete propojit naslouchání, intuici a ohleduplnou spolupráci s pozorností na zvídavost a volbu. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vnímavost a vztahy“ a ročním podnětem „prostor pro změnu“.",
+    "activity": "Prozkoumejte novou možnost malým krokem bez tlaku na okamžité rozhodnutí.",
+    "sourceId": "najdise-vibration-2",
+    "sourceRefs": [
+      "najdise-vibration-2",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:2:year:6": {
+    "title": "Cyklus 2 + ORV 6 · péče a hranice",
+    "short": "Dlouhodobé téma cyklu 2 se zde potkává s ročním podnětem pro vztahy, odpovědnost a vlastní kapacitu.",
+    "long": "V této kombinaci můžete propojit naslouchání, intuici a ohleduplnou spolupráci s pozorností na vztahy, odpovědnost a vlastní kapacitu. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vnímavost a vztahy“ a ročním podnětem „péče a hranice“.",
+    "activity": "Domluvte se s blízkými na konkrétní pomoci i na prostoru pro sebe.",
+    "sourceId": "najdise-vibration-2",
+    "sourceRefs": [
+      "najdise-vibration-2",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:2:year:7": {
+    "title": "Cyklus 2 + ORV 7 · zastavení a reflexe",
+    "short": "Dlouhodobé téma cyklu 2 se zde potkává s ročním podnětem pro soustředění a hledání souvislostí.",
+    "long": "V této kombinaci můžete propojit naslouchání, intuici a ohleduplnou spolupráci s pozorností na soustředění a hledání souvislostí. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vnímavost a vztahy“ a ročním podnětem „zastavení a reflexe“.",
+    "activity": "Vyhraďte si klidnou chvíli pro otázky, na které ještě neznáte odpověď.",
+    "sourceId": "najdise-vibration-2",
+    "sourceRefs": [
+      "najdise-vibration-2",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:2:year:8": {
+    "title": "Cyklus 2 + ORV 8 · vědomé uskutečnění",
+    "short": "Dlouhodobé téma cyklu 2 se zde potkává s ročním podnětem pro zacházení s časem, zdroji a vlivem.",
+    "long": "V této kombinaci můžete propojit naslouchání, intuici a ohleduplnou spolupráci s pozorností na zacházení s časem, zdroji a vlivem. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vnímavost a vztahy“ a ročním podnětem „vědomé uskutečnění“.",
+    "activity": "Zkontrolujte priority, nároky a hranice jednoho projektu.",
+    "sourceId": "najdise-vibration-2",
+    "sourceRefs": [
+      "najdise-vibration-2",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:2:year:9": {
+    "title": "Cyklus 2 + ORV 9 · bilance a hodnoty",
+    "short": "Dlouhodobé téma cyklu 2 se zde potkává s ročním podnětem pro dokončování a přehodnocení priorit.",
+    "long": "V této kombinaci můžete propojit naslouchání, intuici a ohleduplnou spolupráci s pozorností na dokončování a přehodnocení priorit. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vnímavost a vztahy“ a ročním podnětem „bilance a hodnoty“.",
+    "activity": "Pojmenujte jednu věc, kterou chcete uzavřít, a jednu, kterou si přejete zachovat.",
+    "sourceId": "najdise-vibration-2",
+    "sourceRefs": [
+      "najdise-vibration-2",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:3": {
+    "title": "Vyjádření a tvořivost",
+    "short": "V symbolickém čtení může toto období otevírat komunikaci, učení a tvořivé zpracování zkušeností.",
+    "long": "Některá témata z minulosti mohou být užitečným podnětem k zamyšlení nad tím, jak o sobě mluvíte. Nemusíte se nutit do konfrontace; můžete si zvolit vlastní bezpečné tempo.",
+    "potential": "Prostor pro komunikaci, učení a tvořivé zpracování zkušeností ve vlastní, nedeterministické podobě.",
+    "activity": "Věnujte chvíli psaní, hudbě či jiné tvořivé činnosti a pojmenujte, co potřebujete sdělit.",
+    "sourceId": "najdise-vibration-3",
+    "sourceRefs": [
+      "najdise-vibration-3",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:3:year:1": {
+    "title": "Cyklus 3 + ORV 1 · nový krok",
+    "short": "Dlouhodobé téma cyklu 3 se zde potkává s ročním podnětem pro vlastní iniciativu a začátky.",
+    "long": "V této kombinaci můžete propojit komunikaci, učení a tvořivé zpracování zkušeností s pozorností na vlastní iniciativu a začátky. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vyjádření a tvořivost“ a ročním podnětem „nový krok“.",
+    "activity": "Zvolte jeden malý začátek, který je v souladu s vašimi hodnotami.",
+    "sourceId": "najdise-vibration-3",
+    "sourceRefs": [
+      "najdise-vibration-3",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:3:year:2": {
+    "title": "Cyklus 3 + ORV 2 · naslouchání",
+    "short": "Dlouhodobé téma cyklu 3 se zde potkává s ročním podnětem pro spolupráci a citlivost.",
+    "long": "V této kombinaci můžete propojit komunikaci, učení a tvořivé zpracování zkušeností s pozorností na spolupráci a citlivost. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vyjádření a tvořivost“ a ročním podnětem „naslouchání“.",
+    "activity": "Zeptejte se druhého na jeho pohled a ověřte si své domněnky.",
+    "sourceId": "najdise-vibration-3",
+    "sourceRefs": [
+      "najdise-vibration-3",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:3:year:3": {
+    "title": "Cyklus 3 + ORV 3 · sdílení",
+    "short": "Dlouhodobé téma cyklu 3 se zde potkává s ročním podnětem pro tvořivost, komunikaci a učení.",
+    "long": "V této kombinaci můžete propojit komunikaci, učení a tvořivé zpracování zkušeností s pozorností na tvořivost, komunikaci a učení. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vyjádření a tvořivost“ a ročním podnětem „sdílení“.",
+    "activity": "Zkuste své zkušenosti vyjádřit tvořivou formou nebo je s někým sdílet.",
+    "sourceId": "najdise-vibration-3",
+    "sourceRefs": [
+      "najdise-vibration-3",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:3:year:4": {
+    "title": "Cyklus 3 + ORV 4 · praktická opora",
+    "short": "Dlouhodobé téma cyklu 3 se zde potkává s ročním podnětem pro pravidelnost, práci a odpočinek.",
+    "long": "V této kombinaci můžete propojit komunikaci, učení a tvořivé zpracování zkušeností s pozorností na pravidelnost, práci a odpočinek. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vyjádření a tvořivost“ a ročním podnětem „praktická opora“.",
+    "activity": "Upravte jeden každodenní návyk tak, aby byl dlouhodobě udržitelný.",
+    "sourceId": "najdise-vibration-3",
+    "sourceRefs": [
+      "najdise-vibration-3",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:3:year:5": {
+    "title": "Cyklus 3 + ORV 5 · prostor pro změnu",
+    "short": "Dlouhodobé téma cyklu 3 se zde potkává s ročním podnětem pro zvídavost a volbu.",
+    "long": "V této kombinaci můžete propojit komunikaci, učení a tvořivé zpracování zkušeností s pozorností na zvídavost a volbu. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vyjádření a tvořivost“ a ročním podnětem „prostor pro změnu“.",
+    "activity": "Prozkoumejte novou možnost malým krokem bez tlaku na okamžité rozhodnutí.",
+    "sourceId": "najdise-vibration-3",
+    "sourceRefs": [
+      "najdise-vibration-3",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:3:year:6": {
+    "title": "Cyklus 3 + ORV 6 · péče a hranice",
+    "short": "Dlouhodobé téma cyklu 3 se zde potkává s ročním podnětem pro vztahy, odpovědnost a vlastní kapacitu.",
+    "long": "V této kombinaci můžete propojit komunikaci, učení a tvořivé zpracování zkušeností s pozorností na vztahy, odpovědnost a vlastní kapacitu. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vyjádření a tvořivost“ a ročním podnětem „péče a hranice“.",
+    "activity": "Domluvte se s blízkými na konkrétní pomoci i na prostoru pro sebe.",
+    "sourceId": "najdise-vibration-3",
+    "sourceRefs": [
+      "najdise-vibration-3",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:3:year:7": {
+    "title": "Cyklus 3 + ORV 7 · zastavení a reflexe",
+    "short": "Dlouhodobé téma cyklu 3 se zde potkává s ročním podnětem pro soustředění a hledání souvislostí.",
+    "long": "V této kombinaci můžete propojit komunikaci, učení a tvořivé zpracování zkušeností s pozorností na soustředění a hledání souvislostí. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vyjádření a tvořivost“ a ročním podnětem „zastavení a reflexe“.",
+    "activity": "Vyhraďte si klidnou chvíli pro otázky, na které ještě neznáte odpověď.",
+    "sourceId": "najdise-vibration-3",
+    "sourceRefs": [
+      "najdise-vibration-3",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:3:year:8": {
+    "title": "Cyklus 3 + ORV 8 · vědomé uskutečnění",
+    "short": "Dlouhodobé téma cyklu 3 se zde potkává s ročním podnětem pro zacházení s časem, zdroji a vlivem.",
+    "long": "V této kombinaci můžete propojit komunikaci, učení a tvořivé zpracování zkušeností s pozorností na zacházení s časem, zdroji a vlivem. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vyjádření a tvořivost“ a ročním podnětem „vědomé uskutečnění“.",
+    "activity": "Zkontrolujte priority, nároky a hranice jednoho projektu.",
+    "sourceId": "najdise-vibration-3",
+    "sourceRefs": [
+      "najdise-vibration-3",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:3:year:9": {
+    "title": "Cyklus 3 + ORV 9 · bilance a hodnoty",
+    "short": "Dlouhodobé téma cyklu 3 se zde potkává s ročním podnětem pro dokončování a přehodnocení priorit.",
+    "long": "V této kombinaci můžete propojit komunikaci, učení a tvořivé zpracování zkušeností s pozorností na dokončování a přehodnocení priorit. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vyjádření a tvořivost“ a ročním podnětem „bilance a hodnoty“.",
+    "activity": "Pojmenujte jednu věc, kterou chcete uzavřít, a jednu, kterou si přejete zachovat.",
+    "sourceId": "najdise-vibration-3",
+    "sourceRefs": [
+      "najdise-vibration-3",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:4": {
+    "title": "Trpělivost a pevné zázemí",
+    "short": "V symbolickém čtení může toto období otevírat praktické kroky, vytrvalost a práci s omezeními.",
+    "long": "Téma čtyřky můžete využít při přemýšlení o závazcích a udržitelném pracovním rytmu. Žádné číslo nepředpovídá nemoc, ztrátu ani materiální zajištění.",
+    "potential": "Prostor pro praktické kroky, vytrvalost a práci s omezeními ve vlastní, nedeterministické podobě.",
+    "activity": "Rozdělte náročný úkol do menších částí a vedle práce si naplánujte odpočinek.",
+    "sourceId": "najdise-vibration-4",
+    "sourceRefs": [
+      "najdise-vibration-4",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:4:year:1": {
+    "title": "Cyklus 4 + ORV 1 · nový krok",
+    "short": "Dlouhodobé téma cyklu 4 se zde potkává s ročním podnětem pro vlastní iniciativu a začátky.",
+    "long": "V této kombinaci můžete propojit praktické kroky, vytrvalost a práci s omezeními s pozorností na vlastní iniciativu a začátky. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „trpělivost a pevné zázemí“ a ročním podnětem „nový krok“.",
+    "activity": "Zvolte jeden malý začátek, který je v souladu s vašimi hodnotami.",
+    "sourceId": "najdise-vibration-4",
+    "sourceRefs": [
+      "najdise-vibration-4",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:4:year:2": {
+    "title": "Cyklus 4 + ORV 2 · naslouchání",
+    "short": "Dlouhodobé téma cyklu 4 se zde potkává s ročním podnětem pro spolupráci a citlivost.",
+    "long": "V této kombinaci můžete propojit praktické kroky, vytrvalost a práci s omezeními s pozorností na spolupráci a citlivost. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „trpělivost a pevné zázemí“ a ročním podnětem „naslouchání“.",
+    "activity": "Zeptejte se druhého na jeho pohled a ověřte si své domněnky.",
+    "sourceId": "najdise-vibration-4",
+    "sourceRefs": [
+      "najdise-vibration-4",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:4:year:3": {
+    "title": "Cyklus 4 + ORV 3 · sdílení",
+    "short": "Dlouhodobé téma cyklu 4 se zde potkává s ročním podnětem pro tvořivost, komunikaci a učení.",
+    "long": "V této kombinaci můžete propojit praktické kroky, vytrvalost a práci s omezeními s pozorností na tvořivost, komunikaci a učení. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „trpělivost a pevné zázemí“ a ročním podnětem „sdílení“.",
+    "activity": "Zkuste své zkušenosti vyjádřit tvořivou formou nebo je s někým sdílet.",
+    "sourceId": "najdise-vibration-4",
+    "sourceRefs": [
+      "najdise-vibration-4",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:4:year:4": {
+    "title": "Cyklus 4 + ORV 4 · praktická opora",
+    "short": "Dlouhodobé téma cyklu 4 se zde potkává s ročním podnětem pro pravidelnost, práci a odpočinek.",
+    "long": "V této kombinaci můžete propojit praktické kroky, vytrvalost a práci s omezeními s pozorností na pravidelnost, práci a odpočinek. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „trpělivost a pevné zázemí“ a ročním podnětem „praktická opora“.",
+    "activity": "Upravte jeden každodenní návyk tak, aby byl dlouhodobě udržitelný.",
+    "sourceId": "najdise-vibration-4",
+    "sourceRefs": [
+      "najdise-vibration-4",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:4:year:5": {
+    "title": "Cyklus 4 + ORV 5 · prostor pro změnu",
+    "short": "Dlouhodobé téma cyklu 4 se zde potkává s ročním podnětem pro zvídavost a volbu.",
+    "long": "V této kombinaci můžete propojit praktické kroky, vytrvalost a práci s omezeními s pozorností na zvídavost a volbu. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „trpělivost a pevné zázemí“ a ročním podnětem „prostor pro změnu“.",
+    "activity": "Prozkoumejte novou možnost malým krokem bez tlaku na okamžité rozhodnutí.",
+    "sourceId": "najdise-vibration-4",
+    "sourceRefs": [
+      "najdise-vibration-4",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:4:year:6": {
+    "title": "Cyklus 4 + ORV 6 · péče a hranice",
+    "short": "Dlouhodobé téma cyklu 4 se zde potkává s ročním podnětem pro vztahy, odpovědnost a vlastní kapacitu.",
+    "long": "V této kombinaci můžete propojit praktické kroky, vytrvalost a práci s omezeními s pozorností na vztahy, odpovědnost a vlastní kapacitu. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „trpělivost a pevné zázemí“ a ročním podnětem „péče a hranice“.",
+    "activity": "Domluvte se s blízkými na konkrétní pomoci i na prostoru pro sebe.",
+    "sourceId": "najdise-vibration-4",
+    "sourceRefs": [
+      "najdise-vibration-4",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:4:year:7": {
+    "title": "Cyklus 4 + ORV 7 · zastavení a reflexe",
+    "short": "Dlouhodobé téma cyklu 4 se zde potkává s ročním podnětem pro soustředění a hledání souvislostí.",
+    "long": "V této kombinaci můžete propojit praktické kroky, vytrvalost a práci s omezeními s pozorností na soustředění a hledání souvislostí. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „trpělivost a pevné zázemí“ a ročním podnětem „zastavení a reflexe“.",
+    "activity": "Vyhraďte si klidnou chvíli pro otázky, na které ještě neznáte odpověď.",
+    "sourceId": "najdise-vibration-4",
+    "sourceRefs": [
+      "najdise-vibration-4",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:4:year:8": {
+    "title": "Cyklus 4 + ORV 8 · vědomé uskutečnění",
+    "short": "Dlouhodobé téma cyklu 4 se zde potkává s ročním podnětem pro zacházení s časem, zdroji a vlivem.",
+    "long": "V této kombinaci můžete propojit praktické kroky, vytrvalost a práci s omezeními s pozorností na zacházení s časem, zdroji a vlivem. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „trpělivost a pevné zázemí“ a ročním podnětem „vědomé uskutečnění“.",
+    "activity": "Zkontrolujte priority, nároky a hranice jednoho projektu.",
+    "sourceId": "najdise-vibration-4",
+    "sourceRefs": [
+      "najdise-vibration-4",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:4:year:9": {
+    "title": "Cyklus 4 + ORV 9 · bilance a hodnoty",
+    "short": "Dlouhodobé téma cyklu 4 se zde potkává s ročním podnětem pro dokončování a přehodnocení priorit.",
+    "long": "V této kombinaci můžete propojit praktické kroky, vytrvalost a práci s omezeními s pozorností na dokončování a přehodnocení priorit. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „trpělivost a pevné zázemí“ a ročním podnětem „bilance a hodnoty“.",
+    "activity": "Pojmenujte jednu věc, kterou chcete uzavřít, a jednu, kterou si přejete zachovat.",
+    "sourceId": "najdise-vibration-4",
+    "sourceRefs": [
+      "najdise-vibration-4",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:5": {
+    "title": "Svoboda a vědomá volba",
+    "short": "V symbolickém čtení může toto období otevírat změnu, osobní svobodu a soustavnost.",
+    "long": "Kde byste rádi zkusili něco nového a které závazky si přejete zachovat? Prostor pro změnu může jít ruku v ruce s vědomou volbou, kterou nepřenecháváte číslu.",
+    "potential": "Prostor pro změnu, osobní svobodu a soustavnost ve vlastní, nedeterministické podobě.",
+    "activity": "Sepište dvě možné cesty, jejich důsledky a jeden malý vratný experiment.",
+    "sourceId": "najdise-vibration-5",
+    "sourceRefs": [
+      "najdise-vibration-5",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:5:year:1": {
+    "title": "Cyklus 5 + ORV 1 · nový krok",
+    "short": "Dlouhodobé téma cyklu 5 se zde potkává s ročním podnětem pro vlastní iniciativu a začátky.",
+    "long": "V této kombinaci můžete propojit změnu, osobní svobodu a soustavnost s pozorností na vlastní iniciativu a začátky. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „svoboda a vědomá volba“ a ročním podnětem „nový krok“.",
+    "activity": "Zvolte jeden malý začátek, který je v souladu s vašimi hodnotami.",
+    "sourceId": "najdise-vibration-5",
+    "sourceRefs": [
+      "najdise-vibration-5",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:5:year:2": {
+    "title": "Cyklus 5 + ORV 2 · naslouchání",
+    "short": "Dlouhodobé téma cyklu 5 se zde potkává s ročním podnětem pro spolupráci a citlivost.",
+    "long": "V této kombinaci můžete propojit změnu, osobní svobodu a soustavnost s pozorností na spolupráci a citlivost. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „svoboda a vědomá volba“ a ročním podnětem „naslouchání“.",
+    "activity": "Zeptejte se druhého na jeho pohled a ověřte si své domněnky.",
+    "sourceId": "najdise-vibration-5",
+    "sourceRefs": [
+      "najdise-vibration-5",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:5:year:3": {
+    "title": "Cyklus 5 + ORV 3 · sdílení",
+    "short": "Dlouhodobé téma cyklu 5 se zde potkává s ročním podnětem pro tvořivost, komunikaci a učení.",
+    "long": "V této kombinaci můžete propojit změnu, osobní svobodu a soustavnost s pozorností na tvořivost, komunikaci a učení. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „svoboda a vědomá volba“ a ročním podnětem „sdílení“.",
+    "activity": "Zkuste své zkušenosti vyjádřit tvořivou formou nebo je s někým sdílet.",
+    "sourceId": "najdise-vibration-5",
+    "sourceRefs": [
+      "najdise-vibration-5",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:5:year:4": {
+    "title": "Cyklus 5 + ORV 4 · praktická opora",
+    "short": "Dlouhodobé téma cyklu 5 se zde potkává s ročním podnětem pro pravidelnost, práci a odpočinek.",
+    "long": "V této kombinaci můžete propojit změnu, osobní svobodu a soustavnost s pozorností na pravidelnost, práci a odpočinek. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „svoboda a vědomá volba“ a ročním podnětem „praktická opora“.",
+    "activity": "Upravte jeden každodenní návyk tak, aby byl dlouhodobě udržitelný.",
+    "sourceId": "najdise-vibration-5",
+    "sourceRefs": [
+      "najdise-vibration-5",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:5:year:5": {
+    "title": "Cyklus 5 + ORV 5 · prostor pro změnu",
+    "short": "Dlouhodobé téma cyklu 5 se zde potkává s ročním podnětem pro zvídavost a volbu.",
+    "long": "V této kombinaci můžete propojit změnu, osobní svobodu a soustavnost s pozorností na zvídavost a volbu. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „svoboda a vědomá volba“ a ročním podnětem „prostor pro změnu“.",
+    "activity": "Prozkoumejte novou možnost malým krokem bez tlaku na okamžité rozhodnutí.",
+    "sourceId": "najdise-vibration-5",
+    "sourceRefs": [
+      "najdise-vibration-5",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:5:year:6": {
+    "title": "Cyklus 5 + ORV 6 · péče a hranice",
+    "short": "Dlouhodobé téma cyklu 5 se zde potkává s ročním podnětem pro vztahy, odpovědnost a vlastní kapacitu.",
+    "long": "V této kombinaci můžete propojit změnu, osobní svobodu a soustavnost s pozorností na vztahy, odpovědnost a vlastní kapacitu. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „svoboda a vědomá volba“ a ročním podnětem „péče a hranice“.",
+    "activity": "Domluvte se s blízkými na konkrétní pomoci i na prostoru pro sebe.",
+    "sourceId": "najdise-vibration-5",
+    "sourceRefs": [
+      "najdise-vibration-5",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:5:year:7": {
+    "title": "Cyklus 5 + ORV 7 · zastavení a reflexe",
+    "short": "Dlouhodobé téma cyklu 5 se zde potkává s ročním podnětem pro soustředění a hledání souvislostí.",
+    "long": "V této kombinaci můžete propojit změnu, osobní svobodu a soustavnost s pozorností na soustředění a hledání souvislostí. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „svoboda a vědomá volba“ a ročním podnětem „zastavení a reflexe“.",
+    "activity": "Vyhraďte si klidnou chvíli pro otázky, na které ještě neznáte odpověď.",
+    "sourceId": "najdise-vibration-5",
+    "sourceRefs": [
+      "najdise-vibration-5",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:5:year:8": {
+    "title": "Cyklus 5 + ORV 8 · vědomé uskutečnění",
+    "short": "Dlouhodobé téma cyklu 5 se zde potkává s ročním podnětem pro zacházení s časem, zdroji a vlivem.",
+    "long": "V této kombinaci můžete propojit změnu, osobní svobodu a soustavnost s pozorností na zacházení s časem, zdroji a vlivem. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „svoboda a vědomá volba“ a ročním podnětem „vědomé uskutečnění“.",
+    "activity": "Zkontrolujte priority, nároky a hranice jednoho projektu.",
+    "sourceId": "najdise-vibration-5",
+    "sourceRefs": [
+      "najdise-vibration-5",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:5:year:9": {
+    "title": "Cyklus 5 + ORV 9 · bilance a hodnoty",
+    "short": "Dlouhodobé téma cyklu 5 se zde potkává s ročním podnětem pro dokončování a přehodnocení priorit.",
+    "long": "V této kombinaci můžete propojit změnu, osobní svobodu a soustavnost s pozorností na dokončování a přehodnocení priorit. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „svoboda a vědomá volba“ a ročním podnětem „bilance a hodnoty“.",
+    "activity": "Pojmenujte jednu věc, kterou chcete uzavřít, a jednu, kterou si přejete zachovat.",
+    "sourceId": "najdise-vibration-5",
+    "sourceRefs": [
+      "najdise-vibration-5",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:6": {
+    "title": "Blízkost a odpovědná péče",
+    "short": "V symbolickém čtení může toto období otevírat vztahy s blízkými, odpovědnost a vzájemnou podporu.",
+    "long": "Péče o rodinu či přátele může být tématem reflexe, ale vaše potřeby mají také své místo. Symbolika neukládá povinnost přijmout každý požadavek okolí.",
+    "potential": "Prostor pro vztahy s blízkými, odpovědnost a vzájemnou podporu ve vlastní, nedeterministické podobě.",
+    "activity": "Promluvte si o rozdělení povinností a pojmenujte jednu hranici, která vám pomůže.",
+    "sourceId": "najdise-vibration-6",
+    "sourceRefs": [
+      "najdise-vibration-6",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:6:year:1": {
+    "title": "Cyklus 6 + ORV 1 · nový krok",
+    "short": "Dlouhodobé téma cyklu 6 se zde potkává s ročním podnětem pro vlastní iniciativu a začátky.",
+    "long": "V této kombinaci můžete propojit vztahy s blízkými, odpovědnost a vzájemnou podporu s pozorností na vlastní iniciativu a začátky. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „blízkost a odpovědná péče“ a ročním podnětem „nový krok“.",
+    "activity": "Zvolte jeden malý začátek, který je v souladu s vašimi hodnotami.",
+    "sourceId": "najdise-vibration-6",
+    "sourceRefs": [
+      "najdise-vibration-6",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:6:year:2": {
+    "title": "Cyklus 6 + ORV 2 · naslouchání",
+    "short": "Dlouhodobé téma cyklu 6 se zde potkává s ročním podnětem pro spolupráci a citlivost.",
+    "long": "V této kombinaci můžete propojit vztahy s blízkými, odpovědnost a vzájemnou podporu s pozorností na spolupráci a citlivost. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „blízkost a odpovědná péče“ a ročním podnětem „naslouchání“.",
+    "activity": "Zeptejte se druhého na jeho pohled a ověřte si své domněnky.",
+    "sourceId": "najdise-vibration-6",
+    "sourceRefs": [
+      "najdise-vibration-6",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:6:year:3": {
+    "title": "Cyklus 6 + ORV 3 · sdílení",
+    "short": "Dlouhodobé téma cyklu 6 se zde potkává s ročním podnětem pro tvořivost, komunikaci a učení.",
+    "long": "V této kombinaci můžete propojit vztahy s blízkými, odpovědnost a vzájemnou podporu s pozorností na tvořivost, komunikaci a učení. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „blízkost a odpovědná péče“ a ročním podnětem „sdílení“.",
+    "activity": "Zkuste své zkušenosti vyjádřit tvořivou formou nebo je s někým sdílet.",
+    "sourceId": "najdise-vibration-6",
+    "sourceRefs": [
+      "najdise-vibration-6",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:6:year:4": {
+    "title": "Cyklus 6 + ORV 4 · praktická opora",
+    "short": "Dlouhodobé téma cyklu 6 se zde potkává s ročním podnětem pro pravidelnost, práci a odpočinek.",
+    "long": "V této kombinaci můžete propojit vztahy s blízkými, odpovědnost a vzájemnou podporu s pozorností na pravidelnost, práci a odpočinek. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „blízkost a odpovědná péče“ a ročním podnětem „praktická opora“.",
+    "activity": "Upravte jeden každodenní návyk tak, aby byl dlouhodobě udržitelný.",
+    "sourceId": "najdise-vibration-6",
+    "sourceRefs": [
+      "najdise-vibration-6",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:6:year:5": {
+    "title": "Cyklus 6 + ORV 5 · prostor pro změnu",
+    "short": "Dlouhodobé téma cyklu 6 se zde potkává s ročním podnětem pro zvídavost a volbu.",
+    "long": "V této kombinaci můžete propojit vztahy s blízkými, odpovědnost a vzájemnou podporu s pozorností na zvídavost a volbu. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „blízkost a odpovědná péče“ a ročním podnětem „prostor pro změnu“.",
+    "activity": "Prozkoumejte novou možnost malým krokem bez tlaku na okamžité rozhodnutí.",
+    "sourceId": "najdise-vibration-6",
+    "sourceRefs": [
+      "najdise-vibration-6",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:6:year:6": {
+    "title": "Cyklus 6 + ORV 6 · péče a hranice",
+    "short": "Dlouhodobé téma cyklu 6 se zde potkává s ročním podnětem pro vztahy, odpovědnost a vlastní kapacitu.",
+    "long": "V této kombinaci můžete propojit vztahy s blízkými, odpovědnost a vzájemnou podporu s pozorností na vztahy, odpovědnost a vlastní kapacitu. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „blízkost a odpovědná péče“ a ročním podnětem „péče a hranice“.",
+    "activity": "Domluvte se s blízkými na konkrétní pomoci i na prostoru pro sebe.",
+    "sourceId": "najdise-vibration-6",
+    "sourceRefs": [
+      "najdise-vibration-6",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:6:year:7": {
+    "title": "Cyklus 6 + ORV 7 · zastavení a reflexe",
+    "short": "Dlouhodobé téma cyklu 6 se zde potkává s ročním podnětem pro soustředění a hledání souvislostí.",
+    "long": "V této kombinaci můžete propojit vztahy s blízkými, odpovědnost a vzájemnou podporu s pozorností na soustředění a hledání souvislostí. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „blízkost a odpovědná péče“ a ročním podnětem „zastavení a reflexe“.",
+    "activity": "Vyhraďte si klidnou chvíli pro otázky, na které ještě neznáte odpověď.",
+    "sourceId": "najdise-vibration-6",
+    "sourceRefs": [
+      "najdise-vibration-6",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:6:year:8": {
+    "title": "Cyklus 6 + ORV 8 · vědomé uskutečnění",
+    "short": "Dlouhodobé téma cyklu 6 se zde potkává s ročním podnětem pro zacházení s časem, zdroji a vlivem.",
+    "long": "V této kombinaci můžete propojit vztahy s blízkými, odpovědnost a vzájemnou podporu s pozorností na zacházení s časem, zdroji a vlivem. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „blízkost a odpovědná péče“ a ročním podnětem „vědomé uskutečnění“.",
+    "activity": "Zkontrolujte priority, nároky a hranice jednoho projektu.",
+    "sourceId": "najdise-vibration-6",
+    "sourceRefs": [
+      "najdise-vibration-6",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:6:year:9": {
+    "title": "Cyklus 6 + ORV 9 · bilance a hodnoty",
+    "short": "Dlouhodobé téma cyklu 6 se zde potkává s ročním podnětem pro dokončování a přehodnocení priorit.",
+    "long": "V této kombinaci můžete propojit vztahy s blízkými, odpovědnost a vzájemnou podporu s pozorností na dokončování a přehodnocení priorit. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „blízkost a odpovědná péče“ a ročním podnětem „bilance a hodnoty“.",
+    "activity": "Pojmenujte jednu věc, kterou chcete uzavřít, a jednu, kterou si přejete zachovat.",
+    "sourceId": "najdise-vibration-6",
+    "sourceRefs": [
+      "najdise-vibration-6",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:7": {
+    "title": "Vnitřní orientace a trpělivost",
+    "short": "V symbolickém čtení může toto období otevírat trpělivost, důvěru a hledání smyslu při změnách.",
+    "long": "Sedmička může sloužit jako otázka, co vás drží při nejistotě a odkud čerpáte podporu. Nepředjímá žádné zvraty a není vysvětlením utrpení.",
+    "potential": "Prostor pro trpělivost, důvěru a hledání smyslu při změnách ve vlastní, nedeterministické podobě.",
+    "activity": "Dopřejte si čas na klidné uvažování a zapište, o koho nebo o co se můžete opřít.",
+    "sourceId": "najdise-vibration-7",
+    "sourceRefs": [
+      "najdise-vibration-7",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:7:year:1": {
+    "title": "Cyklus 7 + ORV 1 · nový krok",
+    "short": "Dlouhodobé téma cyklu 7 se zde potkává s ročním podnětem pro vlastní iniciativu a začátky.",
+    "long": "V této kombinaci můžete propojit trpělivost, důvěru a hledání smyslu při změnách s pozorností na vlastní iniciativu a začátky. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vnitřní orientace a trpělivost“ a ročním podnětem „nový krok“.",
+    "activity": "Zvolte jeden malý začátek, který je v souladu s vašimi hodnotami.",
+    "sourceId": "najdise-vibration-7",
+    "sourceRefs": [
+      "najdise-vibration-7",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:7:year:2": {
+    "title": "Cyklus 7 + ORV 2 · naslouchání",
+    "short": "Dlouhodobé téma cyklu 7 se zde potkává s ročním podnětem pro spolupráci a citlivost.",
+    "long": "V této kombinaci můžete propojit trpělivost, důvěru a hledání smyslu při změnách s pozorností na spolupráci a citlivost. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vnitřní orientace a trpělivost“ a ročním podnětem „naslouchání“.",
+    "activity": "Zeptejte se druhého na jeho pohled a ověřte si své domněnky.",
+    "sourceId": "najdise-vibration-7",
+    "sourceRefs": [
+      "najdise-vibration-7",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:7:year:3": {
+    "title": "Cyklus 7 + ORV 3 · sdílení",
+    "short": "Dlouhodobé téma cyklu 7 se zde potkává s ročním podnětem pro tvořivost, komunikaci a učení.",
+    "long": "V této kombinaci můžete propojit trpělivost, důvěru a hledání smyslu při změnách s pozorností na tvořivost, komunikaci a učení. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vnitřní orientace a trpělivost“ a ročním podnětem „sdílení“.",
+    "activity": "Zkuste své zkušenosti vyjádřit tvořivou formou nebo je s někým sdílet.",
+    "sourceId": "najdise-vibration-7",
+    "sourceRefs": [
+      "najdise-vibration-7",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:7:year:4": {
+    "title": "Cyklus 7 + ORV 4 · praktická opora",
+    "short": "Dlouhodobé téma cyklu 7 se zde potkává s ročním podnětem pro pravidelnost, práci a odpočinek.",
+    "long": "V této kombinaci můžete propojit trpělivost, důvěru a hledání smyslu při změnách s pozorností na pravidelnost, práci a odpočinek. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vnitřní orientace a trpělivost“ a ročním podnětem „praktická opora“.",
+    "activity": "Upravte jeden každodenní návyk tak, aby byl dlouhodobě udržitelný.",
+    "sourceId": "najdise-vibration-7",
+    "sourceRefs": [
+      "najdise-vibration-7",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:7:year:5": {
+    "title": "Cyklus 7 + ORV 5 · prostor pro změnu",
+    "short": "Dlouhodobé téma cyklu 7 se zde potkává s ročním podnětem pro zvídavost a volbu.",
+    "long": "V této kombinaci můžete propojit trpělivost, důvěru a hledání smyslu při změnách s pozorností na zvídavost a volbu. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vnitřní orientace a trpělivost“ a ročním podnětem „prostor pro změnu“.",
+    "activity": "Prozkoumejte novou možnost malým krokem bez tlaku na okamžité rozhodnutí.",
+    "sourceId": "najdise-vibration-7",
+    "sourceRefs": [
+      "najdise-vibration-7",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:7:year:6": {
+    "title": "Cyklus 7 + ORV 6 · péče a hranice",
+    "short": "Dlouhodobé téma cyklu 7 se zde potkává s ročním podnětem pro vztahy, odpovědnost a vlastní kapacitu.",
+    "long": "V této kombinaci můžete propojit trpělivost, důvěru a hledání smyslu při změnách s pozorností na vztahy, odpovědnost a vlastní kapacitu. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vnitřní orientace a trpělivost“ a ročním podnětem „péče a hranice“.",
+    "activity": "Domluvte se s blízkými na konkrétní pomoci i na prostoru pro sebe.",
+    "sourceId": "najdise-vibration-7",
+    "sourceRefs": [
+      "najdise-vibration-7",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:7:year:7": {
+    "title": "Cyklus 7 + ORV 7 · zastavení a reflexe",
+    "short": "Dlouhodobé téma cyklu 7 se zde potkává s ročním podnětem pro soustředění a hledání souvislostí.",
+    "long": "V této kombinaci můžete propojit trpělivost, důvěru a hledání smyslu při změnách s pozorností na soustředění a hledání souvislostí. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vnitřní orientace a trpělivost“ a ročním podnětem „zastavení a reflexe“.",
+    "activity": "Vyhraďte si klidnou chvíli pro otázky, na které ještě neznáte odpověď.",
+    "sourceId": "najdise-vibration-7",
+    "sourceRefs": [
+      "najdise-vibration-7",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:7:year:8": {
+    "title": "Cyklus 7 + ORV 8 · vědomé uskutečnění",
+    "short": "Dlouhodobé téma cyklu 7 se zde potkává s ročním podnětem pro zacházení s časem, zdroji a vlivem.",
+    "long": "V této kombinaci můžete propojit trpělivost, důvěru a hledání smyslu při změnách s pozorností na zacházení s časem, zdroji a vlivem. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vnitřní orientace a trpělivost“ a ročním podnětem „vědomé uskutečnění“.",
+    "activity": "Zkontrolujte priority, nároky a hranice jednoho projektu.",
+    "sourceId": "najdise-vibration-7",
+    "sourceRefs": [
+      "najdise-vibration-7",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:7:year:9": {
+    "title": "Cyklus 7 + ORV 9 · bilance a hodnoty",
+    "short": "Dlouhodobé téma cyklu 7 se zde potkává s ročním podnětem pro dokončování a přehodnocení priorit.",
+    "long": "V této kombinaci můžete propojit trpělivost, důvěru a hledání smyslu při změnách s pozorností na dokončování a přehodnocení priorit. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vnitřní orientace a trpělivost“ a ročním podnětem „bilance a hodnoty“.",
+    "activity": "Pojmenujte jednu věc, kterou chcete uzavřít, a jednu, kterou si přejete zachovat.",
+    "sourceId": "najdise-vibration-7",
+    "sourceRefs": [
+      "najdise-vibration-7",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:8": {
+    "title": "Vliv, úspěch a rovnováha",
+    "short": "V symbolickém čtení může toto období otevírat zacházení se zdroji, vlivem a osobní odpovědností.",
+    "long": "Můžete zvažovat, co pro vás znamená úspěch a jak se vaše rozhodnutí dotýkají okolí. Výklad není příslibem bohatství ani varováním před nevyhnutelnou ztrátou.",
+    "potential": "Prostor pro zacházení se zdroji, vlivem a osobní odpovědností ve vlastní, nedeterministické podobě.",
+    "activity": "Zkontrolujte jeden finanční či pracovní záměr z hlediska férovosti, kapacity a dlouhodobého smyslu.",
+    "sourceId": "najdise-vibration-8",
+    "sourceRefs": [
+      "najdise-vibration-8",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:8:year:1": {
+    "title": "Cyklus 8 + ORV 1 · nový krok",
+    "short": "Dlouhodobé téma cyklu 8 se zde potkává s ročním podnětem pro vlastní iniciativu a začátky.",
+    "long": "V této kombinaci můžete propojit zacházení se zdroji, vlivem a osobní odpovědností s pozorností na vlastní iniciativu a začátky. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vliv, úspěch a rovnováha“ a ročním podnětem „nový krok“.",
+    "activity": "Zvolte jeden malý začátek, který je v souladu s vašimi hodnotami.",
+    "sourceId": "najdise-vibration-8",
+    "sourceRefs": [
+      "najdise-vibration-8",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:8:year:2": {
+    "title": "Cyklus 8 + ORV 2 · naslouchání",
+    "short": "Dlouhodobé téma cyklu 8 se zde potkává s ročním podnětem pro spolupráci a citlivost.",
+    "long": "V této kombinaci můžete propojit zacházení se zdroji, vlivem a osobní odpovědností s pozorností na spolupráci a citlivost. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vliv, úspěch a rovnováha“ a ročním podnětem „naslouchání“.",
+    "activity": "Zeptejte se druhého na jeho pohled a ověřte si své domněnky.",
+    "sourceId": "najdise-vibration-8",
+    "sourceRefs": [
+      "najdise-vibration-8",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:8:year:3": {
+    "title": "Cyklus 8 + ORV 3 · sdílení",
+    "short": "Dlouhodobé téma cyklu 8 se zde potkává s ročním podnětem pro tvořivost, komunikaci a učení.",
+    "long": "V této kombinaci můžete propojit zacházení se zdroji, vlivem a osobní odpovědností s pozorností na tvořivost, komunikaci a učení. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vliv, úspěch a rovnováha“ a ročním podnětem „sdílení“.",
+    "activity": "Zkuste své zkušenosti vyjádřit tvořivou formou nebo je s někým sdílet.",
+    "sourceId": "najdise-vibration-8",
+    "sourceRefs": [
+      "najdise-vibration-8",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:8:year:4": {
+    "title": "Cyklus 8 + ORV 4 · praktická opora",
+    "short": "Dlouhodobé téma cyklu 8 se zde potkává s ročním podnětem pro pravidelnost, práci a odpočinek.",
+    "long": "V této kombinaci můžete propojit zacházení se zdroji, vlivem a osobní odpovědností s pozorností na pravidelnost, práci a odpočinek. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vliv, úspěch a rovnováha“ a ročním podnětem „praktická opora“.",
+    "activity": "Upravte jeden každodenní návyk tak, aby byl dlouhodobě udržitelný.",
+    "sourceId": "najdise-vibration-8",
+    "sourceRefs": [
+      "najdise-vibration-8",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:8:year:5": {
+    "title": "Cyklus 8 + ORV 5 · prostor pro změnu",
+    "short": "Dlouhodobé téma cyklu 8 se zde potkává s ročním podnětem pro zvídavost a volbu.",
+    "long": "V této kombinaci můžete propojit zacházení se zdroji, vlivem a osobní odpovědností s pozorností na zvídavost a volbu. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vliv, úspěch a rovnováha“ a ročním podnětem „prostor pro změnu“.",
+    "activity": "Prozkoumejte novou možnost malým krokem bez tlaku na okamžité rozhodnutí.",
+    "sourceId": "najdise-vibration-8",
+    "sourceRefs": [
+      "najdise-vibration-8",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:8:year:6": {
+    "title": "Cyklus 8 + ORV 6 · péče a hranice",
+    "short": "Dlouhodobé téma cyklu 8 se zde potkává s ročním podnětem pro vztahy, odpovědnost a vlastní kapacitu.",
+    "long": "V této kombinaci můžete propojit zacházení se zdroji, vlivem a osobní odpovědností s pozorností na vztahy, odpovědnost a vlastní kapacitu. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vliv, úspěch a rovnováha“ a ročním podnětem „péče a hranice“.",
+    "activity": "Domluvte se s blízkými na konkrétní pomoci i na prostoru pro sebe.",
+    "sourceId": "najdise-vibration-8",
+    "sourceRefs": [
+      "najdise-vibration-8",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:8:year:7": {
+    "title": "Cyklus 8 + ORV 7 · zastavení a reflexe",
+    "short": "Dlouhodobé téma cyklu 8 se zde potkává s ročním podnětem pro soustředění a hledání souvislostí.",
+    "long": "V této kombinaci můžete propojit zacházení se zdroji, vlivem a osobní odpovědností s pozorností na soustředění a hledání souvislostí. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vliv, úspěch a rovnováha“ a ročním podnětem „zastavení a reflexe“.",
+    "activity": "Vyhraďte si klidnou chvíli pro otázky, na které ještě neznáte odpověď.",
+    "sourceId": "najdise-vibration-8",
+    "sourceRefs": [
+      "najdise-vibration-8",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:8:year:8": {
+    "title": "Cyklus 8 + ORV 8 · vědomé uskutečnění",
+    "short": "Dlouhodobé téma cyklu 8 se zde potkává s ročním podnětem pro zacházení s časem, zdroji a vlivem.",
+    "long": "V této kombinaci můžete propojit zacházení se zdroji, vlivem a osobní odpovědností s pozorností na zacházení s časem, zdroji a vlivem. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vliv, úspěch a rovnováha“ a ročním podnětem „vědomé uskutečnění“.",
+    "activity": "Zkontrolujte priority, nároky a hranice jednoho projektu.",
+    "sourceId": "najdise-vibration-8",
+    "sourceRefs": [
+      "najdise-vibration-8",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:8:year:9": {
+    "title": "Cyklus 8 + ORV 9 · bilance a hodnoty",
+    "short": "Dlouhodobé téma cyklu 8 se zde potkává s ročním podnětem pro dokončování a přehodnocení priorit.",
+    "long": "V této kombinaci můžete propojit zacházení se zdroji, vlivem a osobní odpovědností s pozorností na dokončování a přehodnocení priorit. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „vliv, úspěch a rovnováha“ a ročním podnětem „bilance a hodnoty“.",
+    "activity": "Pojmenujte jednu věc, kterou chcete uzavřít, a jednu, kterou si přejete zachovat.",
+    "sourceId": "najdise-vibration-8",
+    "sourceRefs": [
+      "najdise-vibration-8",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:9": {
+    "title": "Hodnoty, nadhled a účast",
+    "short": "V symbolickém čtení může toto období otevírat vlastní hodnoty, porozumění zkušenostem a odpovědnost k sobě i ostatním.",
+    "long": "Můžete se ptát, co vám dává smysl, čemu už nechcete věnovat energii a jak chcete přispívat svému okolí. Ochota pomáhat má mít prostor vedle péče o vlastní hranice.",
+    "potential": "Prostor pro vlastní hodnoty, porozumění zkušenostem a odpovědnost k sobě i ostatním ve vlastní, nedeterministické podobě.",
+    "activity": "Sepište tři hodnoty, které chcete žít, a jednu konkrétní činnost, která s nimi souzní.",
+    "sourceId": "najdise-vibration-9",
+    "sourceRefs": [
+      "najdise-vibration-9",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:9:year:1": {
+    "title": "Cyklus 9 + ORV 1 · nový krok",
+    "short": "Dlouhodobé téma cyklu 9 se zde potkává s ročním podnětem pro vlastní iniciativu a začátky.",
+    "long": "Dlouhodobé uvažování o hodnotách může doplnit otázka, jakým novým krokem je konkrétně naplnit. Drobné rozhodnutí může být užitečnější než tlak na úplně nový život.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „hodnoty, nadhled a účast“ a ročním podnětem „nový krok“.",
+    "activity": "Zvolte jeden malý začátek, který je v souladu s vašimi hodnotami.",
+    "sourceId": "najdise-vibration-9",
+    "sourceRefs": [
+      "najdise-vibration-9",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:9:year:2": {
+    "title": "Cyklus 9 + ORV 2 · naslouchání",
+    "short": "Dlouhodobé téma cyklu 9 se zde potkává s ročním podnětem pro spolupráci a citlivost.",
+    "long": "Vedle hledání vlastních hodnot může být tématem naslouchání a vzájemná podpora. Citlivost k druhým neznamená, že automaticky víte, co prožívají; pomůže se zeptat.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „hodnoty, nadhled a účast“ a ročním podnětem „naslouchání“.",
+    "activity": "Zeptejte se druhého na jeho pohled a ověřte si své domněnky.",
+    "sourceId": "najdise-vibration-9",
+    "sourceRefs": [
+      "najdise-vibration-9",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:9:year:3": {
+    "title": "Cyklus 9 + ORV 3 · sdílení",
+    "short": "Dlouhodobé téma cyklu 9 se zde potkává s ročním podnětem pro tvořivost, komunikaci a učení.",
+    "long": "Spojení nadhledu a tvořivosti můžete využít při studiu, sdílení zkušeností nebo zájmové činnosti. Sami si určujete, co se chcete učit a komu své poznatky předat.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „hodnoty, nadhled a účast“ a ročním podnětem „sdílení“.",
+    "activity": "Zkuste své zkušenosti vyjádřit tvořivou formou nebo je s někým sdílet.",
+    "sourceId": "najdise-vibration-9",
+    "sourceRefs": [
+      "najdise-vibration-9",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:9:year:4": {
+    "title": "Cyklus 9 + ORV 4 · praktická opora",
+    "short": "Dlouhodobé téma cyklu 9 se zde potkává s ročním podnětem pro pravidelnost, práci a odpočinek.",
+    "long": "Otázky smyslu lze převést do praktických návyků. Při práci nezapomínejte na svou kapacitu a prostor pro odpočinek; tento výklad nepředpovídá zdravotní potíže.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „hodnoty, nadhled a účast“ a ročním podnětem „praktická opora“.",
+    "activity": "Upravte jeden každodenní návyk tak, aby byl dlouhodobě udržitelný.",
+    "sourceId": "najdise-vibration-9",
+    "sourceRefs": [
+      "najdise-vibration-9",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:9:year:5": {
+    "title": "Cyklus 9 + ORV 5 · prostor pro změnu",
+    "short": "Dlouhodobé téma cyklu 9 se zde potkává s ročním podnětem pro zvídavost a volbu.",
+    "long": "Při zkoušení nových možností může být užitečné ověřit, zda změna odpovídá vašim hodnotám. Můžete volit malé experimenty, aniž byste čekali, že se okolnosti samy obrátí.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „hodnoty, nadhled a účast“ a ročním podnětem „prostor pro změnu“.",
+    "activity": "Prozkoumejte novou možnost malým krokem bez tlaku na okamžité rozhodnutí.",
+    "sourceId": "najdise-vibration-9",
+    "sourceRefs": [
+      "najdise-vibration-9",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:9:year:6": {
+    "title": "Cyklus 9 + ORV 6 · péče a hranice",
+    "short": "Dlouhodobé téma cyklu 9 se zde potkává s ročním podnětem pro vztahy, odpovědnost a vlastní kapacitu.",
+    "long": "Ochotu přispívat druhým můžete vyvažovat konkrétní domluvou o péči a vlastními hranicemi. Odpovědnost nemusí znamenat, že všechny potřeby ostatních vyřešíte sami.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „hodnoty, nadhled a účast“ a ročním podnětem „péče a hranice“.",
+    "activity": "Domluvte se s blízkými na konkrétní pomoci i na prostoru pro sebe.",
+    "sourceId": "najdise-vibration-9",
+    "sourceRefs": [
+      "najdise-vibration-9",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:9:year:7": {
+    "title": "Cyklus 9 + ORV 7 · zastavení a reflexe",
+    "short": "Dlouhodobé téma cyklu 9 se zde potkává s ročním podnětem pro soustředění a hledání souvislostí.",
+    "long": "Klidná reflexe může pomoci ujasnit, jaké zásady jsou pro vás důležité. Můžete hledat způsob, jak jim rozumět v každodenních situacích a sdílet je bez vnucování.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „hodnoty, nadhled a účast“ a ročním podnětem „zastavení a reflexe“.",
+    "activity": "Vyhraďte si klidnou chvíli pro otázky, na které ještě neznáte odpověď.",
+    "sourceId": "najdise-vibration-9",
+    "sourceRefs": [
+      "najdise-vibration-9",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:9:year:8": {
+    "title": "Cyklus 9 + ORV 8 · vědomé uskutečnění",
+    "short": "Dlouhodobé téma cyklu 9 se zde potkává s ročním podnětem pro zacházení s časem, zdroji a vlivem.",
+    "long": "Dlouhodobé hodnoty můžete porovnat s tím, jak využíváte své zdroje a vliv. Vyberte smysluplný cíl a udržitelný rytmus místo snahy analyzovat všechny možnosti najednou.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „hodnoty, nadhled a účast“ a ročním podnětem „vědomé uskutečnění“.",
+    "activity": "Zkontrolujte priority, nároky a hranice jednoho projektu.",
+    "sourceId": "najdise-vibration-9",
+    "sourceRefs": [
+      "najdise-vibration-9",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:9:year:9": {
+    "title": "Cyklus 9 + ORV 9 · bilance a hodnoty",
+    "short": "Dlouhodobé téma cyklu 9 se zde potkává s ročním podnětem pro dokončování a přehodnocení priorit.",
+    "long": "Při souběhu dlouhodobého tématu devítky a ORV 9 můžete reflektovat, co vám dává smysl, jaké závazky chcete vědomě nést a co už lze dokončit. Není nutné dělat velká rozhodnutí jen kvůli začátku cyklu.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „hodnoty, nadhled a účast“ a ročním podnětem „bilance a hodnoty“.",
+    "activity": "Pojmenujte jednu věc, kterou chcete uzavřít, a jednu, kterou si přejete zachovat.",
+    "sourceId": "najdise-vibration-9",
+    "sourceRefs": [
+      "najdise-vibration-9",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:11": {
+    "title": "Citlivost a hledání hlubšího smyslu",
+    "short": "V symbolickém čtení může toto období otevírat citlivost, sebedůvěru a osobní hledání smyslu.",
+    "long": "Jedenáctku lze číst jako pozvání k pozornosti vůči sobě i druhým, k učení nebo tvořivosti. Neprokazuje zvláštní schopnosti a nečiní nikoho hodnotnějším než ostatní.",
+    "potential": "Prostor pro citlivost, sebedůvěru a osobní hledání smyslu ve vlastní, nedeterministické podobě.",
+    "activity": "Vyberte otázku, kterou chcete studovat, a dopřejte si vedle zvídavosti i dostatek běžného odpočinku.",
+    "sourceId": "najdise-vibration-11",
+    "sourceRefs": [
+      "najdise-vibration-11",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:11:year:1": {
+    "title": "Cyklus 11 + ORV 1 · nový krok",
+    "short": "Dlouhodobé téma cyklu 11 se zde potkává s ročním podnětem pro vlastní iniciativu a začátky.",
+    "long": "V této kombinaci můžete propojit citlivost, sebedůvěru a osobní hledání smyslu s pozorností na vlastní iniciativu a začátky. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „citlivost a hledání hlubšího smyslu“ a ročním podnětem „nový krok“.",
+    "activity": "Zvolte jeden malý začátek, který je v souladu s vašimi hodnotami.",
+    "sourceId": "najdise-vibration-11",
+    "sourceRefs": [
+      "najdise-vibration-11",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:11:year:2": {
+    "title": "Cyklus 11 + ORV 2 · naslouchání",
+    "short": "Dlouhodobé téma cyklu 11 se zde potkává s ročním podnětem pro spolupráci a citlivost.",
+    "long": "V této kombinaci můžete propojit citlivost, sebedůvěru a osobní hledání smyslu s pozorností na spolupráci a citlivost. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „citlivost a hledání hlubšího smyslu“ a ročním podnětem „naslouchání“.",
+    "activity": "Zeptejte se druhého na jeho pohled a ověřte si své domněnky.",
+    "sourceId": "najdise-vibration-11",
+    "sourceRefs": [
+      "najdise-vibration-11",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:11:year:3": {
+    "title": "Cyklus 11 + ORV 3 · sdílení",
+    "short": "Dlouhodobé téma cyklu 11 se zde potkává s ročním podnětem pro tvořivost, komunikaci a učení.",
+    "long": "V této kombinaci můžete propojit citlivost, sebedůvěru a osobní hledání smyslu s pozorností na tvořivost, komunikaci a učení. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „citlivost a hledání hlubšího smyslu“ a ročním podnětem „sdílení“.",
+    "activity": "Zkuste své zkušenosti vyjádřit tvořivou formou nebo je s někým sdílet.",
+    "sourceId": "najdise-vibration-11",
+    "sourceRefs": [
+      "najdise-vibration-11",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:11:year:4": {
+    "title": "Cyklus 11 + ORV 4 · praktická opora",
+    "short": "Dlouhodobé téma cyklu 11 se zde potkává s ročním podnětem pro pravidelnost, práci a odpočinek.",
+    "long": "V této kombinaci můžete propojit citlivost, sebedůvěru a osobní hledání smyslu s pozorností na pravidelnost, práci a odpočinek. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „citlivost a hledání hlubšího smyslu“ a ročním podnětem „praktická opora“.",
+    "activity": "Upravte jeden každodenní návyk tak, aby byl dlouhodobě udržitelný.",
+    "sourceId": "najdise-vibration-11",
+    "sourceRefs": [
+      "najdise-vibration-11",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:11:year:5": {
+    "title": "Cyklus 11 + ORV 5 · prostor pro změnu",
+    "short": "Dlouhodobé téma cyklu 11 se zde potkává s ročním podnětem pro zvídavost a volbu.",
+    "long": "V této kombinaci můžete propojit citlivost, sebedůvěru a osobní hledání smyslu s pozorností na zvídavost a volbu. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „citlivost a hledání hlubšího smyslu“ a ročním podnětem „prostor pro změnu“.",
+    "activity": "Prozkoumejte novou možnost malým krokem bez tlaku na okamžité rozhodnutí.",
+    "sourceId": "najdise-vibration-11",
+    "sourceRefs": [
+      "najdise-vibration-11",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:11:year:6": {
+    "title": "Cyklus 11 + ORV 6 · péče a hranice",
+    "short": "Dlouhodobé téma cyklu 11 se zde potkává s ročním podnětem pro vztahy, odpovědnost a vlastní kapacitu.",
+    "long": "V této kombinaci můžete propojit citlivost, sebedůvěru a osobní hledání smyslu s pozorností na vztahy, odpovědnost a vlastní kapacitu. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „citlivost a hledání hlubšího smyslu“ a ročním podnětem „péče a hranice“.",
+    "activity": "Domluvte se s blízkými na konkrétní pomoci i na prostoru pro sebe.",
+    "sourceId": "najdise-vibration-11",
+    "sourceRefs": [
+      "najdise-vibration-11",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:11:year:7": {
+    "title": "Cyklus 11 + ORV 7 · zastavení a reflexe",
+    "short": "Dlouhodobé téma cyklu 11 se zde potkává s ročním podnětem pro soustředění a hledání souvislostí.",
+    "long": "V této kombinaci můžete propojit citlivost, sebedůvěru a osobní hledání smyslu s pozorností na soustředění a hledání souvislostí. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „citlivost a hledání hlubšího smyslu“ a ročním podnětem „zastavení a reflexe“.",
+    "activity": "Vyhraďte si klidnou chvíli pro otázky, na které ještě neznáte odpověď.",
+    "sourceId": "najdise-vibration-11",
+    "sourceRefs": [
+      "najdise-vibration-11",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:11:year:8": {
+    "title": "Cyklus 11 + ORV 8 · vědomé uskutečnění",
+    "short": "Dlouhodobé téma cyklu 11 se zde potkává s ročním podnětem pro zacházení s časem, zdroji a vlivem.",
+    "long": "V této kombinaci můžete propojit citlivost, sebedůvěru a osobní hledání smyslu s pozorností na zacházení s časem, zdroji a vlivem. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „citlivost a hledání hlubšího smyslu“ a ročním podnětem „vědomé uskutečnění“.",
+    "activity": "Zkontrolujte priority, nároky a hranice jednoho projektu.",
+    "sourceId": "najdise-vibration-11",
+    "sourceRefs": [
+      "najdise-vibration-11",
+      "editorial"
+    ],
+    "evidenceLevel": "editorial_synthesis"
+  },
+  "nineCycle:11:year:9": {
+    "title": "Cyklus 11 + ORV 9 · bilance a hodnoty",
+    "short": "Dlouhodobé téma cyklu 11 se zde potkává s ročním podnětem pro dokončování a přehodnocení priorit.",
+    "long": "V této kombinaci můžete propojit citlivost, sebedůvěru a osobní hledání smyslu s pozorností na dokončování a přehodnocení priorit. Jde o dva různé časové pohledy, které mohou být užitečné jako otázky k vlastní zkušenosti. Součet či shoda čísel nezesilují platnost výkladu a neurčují, co se musí stát.",
+    "potential": "Zkoumání vztahu mezi dlouhodobým tématem „citlivost a hledání hlubšího smyslu“ a ročním podnětem „bilance a hodnoty“.",
+    "activity": "Pojmenujte jednu věc, kterou chcete uzavřít, a jednu, kterou si přejete zachovat.",
+    "sourceId": "najdise-vibration-11",
+    "sourceRefs": [
+      "najdise-vibration-11",
+      "editorial"
+    ],
     "evidenceLevel": "editorial_synthesis"
   }
 }

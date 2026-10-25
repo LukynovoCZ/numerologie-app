@@ -29,3 +29,15 @@ it("obsahuje všechny požadované interpretace a metadata", () => {
     expect(content[id].evidenceLevel).toBe("editorial_synthesis");
   }
 });
+
+it("má výklady všech řídicích vibrací a jejich souběhů s ORV", () => {
+  for (const cycle of [1, 2, 3, 4, 5, 6, 7, 8, 9, 11]) {
+    expect(content[`nineCycle:${cycle}`]).toBeDefined();
+    for (let year = 1; year <= 9; year++) {
+      const t = content[`nineCycle:${cycle}:year:${year}`];
+      expect(t).toBeDefined();
+      expect(t.sourceRefs).toContain(`najdise-vibration-${cycle}`);
+      expect(t.evidenceLevel).toBe("editorial_synthesis");
+    }
+  }
+});
