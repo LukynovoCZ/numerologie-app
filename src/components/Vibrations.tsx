@@ -39,6 +39,24 @@ export function Vibrations({
           kalendářním přehledu. U 29. února připadá výročí v nepřestupných
           letech na 28. února.
         </p>
+        <h3>Čtyři čtvrtiny aktuální ORV</h3>
+        <p>
+          Čtvrtiny začínají na narozeniny a po 3, 6 a 9 kalendářních měsících.
+          Jde o symbolické kalendářní členění, nikoli o vypočtené fáze Měsíce
+          nebo předpověď energie či událostí.
+        </p>
+        <div className="quarter-cards">
+          {annual.quarters.map((q) => (
+            <div key={q.index} className={q.active ? "active-quarter" : ""}>
+              <strong>
+                {q.index}. čtvrtina {q.active ? "· aktuální" : ""}
+              </strong>
+              <p>
+                {q.from} – {q.until}
+              </p>
+            </div>
+          ))}
+        </div>
         <h3>Devítiletá řada 1–9</h3>
         <p>
           {annual.cycleFrom} – {annual.cycleUntil}. Vyberte rok pro jeho

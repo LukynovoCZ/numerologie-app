@@ -18,6 +18,7 @@ import {
 import type { Input } from "./types";
 import { layout } from "./config/rules";
 import { Vibrations } from "./components/Vibrations";
+import { PersonalDetails } from "./components/PersonalDetails";
 import { Checks } from "./components/Checks";
 import { Interpretation } from "./components/Interpretation";
 import cs from "./data/locale.cs.json";
@@ -29,6 +30,8 @@ const defaults: Input = {
   year: new Date().getFullYear(),
   time: "",
   name: "",
+  surname: "",
+  nameMasters: true,
   masters: true,
   method: "raw_digit_sum",
   cycle: "calendar",
@@ -64,9 +67,11 @@ export default function App() {
     [tab, setTab] = useState(() =>
       window.location.hash === "#kontrola"
         ? "checks"
-        : window.location.hash === "#vibrace"
-          ? "vibrations"
-          : "overview",
+        : window.location.hash === "#osobni"
+          ? "personal"
+          : window.location.hash === "#vibrace"
+            ? "vibrations"
+            : "overview",
     ),
     [selected, setSelected] = useState(
       () => `life:${calculate(load()).life.value}`,
@@ -74,6 +79,7 @@ export default function App() {
     [line, setLine] = useState(""),
     [notice, setNotice] = useState(""),
     [activeCycle, setActiveCycle] = useState(0);
+  const [planeFilter, setPlaneFilter] = useState("all");
   const [triangleMasters, setTriangleMasters] = useState(true);
   function update<K extends keyof Input>(key: K, value: Input[K]) {
     setForm((f) => ({ ...f, [key]: value }));
@@ -234,6 +240,15 @@ export default function App() {
                   placeholder="Jak vám říkají?"
                 />
               </label>
+              <label>
+                Příjmení <small>nepovinné</small>
+                <input
+                  autoComplete="off"
+                  value={form.surname ?? ""}
+                  onChange={(e) => update("surname", e.target.value)}
+                  placeholder="Vaše příjmení"
+                />
+              </label>
               <details>
                 <summary>Nastavení výpočtu</summary>
                 <label>
@@ -295,6 +310,14 @@ export default function App() {
                   Y ve jméně jako samohláska
                 </label>
               </details>
+              <label className="checkbox">
+                <input
+                  type="checkbox"
+                  checked={form.nameMasters ?? true}
+                  onChange={(e) => update("nameMasters", e.target.checked)}
+                />
+                Zachovat 11 a 22 ve jmenných číslech
+              </label>
               <label className="checkbox remember">
                 <input
                   type="checkbox"
@@ -346,6 +369,7 @@ export default function App() {
                 ["overview", "Přehled"],
                 ["cycles", "Cykly a období"],
                 ["vibrations", "Roční vibrace a trojúhelník"],
+                ["personal", "Den a jméno"],
                 ["checks", "Kontrola výpočtů"],
                 ["method", "Jak se to počítá"],
               ].map(([id, title]) => (
@@ -359,9 +383,11 @@ export default function App() {
                       "",
                       id === "checks"
                         ? "#kontrola"
-                        : id === "vibrations"
-                          ? "#vibrace"
-                          : "#",
+                        : id === "personal"
+                          ? "#osobni"
+                          : id === "vibrations"
+                            ? "#vibrace"
+                            : "#",
                     );
                   }}
                 >
@@ -493,26 +519,78 @@ export default function App() {
                     <h2>Osm linií, různé pohledy</h2>
                     <span className="muted">Prozkoumejte souvislosti</span>
                   </div>
-                  <div className="lines">
-                    {result.lines.map((l) => (
+                  <p className="muted">
+                    Plná rovina má všechny tři různé číslice, prázdná žádnou;
+                    ostatní jsou částečné. Opakování číslice nezaplní jiné pole.
+                  </p>
+                  <div className="plane-filters" aria-label="Výběr rovin">
+                    {[
+                      ["all", "Všechny"],
+                      ["full", "Plné"],
+                      ["empty", "Prázdné"],
+                      ["partial", "Částečné"],
+                    ].map(([id, label]) => (
                       <button
-                        key={l.id}
-                        aria-pressed={line === l.id}
-                        onClick={() => {
-                          setLine(l.id);
-                          setSelected(l.interpretationId);
-                        }}
+                        key={id}
+                        onClick={() => setPlaneFilter(id)}
+                        aria-pressed={planeFilter === id}
                       >
-                        <span className="line-icon">
-                          {l.id.replaceAll("-", " · ")}
-                        </span>
-                        <strong>{l.name}</strong>
-                        <span className={`line-state state-${l.presentCount}`}>
-                          {cs.statuses[l.presentCount]}
-                        </span>
-                        <ArrowUpRight size={16} />
+                        {label}
                       </button>
                     ))}
+                  </div>
+                  <p>
+                    {result.lines.filter((l) => l.presentCount === 3).length}{" "}
+                    plných ·{" "}
+                    {result.lines.filter((l) => l.presentCount === 0).length}{" "}
+                    prázdných ·{" "}
+                    {
+                      result.lines.filter(
+                        (l) => l.presentCount > 0 && l.presentCount < 3,
+                      ).length
+                    }{" "}
+                    částečných rovin.
+                  </p>
+                  {result.lines.every(
+                    (l) => l.presentCount > 0 && l.presentCount < 3,
+                  ) && (
+                    <p>
+                      Žádné plné ani prázdné roviny. Zastoupené i chybějící
+                      číslice můžete dále prozkoumat jednotlivě.
+                    </p>
+                  )}
+                  <div className="lines">
+                    {result.lines
+                      .filter(
+                        (l) =>
+                          planeFilter === "all" ||
+                          (planeFilter === "full" && l.presentCount === 3) ||
+                          (planeFilter === "empty" && l.presentCount === 0) ||
+                          (planeFilter === "partial" &&
+                            l.presentCount > 0 &&
+                            l.presentCount < 3),
+                      )
+                      .map((l) => (
+                        <button
+                          key={l.id}
+                          aria-pressed={line === l.id}
+                          onClick={() => {
+                            setLine(l.id);
+                            setSelected(l.interpretationId);
+                          }}
+                        >
+                          <span className="line-icon">
+                            {l.id.replaceAll("-", " · ")}
+                          </span>
+                          <strong>{l.name}</strong>
+                          <span
+                            className={`line-state state-${l.presentCount}`}
+                          >
+                            {cs.statuses[l.presentCount]}
+                          </span>
+                          <ArrowUpRight size={16} />
+                        </button>
+                      ))}
                   </div>
                   {selectedLine && (
                     <p className="muted">
@@ -695,6 +773,7 @@ export default function App() {
                 onMastersChange={setTriangleMasters}
               />
             )}
+            {tab === "personal" && <PersonalDetails result={result} />}
             {tab === "checks" && (
               <Checks
                 result={result}

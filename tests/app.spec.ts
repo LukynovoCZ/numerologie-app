@@ -16,7 +16,9 @@ test("rozbor, interakce, soukromí a export", async ({ page }) => {
     .getByRole("button", { name: "Číslo 9, počet 3", exact: true })
     .click();
   await expect(
-    page.getByRole("heading", { name: "Nadhled · tři výskyty" }),
+    page.getByRole("heading", {
+      name: "Analýza a hledání smyslu · tři výskyty",
+    }),
   ).toBeVisible();
   await page.getByLabel("Datum narození").fill("31.04.2020");
   await page.getByRole("button", { name: "Prozkoumat můj rozbor" }).click();
@@ -127,6 +129,49 @@ test("kontrolní stránka a vibrační schéma", async ({ page }) => {
   ).toEqual([4, 1, 5, 2]);
   expect(json.triangleCycles.periods[0].from).toBe("24.07.1967");
 
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+});
+
+test("den narození, oddělené jméno a čtvrtiny ORV", async ({ page }) => {
+  await page.goto("/#osobni");
+  await page.getByLabel("Jméno", { exact: false }).first().fill("Petr");
+  await page.getByLabel("Příjmení", { exact: false }).fill("Veselý");
+  await page.getByRole("button", { name: "Prozkoumat můj rozbor" }).click();
+  await expect(
+    page.getByRole("heading", {
+      name: "Den narození 14 · Cílevědomost",
+      exact: true,
+    }),
+  ).toBeVisible();
+  await expect(page.locator(".name-number-cards article").nth(0)).toContainText(
+    "5",
+  );
+  await expect(page.locator(".name-number-cards article").nth(1)).toContainText(
+    "7",
+  );
+  await expect(page.locator(".name-number-cards article").nth(2)).toContainText(
+    "3",
+  );
+  await expect(page.locator(".name-number-cards article").nth(3)).toContainText(
+    "22",
+  );
+  await expect(page.locator(".name-number-cards article").nth(4)).toContainText(
+    "8",
+  );
+  await page
+    .getByRole("button", { name: "Roční vibrace a trojúhelník", exact: true })
+    .click();
+  await expect(page.locator(".quarter-cards>div")).toHaveCount(4);
+  await expect(page.locator(".active-quarter")).toHaveCount(1);
+  await page.getByRole("button", { name: "Přehled", exact: true }).click();
+  await page.getByRole("button", { name: "Prázdné", exact: true }).click();
+  await expect(page.locator(".lines button")).toHaveCount(2);
+  await page.getByRole("button", { name: "Plné", exact: true }).click();
+  await expect(page.locator(".lines button")).toHaveCount(0);
   expect(
     await page.evaluate(
       () => document.documentElement.scrollWidth <= innerWidth,

@@ -83,3 +83,13 @@ Nové kontroly pokrývají narozeninové hranice, přestupné roky, posloupnost 
 ### Ověření dokončených trojúhelníků
 
 Prošlo 43 jednotkových a obsahových testů, produkční build a čtyři prohlížečové scénáře (desktop a mobil). Kontroly zahrnují příklady 24.07.1939 a 22.05.2024, ORV 9 na vstupech pro 127 dat, přechod den před narozeninami a na narozeniny, jedenáctku v jednotlivých vrcholech, přestupné výročí, neměnnou čtvrtou vibraci a úplnost všech 90 kombinací cyklu s ORV.
+
+## Den a jméno, čtvrtiny a roviny
+
+Záložka **Den a jméno** (`#osobni`) nabízí výklad konkrétního dne 1–31 se dvěma částmi „Možnosti“ a „Co lze rozvíjet“. Formulář nyní odděluje jméno a příjmení. Jmenná část ukazuje činné, dědičné, vibrační, intimní číslo a číslo realizace, jejich mezikroky, převodní tabulku, jednotlivá písmena a jejich četnosti. Výchozí volba zachovává 11/22 ve jmenných číslech (samostatně od životního čísla). Kontrolní příklad Petr Veselý vychází 5, 7, 3, 22, 8. Dříve uložené celé jméno se nerozděluje odhadem; pokud chcete rozbor příjmení, vyplňte jej do nového pole.
+
+Roční vibrace mají čtyři kalendářní čtvrtiny po třech měsících od výročí, s označením aktuální čtvrtiny a ořezáním neexistujícího dne na konec cílového měsíce. Nejde o astronomický výpočet fází Měsíce ani předpověď nálady nebo událostí. Ověřeny oba příklady ORV dodané uživatelem: 13.05.1943 v prosinci 2004 → 6; 20.10.1978 v srpnu 2004 → 8, na dalších narozeninách 9 a pak 1.
+
+Mřížka obsahuje aktualizovaná symbolická témata číslic podle dodaného seznamu. Filtry **Všechny / Plné / Prázdné / Částečné** třídí roviny bez změny výpočtu. Chybějící čísla ani roviny nepředstavují chybějící schopnosti. Výklady jsou vlastní redakční syntéza se zdrojovými odkazy.
+
+Po doplnění těchto částí: 52 jednotkových a obsahových testů, šest prohlížečových scénářů (desktop/mobil) a produkční build. Předchozí údaj 43/4 výše se vztahuje k předchozímu kroku dokončení trojúhelníků.

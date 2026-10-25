@@ -1228,3 +1228,128 @@ footer span {
     padding: 10px 5px;
   }
 }
+.personal-two {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+.name-number-cards {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+  margin: 25px 0;
+}
+.name-number-cards article {
+  background: var(--soft);
+  border-radius: 8px;
+  padding: 18px;
+}
+.name-number-cards h3 {
+  font: 15px system-ui;
+  margin: 0 0 15px;
+}
+.name-number-cards article > strong {
+  font: 40px Georgia;
+}
+.name-number-cards p {
+  font-size: 11px;
+}
+.letter-values,
+.name-counts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 20px 0;
+}
+.letter-values > span,
+.name-counts > span {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background: var(--soft);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 10px;
+  min-width: 48px;
+  font-size: 12px;
+  gap: 6px;
+}
+.letter-values small {
+  font-size: 8px;
+}
+.letter-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+}
+.letter-table caption {
+  font-size: 11px;
+  color: var(--muted);
+  text-align: left;
+  margin-bottom: 12px;
+}
+.letter-table td,
+.letter-table th {
+  border: 1px solid var(--border);
+  padding: 12px;
+  font-size: 12px;
+}
+.quarter-cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin: 20px 0;
+}
+.quarter-cards > div {
+  border: 1px solid var(--border);
+  padding: 14px;
+  border-radius: 7px;
+}
+.quarter-cards strong {
+  font-size: 11px;
+}
+.quarter-cards p {
+  font-size: 11px;
+  margin-bottom: 0;
+}
+.quarter-cards .active-quarter {
+  background: var(--soft);
+  border-color: #7a9069;
+}
+.plane-filters {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+.plane-filters button {
+  border: 1px solid var(--border);
+  background: var(--bg);
+  border-radius: 20px;
+  padding: 8px 12px;
+  font-size: 11px;
+}
+.plane-filters [aria-pressed="true"] {
+  background: #2c493c;
+  color: white;
+}
+.birthday-profile small {
+  font-size: 10px;
+  color: var(--muted);
+}
+@media (max-width: 650px) {
+  .personal-two {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+  .name-number-cards {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .letter-table td,
+  .letter-table th {
+    padding: 8px;
+  }
+  .quarter-cards {
+    grid-template-columns: 1fr;
+  }
+}

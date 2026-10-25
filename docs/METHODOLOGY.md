@@ -60,7 +60,7 @@ Není součástí výchozí numerologie. Ukládej a zobraz pouze jako volitelnou
 
 - Narození 29. února má v nepřestupném roce výročí 28. února. Tato stejná konvence platí pro osobní období a kalendářní hranice vrcholů.
 - První vrchol zahrnuje věky 0 až `36 - baseLifePath` včetně. Další začíná na narozeniny ve věku `37 - baseLifePath`. Druhý a třetí mají devět celých věkových roků. Kalendářní `start` je včetně, `until` je první den následujícího období a nezahrnuje se.
-- Ve vrcholech, výzvách, jmenných číslech i osobních cyklech se mistrovská čísla nezachovávají. Volba 11/22/33 ovlivňuje pouze životní číslo; základ je vždy jednociferný.
+- V původních vrcholech Pinnacles, výzvách a osobních cyklech se mistrovská čísla nezachovávají. Samostatná jmenná čísla nově mají vlastní volbu 11/22 a karmické trojúhelníky zachovávají 11 ve třetím a čtvrtém vrcholu. Volba 11/22/33 ovlivňuje pouze životní číslo; základ je vždy jednociferný.
 - Jméno: vyjádření je redukovaný součet všech normalizovaných písmen, duše součet samohlásek, osobnost součet souhlásek. Zralost = `reduce9(expression.baseValue + lifePath.baseValue)`. Bez písmen se jmenný rozbor nevytváří. Výchozí Y je samohláska, přepínač jej může zařadit mezi souhlásky. CH jsou C a H zvlášť. Znaky mimo normalizované A–Z se ignorují.
 - Osobní přehled roku/měsíce/dne používá datum rozboru. U narozeninové varianty používá rok počátku aktivního narozeninového období, pak přičítá kalendářní měsíc a den data rozboru. Samostatná devítiletá a dvanáctiměsíční osa je výslovně kalendářní a centrovaná kolem vybraného roku.
 - Výstup obsahuje surové číslice včetně nul, počty 1–9, chybějící číslice, mezikroky redukce, identifikátory interpretací, aktivní pravidla a zdrojové identifikátory. Vše je serializovatelné do JSON.
@@ -87,3 +87,30 @@ Ve čtvrtém období se řídicí číslo nemění ani po dalších devíti lete
 Výklady vibrací 1–9 a 11 i jejich devíti souběhů s ORV jsou původní redakční syntéza (`editorial_synthesis`). Konkrétní zdrojová stránka je uvedena v `sourceRefs`; znění webu ani jeho deterministické zdravotní, finanční či vztahové předpovědi nepřebíráme. Detail cyklu 9 byl přečten na https://numerologie.najdise.cz/devitileta-vibrace/9. Web připisuje text Robin Steinové, ale bez přímého ověření původní knihy jej neoznačujeme za primárně ověřený zdroj.
 
 Kontrolní stránka `#kontrola` porovnává čtyři pevné příklady v `src/data/checks.cs.json`, včetně příkladu 22.05.2024 dodaného uživatelem. Ověřuje také čtveřici řídicích vibrací a datum prvního vstupu. Pro datum 01.02.1917 jsou očekávání odvozena z uvedených vzorců, nikoli převzata z online kalkulačky. Aplikace při uživatelských výpočtech neodesílá data na Najdise.cz.
+
+## Čtvrtiny ORV
+
+Každé narozeninové období se dělí na `[výročí, +3 měsíce)`, `[+3, +6)`, `[+6, +9)` a `[+9, další výročí)`. Posuny se počítají přímo od posledního výročí, nikdy postupným přičítáním od oříznutého dne. Pokud den v cílovém měsíci neexistuje, použije se jeho poslední kalendářní den. Například 31.01.2026 → 30.04.2026 → 31.07.2026 → 31.10.2026 → 31.01.2027. U výročí 29. února se použije dříve dokumentovaná konvence, tedy 28. únor v nepřestupném roce. Začátek se zahrnuje, konec nikoli.
+
+Tato čtyři období jsou kalendářním členěním; nepočítáme astronomické lunární fáze. Tvrzení, že narozeniny vždy připadají na novoluní a o šest měsíců později na úplněk, není astronomicky správné a aplikace je nepřebírá. Z čtvrtin se nepředpovídá energie, nálada ani události.
+
+Zdrojové příklady: 13.05.1943 k 01.12.2004 → ORV 6, od 13.05.2004 do 13.05.2005. Pro 20.10.1978 k 01.08.2004 se použije rok posledních narozenin 2003 → ORV 8; od 20.10.2004 je 9, od 20.10.2005 je 1.
+
+## Samostatné jméno a příjmení
+
+Nové volitelné pole `surname` se neodvozuje od pole `name`. Dříve uložené celé jméno se automaticky nerozděluje. Po normalizaci české diakritiky se používá A–Z cyklicky 1–9; CH jsou dvě písmena. Volba `yVowel` určuje samohláskovost Y. `nameMasters` (výchozí true) nezávisle zachovává 11/22, nikoli 33. Bez této volby se všechna jmenná čísla redukují na 0–9. Prázdné jméno/příjmení mají u vlastního dílčího čísla null; neinterpretují se jako číslo nula.
+
+- Činné = redukovaný součet písmen jména.
+- Dědičné = redukovaný součet písmen příjmení.
+- Vibrační = redukovaný součet výsledků činného a dědičného čísla.
+- Intimní (duše) = redukovaný součet samohlásek obou polí.
+- Realizace = redukovaný součet souhlásek obou polí.
+- Dosavadní vyjádření počítá součet všech písmen najednou. Při zachování 11/22 se mezikroky i výsledek mohou lišit od vibračního čísla složeného z činného a dědičného; UI oba postupy pojmenovává. Zralost používá redukovaný základ vyjádření a životního čísla.
+
+Petr Veselý: PETR = 7+5+2+9 = 23 → 5; VESELY = 4+5+1+5+3+7 = 25 → 7; vibrační 5+7 = 12 → 3; samohlásky EEEY = 22; souhlásky PTRVSL = 26 → 8. Se zakázaným zachováním 11/22 je intimní 4. Výstup uvádí jednotlivá písmena, jejich hodnoty, četnosti 1–9 a chybějící hodnoty. Do mřížky narození ani standardních cyklů se jmenné hodnoty nepřidávají.
+
+## Den narození a roviny
+
+Samostatné výklady pro původní dny 1–31 jsou v `src/data/birthdays.cs.json`; každý uvádí možnosti, témata k rozvíjení a praktický podnět, s původem `editorial_synthesis`. Názvy témat pocházejí z uživatelem dodaného seznamu Najdise.cz, znění výkladů je vlastní. Redukovaný základ dne zůstává zobrazen zvlášť.
+
+Témata jednotlivých číslic mřížky vycházejí z dodaného přehledu Najdise.cz, samostatně pro výskyty 0/1/2/3/4+. Plná rovina má tři různé přítomné číslice, prázdná žádnou, částečná jednu nebo dvě. Uživatelský filtr nemění výpočet. Pokud nejsou žádné plné ani prázdné roviny, UI to výslovně uvádí. Žádné z těchto zastoupení není diagnózou, měřením inteligence ani nedostatku schopností.
